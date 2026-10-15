@@ -11,8 +11,6 @@
   if(window.claude&&window.claude.use)return;
   const KEY='laoshi_api_key';
   const CLAUDE={quick:'claude-haiku-5-5',default:'claude-sonnet-5-5',complex:'claude-opus-5-5'};
-  const GEMINI_DEFAULT='gemini-2.5-flash';
-  function geminiModel(){try{return localStorage.getItem('laoshi_gemini_model')||GEMINI_DEFAULT}catch(e){return GEMINI_DEFAULT}}
   function getKey(){
     let k='';try{k=localStorage.getItem(KEY)||''}catch(e){}
     if(!k){
@@ -35,13 +33,42 @@
     if(res.status===404)throw {code:'upstream_error',message:'Model not found: '+d};
     throw {code:'upstream_error',message:'HTTP '+res.status+': '+d};
   }
+  // Pick a current free Gemini model for this key once, then remember it. Models get retired,
+  // so the name is looked up instead of hard-coded.
+  async function pickGeminiModel(key,signal,force){
+    let stored='';try{stored=force?'':(localStorage.getItem('laoshi_gemini_model')||'')}catch(e){}
+    if(stored)return stored;
+    const j=await http('https://generativelanguage.googleapis.com/v1beta/models?pageSize=200',{signal,headers:{'x-goog-api-key':key}});
+    const names=(j.models||[]).filter(m=>(m.supportedGenerationMethods||[]).includes('generateContent')).map(m=>String(m.name).replace(/^models\//,''));
+    const score=n=>{
+      if(/image|tts|embed|live|audio|vision|robotics|computer|exp|preview|thinking|gemma|learn/i.test(n))return -1;
+      const m=/^gemini-(\d+(?:\.\d+)?)-flash(-lite)?$/.exec(n);
+      return m?parseFloat(m[1])*10+(m[2]?0:5):0;
+    };
+    names.sort((a,b)=>score(b)-score(a));
+    const pick=names.find(n=>score(n)>0)||names.find(n=>/flash/i.test(n)&&score(n)>=0)||names[0];
+    if(!pick)throw {code:'upstream_error',message:'No Gemini model available for this key'};
+    try{localStorage.setItem('laoshi_gemini_model',pick)}catch(e){}
+    return pick;
+  }
   async function callGemini(key,input,opts,wantJson){
     const turns=typeof input==='string'?[{role:'user',content:input}]:input;
     const contents=turns.map(m=>({role:m.role==='assistant'?'model':'user',parts:[{text:m.content}]}));
     const body={contents,generationConfig:{maxOutputTokens:8192,temperature:0.7}};
     if(wantJson)body.generationConfig.responseMimeType='application/json';
-    const j=await http('https://generativelanguage.googleapis.com/v1beta/models/'+encodeURIComponent(geminiModel())+':generateContent',
-      {method:'POST',signal:opts&&opts.signal,headers:{'content-type':'application/json','x-goog-api-key':key},body:JSON.stringify(body)});
+    const go=async force=>{
+      const model=await pickGeminiModel(key,opts&&opts.signal,force);
+      return http('https://generativelanguage.googleapis.com/v1beta/models/'+encodeURIComponent(model)+':generateContent',
+        {method:'POST',signal:opts&&opts.signal,headers:{'content-type':'application/json','x-goog-api-key':key},body:JSON.stringify(body)});
+    };
+    let j;
+    try{j=await go(false)}
+    catch(e){
+      if(e&&e.code==='upstream_error'&&/Model not found|not supported|NOT_FOUND/i.test(String(e.message))){
+        try{localStorage.removeItem('laoshi_gemini_model')}catch(x){}
+        j=await go(true);
+      }else throw e;
+    }
     const c=(j.candidates||[])[0]||{};
     const text=((c.content&&c.content.parts)||[]).map(p=>p.text||'').join('');
     return {text,truncated:c.finishReason==='MAX_TOKENS'};
