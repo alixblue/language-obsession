@@ -66,13 +66,14 @@
       catch(e){
         if(e&&e.code==='upstream_error'&&retired(e.message)){try{localStorage.removeItem('laoshi_gemini_model')}catch(x){}lastErr=e}
         else if(e&&e.code==='upstream_error'&&busy(e.message)){lastErr=e}
+        else if(e&&e.code==='rate_limited'){lastErr=e}
         else throw e;
       }
     }
     if(!j){
       const cands=await geminiCandidates(key,opts&&opts.signal);
       if(!cands.length)throw {code:'upstream_error',message:'No Gemini text model is available for this key'};
-      let busyCount=0;
+      let busyCount=0,quotaCount=0;
       for(let round=0;round<2&&!j;round++){
         if(round===1){if(!busyCount)break;await nap(3000)}
         const tried=[];
@@ -82,11 +83,16 @@
             tried.push(m);
             if(e&&e.code==='upstream_error'&&retired(e.message)){lastErr=e;continue}
             if(e&&e.code==='upstream_error'&&busy(e.message)){busyCount++;lastErr=e;continue}
+            if(e&&e.code==='rate_limited'){quotaCount++;lastErr=e;continue}
             throw e;
           }
         }
       }
       if(!j){
+        if(quotaCount&&!busyCount){
+          const daily=/PerDay|per day|daily/i.test(String(lastErr&&lastErr.message||''));
+          throw {code:'rate_limited',message:(daily?'The free daily limit is used up. It resets once a day, so try again tomorrow, or use the Claude project chat for this. ':'The free per-minute limit is used up. Wait a minute and try again. ')+'('+String(lastErr&&lastErr.message||'').slice(0,120)+')'};
+        }
         if(busyCount)throw {code:'rate_limited',message:'The free Google models are busy right now. Try again in a minute. ('+(lastErr&&lastErr.message||'')+')'};
         throw {code:'upstream_error',message:'No listed model accepted the request. Last error: '+(lastErr&&lastErr.message||'')};
       }

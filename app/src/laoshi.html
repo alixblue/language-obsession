@@ -1041,8 +1041,12 @@ async function fillPlacementParts(){
       const ok=(Array.isArray(qs)?qs:[]).filter(q=>q&&q.q&&Array.isArray(q.options)&&q.options.length>=2&&Number.isInteger(q.answer)).slice(0,n+2).map(q=>({...q,level:part.l}));
       if(!ok.length)throw {code:'invalid_json'};
       part.qs=ok;part.state='ok';part.err='';
-    }catch(e){part.state='failed';part.err=aiMsg(e)}
+    }catch(e){
+      part.state='failed';part.err=aiMsg(e);
+      if(e&&e.code==='rate_limited'){render();break}   // quota hit: stop instead of burning more requests
+    }
     render();
+    if(part!==p.parts[p.parts.length-1])await new Promise(r=>setTimeout(r,4000));   // keep under the per-minute limit
   }
   if(S.placement!==p)return;
   p.qs=p.parts.flatMap(x=>x.qs||[]);
