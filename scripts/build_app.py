@@ -6,7 +6,8 @@ Reads the vocabulary JSON in languages/*/vocab and the grammar/topic files, inje
 app/src/laoshi.html, wraps the page for standalone use (manifest, service worker, shim) and writes
 app/dist/. Run it after editing any vocab file, then commit.
 """
-import json, re, shutil, pathlib, glob
+import json, re, shutil, pathlib, glob, time
+BUILD = str(int(time.time()))
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SRC = (ROOT / 'app/src/laoshi.html').read_text(encoding='utf8')
@@ -43,11 +44,13 @@ head = ('<!doctype html><html lang="en"><head><meta charset="utf-8">'
         '<link rel="icon" href="icon-192.png"><link rel="apple-touch-icon" href="icon-192.png">'
         '<style>html{color-scheme:light}body{margin:0}[hidden]{display:none!important}'
         ':root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}</style>'
-        '<script src="shim.js"></script></head><body>')
+        '<script src="shim.js?v=' + BUILD + '"></script></head><body>')
 tail = ('<script>if("serviceWorker"in navigator)addEventListener("load",()=>navigator.serviceWorker.register("sw.js").catch(()=>{}))</script>'
         '</body></html>')
 OUT.mkdir(parents=True, exist_ok=True)
 (OUT / 'index.html').write_text(head + page + tail, encoding='utf8')
-for f in ['shim.js', 'sw.js', 'manifest.webmanifest', 'icon-192.png', 'icon-512.png', '.nojekyll']:
+for f in ['shim.js', 'manifest.webmanifest', 'icon-192.png', 'icon-512.png', '.nojekyll']:
     shutil.copy(ROOT / 'app' / f, OUT / f)
+sw = (ROOT / 'app/sw.js').read_text(encoding='utf8').replace("'laoshi-v1'", "'laoshi-" + BUILD + "'")
+(OUT / 'sw.js').write_text(sw, encoding='utf8')
 print('built', OUT / 'index.html', 'zh', len(zh), 'ja', len(ja))

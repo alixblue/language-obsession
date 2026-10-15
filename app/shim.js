@@ -33,41 +33,49 @@
     if(res.status===404)throw {code:'upstream_error',message:'Model not found: '+d};
     throw {code:'upstream_error',message:'HTTP '+res.status+': '+d};
   }
-  // Pick a current free Gemini model for this key once, then remember it. Models get retired,
-  // so the name is looked up instead of hard-coded.
-  async function pickGeminiModel(key,signal,force){
-    let stored='';try{stored=force?'':(localStorage.getItem('laoshi_gemini_model')||'')}catch(e){}
-    if(stored)return stored;
+  // Models get retired (Google may still LIST a model that new users can no longer call), so the
+  // name is never hard-coded: rank the models this key lists, try them in order, and remember
+  // the first that answers.
+  async function geminiCandidates(key,signal){
     const j=await http('https://generativelanguage.googleapis.com/v1beta/models?pageSize=200',{signal,headers:{'x-goog-api-key':key}});
     const names=(j.models||[]).filter(m=>(m.supportedGenerationMethods||[]).includes('generateContent')).map(m=>String(m.name).replace(/^models\//,''));
     const score=n=>{
-      if(/image|tts|embed|live|audio|vision|robotics|computer|exp|preview|thinking|gemma|learn/i.test(n))return -1;
-      const m=/^gemini-(\d+(?:\.\d+)?)-flash(-lite)?$/.exec(n);
-      return m?parseFloat(m[1])*10+(m[2]?0:5):0;
+      if(/image|tts|embed|live|audio|vision|robotics|computer|exp|thinking|gemma|learn|dialog|aqa/i.test(n))return -1;
+      if(n==='gemini-flash-latest')return 1000;
+      if(n==='gemini-flash-lite-latest')return 900;
+      const m=/^gemini-(\d+(?:\.\d+)?)-(flash|pro)(-lite)?(-preview.*)?$/.exec(n);
+      if(!m)return 0;
+      return parseFloat(m[1])*10+(m[2]==='flash'?5:0)+(m[3]?-2:0)+(m[4]?-3:0);
     };
-    names.sort((a,b)=>score(b)-score(a));
-    const pick=names.find(n=>score(n)>0)||names.find(n=>/flash/i.test(n)&&score(n)>=0)||names[0];
-    if(!pick)throw {code:'upstream_error',message:'No Gemini model available for this key'};
-    try{localStorage.setItem('laoshi_gemini_model',pick)}catch(e){}
-    return pick;
+    return names.filter(n=>score(n)>=0).sort((a,b)=>score(b)-score(a)).slice(0,8);
   }
+  const retired=m=>/no longer available|not found|NOT_FOUND|not supported|deprecated|is not available|404/i.test(String(m||''));
   async function callGemini(key,input,opts,wantJson){
     const turns=typeof input==='string'?[{role:'user',content:input}]:input;
     const contents=turns.map(m=>({role:m.role==='assistant'?'model':'user',parts:[{text:m.content}]}));
     const body={contents,generationConfig:{maxOutputTokens:8192,temperature:0.7}};
     if(wantJson)body.generationConfig.responseMimeType='application/json';
-    const go=async force=>{
-      const model=await pickGeminiModel(key,opts&&opts.signal,force);
-      return http('https://generativelanguage.googleapis.com/v1beta/models/'+encodeURIComponent(model)+':generateContent',
-        {method:'POST',signal:opts&&opts.signal,headers:{'content-type':'application/json','x-goog-api-key':key},body:JSON.stringify(body)});
-    };
-    let j;
-    try{j=await go(false)}
-    catch(e){
-      if(e&&e.code==='upstream_error'&&/Model not found|not supported|NOT_FOUND/i.test(String(e.message))){
-        try{localStorage.removeItem('laoshi_gemini_model')}catch(x){}
-        j=await go(true);
-      }else throw e;
+    const send=model=>http('https://generativelanguage.googleapis.com/v1beta/models/'+encodeURIComponent(model)+':generateContent',
+      {method:'POST',signal:opts&&opts.signal,headers:{'content-type':'application/json','x-goog-api-key':key},body:JSON.stringify(body)});
+    let stored='';try{stored=localStorage.getItem('laoshi_gemini_model')||''}catch(e){}
+    let j=null,lastErr=null;
+    if(stored){
+      try{j=await send(stored)}
+      catch(e){if(e&&e.code==='upstream_error'&&retired(e.message)){try{localStorage.removeItem('laoshi_gemini_model')}catch(x){}lastErr=e}else throw e}
+    }
+    if(!j){
+      const cands=await geminiCandidates(key,opts&&opts.signal);
+      if(!cands.length)throw {code:'upstream_error',message:'No Gemini text model is available for this key'};
+      const tried=[];
+      for(const m of cands){
+        try{j=await send(m);try{localStorage.setItem('laoshi_gemini_model',m)}catch(x){}break}
+        catch(e){
+          tried.push(m);
+          if(e&&e.code==='upstream_error'&&retired(e.message)){lastErr=e;continue}
+          throw e;
+        }
+      }
+      if(!j)throw {code:'upstream_error',message:'No listed model accepted the request (tried '+tried.join(', ')+'). Last error: '+(lastErr&&lastErr.message||'')};
     }
     const c=(j.candidates||[])[0]||{};
     const text=((c.content&&c.content.parts)||[]).map(p=>p.text||'').join('');
