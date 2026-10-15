@@ -15,15 +15,20 @@ To build and test locally, run `python scripts/build_app.py` and open `app/dist/
 
 Flashcards with spaced repetition, the "I already know this" button, section progress, the pacing plan, the weekly review numbers, the log, grammar and mock review of questions already generated, text-to-speech, and offline use after the first load.
 
-## AI features need a key
+## AI is optional, and there is a free option
 
-Corrections, example sentences, generated drills, mocks and the tutor chat need an Anthropic API key. The first time you use one of them, the app asks for the key and stores it **only in this browser's local storage**. It is sent only to `api.anthropic.com`.
+Everything except the AI features works with no key at all. If you do not want to spend anything, simply never enter a key (press Cancel when it asks).
 
-- **Never put your key in the repository or in the page.** The GitHub Pages site is public.
-- Anyone who uses your phone browser can use your key. Use a key with a spend limit, and remove it from the browser if you lend the phone: open the browser console and run `claude.forgetKey()`, or clear the site data.
-- Calls are billed to your API account. A full mock is several calls; a card session with examples is one call per six cards.
+The AI features (corrections, example sentences, generated drills, mocks, the tutor chat) use a key you paste once. The key is stored **only in this browser's local storage** and sent only to the provider.
 
-The artifact version inside Claude uses your Claude account instead and needs no key.
+| Key | Provider | Cost |
+|---|---|---|
+| Starts with `AIza` | Google Gemini API | Free tier from Google AI Studio (aistudio.google.com, "Get API key"). No card. Limited requests per minute and per day, and free-tier requests may be used by Google to improve its products. Check the limits shown in AI Studio. |
+| Anything else | Anthropic API | Paid, billed to your account |
+
+- **Free path:** create the Gemini key, paste it when asked. If a call fails with "model not found", Google renamed the model: set `laoshi_gemini_model` in the browser's local storage to a current Flash model name.
+- **No-cost alternative with better quality:** do the AI work in the Claude project chat or the Claude artifact, which use your existing Claude plan, and use the phone app only for cards, progress and backups.
+- **Never put a key in the repository or the page.** The GitHub Pages site is public. Remove the key from a browser with `claude.forgetKey()` in the console or by clearing site data.
 
 ## Where your progress lives
 

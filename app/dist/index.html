@@ -370,7 +370,7 @@ function learnerCtx(){
   const sk=m.prof.skills?' Placement accuracy by skill: '+Object.entries(m.prof.skills).map(([k,v])=>k+' '+v+'%').join(', ')+'.':'';
   return `Learner: ${L().who}. Goal: ${L().goal}. Goal level: ${m.prof.target}. Working level for exercises: ${work()}. Measured level: ${m.prof.level||'not tested yet'}.${sk} Recurring mistake types: ${w}. Words they are still learning: ${learning||'none yet'}.${adaptCtx()}`;
 }
-const AIERR={not_granted:'Claude access was declined for this page. Allow it to use the tutor features.',rate_limited:'Too many requests. Wait a moment, then try again.',invalid_json:'The tutor reply could not be read. Try once more.',upstream_error:'The tutor is unreachable right now. Try again.',cancelled:'Stopped.',unavailable:'AI features are not available in this view.'};
+const AIERR={not_granted:'AI is off: no key was entered, or access was declined. Cards, progress, pacing, the log and backups still work.',rate_limited:'Too many requests. Wait a moment, then try again.',invalid_json:'The tutor reply could not be read. Try once more.',upstream_error:'The tutor is unreachable right now. Try again.',cancelled:'Stopped.',unavailable:'AI features are not available in this view.'};
 async function ai(prompt,o={}){
   if(!sample)throw {code:'unavailable'};
   const opt={modelTier:o.tier||'default',cache:false,signal:o.signal,onText:o.onText};
