@@ -1,4 +1,4 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#0C7A64"><link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="icon-192.png"><link rel="apple-touch-icon" href="icon-192.png"><style>html{color-scheme:light}body{margin:0}[hidden]{display:none!important}:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}</style><script src="shim.js?v=1792059237"></script></head><body><title>Laoshi</title>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#0C7A64"><link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="icon-192.png"><link rel="apple-touch-icon" href="icon-192.png"><style>html{color-scheme:light}body{margin:0}[hidden]{display:none!important}:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}</style><script src="shim.js?v=1792059455"></script></head><body><title>Laoshi</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Noto+Serif+SC:wght@500;700&display=swap" rel="stylesheet">
 <style>
@@ -799,7 +799,7 @@ function vTutor(){
     <p class="small muted">Talks with you at your level, mostly in ${L().en}, corrects as you go, and knows your weak spots (${weak().map(x=>x[0]).join(', ')||'none logged yet'}).</p>
     <div class="chips">${STARTERS.map(s=>`<button class="chip" data-act="starter" data-v="${h(s)}">${h(s)}</button>`).join('')}</div>
     <div class="row" style="margin-top:10px"><button class="btn" data-act="goplace">Placement check (AI)</button><button class="btn" data-act="quickplace">Quick vocabulary check (no AI)</button><button class="btn ghost" data-act="clearchat">Clear chat</button></div>
-  </section>${noAI()}
+  </section>${histCard()}${noAI()}
   <div class="msgs" id="msgs">${S.chat.map((m,i)=>`<div class="msg ${m.role==='user'?'u':'a'}">${h(m.content)}${m.role==='assistant'?`<div><button class="btn small ghost" data-act="say" data-v="${h(m.content.split('\n')[0])}">▶</button></div>`:''}</div>`).join('')||'<p class="muted small">Pick a starter or write below.</p>'}</div>
   <div class="card"><textarea id="chatin" style="min-height:70px" placeholder="Write in ${L().en}, or ask in English…">${h(S.chatDraft||'')}</textarea>
     <div class="row" style="margin-top:8px"><button class="btn primary" data-act="send" ${busy('chat')||!S.aiOK?'disabled':''}>${busy('chat')?spin('Replying…'):'Send'}</button>
@@ -841,19 +841,25 @@ function subQuickPlace(){
   m.prof.level=level;
   p.result={level,by,marked};
   saveMain();saveSrs(p.items.map(i=>i.w));
+  pushHist({mode:'quick',level,pct:Math.round(p.items.filter((it,i)=>p.ans[i]===1).length/p.items.length*100)});
   addLog({type:'placement',level,score:p.items.filter((it,i)=>p.ans[i]===1).length,of:p.items.length,summary:'Quick vocabulary check: '+level+' ('+by.map(b=>b.l+' '+b.pct+'%').join(', ')+')'});
 }
 function vPlacement(){
   const p=S.placement;
   if(p.quick)return vQuickPlace();
-  if(p.loading)return `<section class="card" style="text-align:center;padding:32px"><div class="spin"></div><p>Building your placement check…</p></section>`;
+  if(p.loading||p.needRetry){
+    const parts=(p.parts||[]).map(x=>`<div class="row between small" style="margin-block:6px"><span>${h(x.l)}</span><span class="muted">${x.state==='ok'?'✓ ready':x.state==='run'?spin('writing…'):x.state==='failed'?'✗ '+h((x.err||'failed').slice(0,60)):'waiting'}</span></div>`).join('');
+    return `<section class="card"><h3>Placement check</h3><p class="small muted">The questions are written in small parts, so a busy moment only affects one part.</p>${parts}
+      ${p.needRetry?`<p class="small">Too few questions were written to place you. Nothing is lost: the parts that worked are kept.</p><div class="row"><button class="btn primary" data-act="retryplace">Retry the missing parts</button><button class="btn ghost" data-act="doneplace">Cancel</button></div>`:''}</section>`}
   if(p.result){const r=p.result;
     return `<section class="card"><h3>Estimated level: ${h(r.level)}</h3><p>${p.score}/${p.qs.length} correct.${r.readLevel&&r.readLevel!==r.level?` Reading holds up to about <b>${h(r.readLevel)}</b>, so reading passages will run a level higher than listening and cards.`:''}</p>
       <h2>By level</h2>${r.by.map(b=>`<div class="sk"><span>${h(b.l)}</span><div class="prog"><i style="width:${b.pct}%"></i></div><span class="n">${b.pct}%</span></div>`).join('')}
       <h2 style="margin-top:12px">By skill</h2>${Object.entries(r.skills||{}).map(([k,v])=>`<div class="sk"><span>${h(k)}</span><div class="prog"><i style="width:${v}%"></i></div><span class="n">${v}%</span></div>`).join('')}
       <p class="small muted">This covers vocabulary, grammar and reading only. Do one writing and one speaking task in Practice for a full picture.</p>
       <button class="btn primary" data-act="doneplace">Done</button></section>`}
+  const missing=(p.parts||[]).filter(x=>x.state!=='ok');
   return `<section class="card"><div class="row between"><h3>Placement check</h3><button class="btn ghost" data-act="doneplace">Cancel</button></div>
+    ${missing.length?`<p class="small muted">Not written (busy): ${missing.map(x=>h(x.l)).join(', ')}. Your result will only cover the levels shown. <button class="btn small" data-act="retryplace">Retry missing parts</button></p>`:''}
     ${p.qs.map((q,qi)=>`<div style="margin-top:14px"><b>${qi+1}. ${h(q.q)}</b>${q.audio?`<div style="margin-top:6px"><button class="btn small" data-act="say" data-v="${h(q.audio)}">▶ Listen</button> <button class="btn small ghost" data-act="slow" data-v="${h(q.audio)}">▶ Slow</button></div>`:''}${q.options.map((o,oi)=>`<button class="opt" data-act="pickp" data-q="${qi}" data-v="${oi}" aria-pressed="${p.ans[qi]===oi}">${h(o)}</button>`).join('')}</div>`).join('')}
     <button class="btn primary" style="margin-top:16px" data-act="subplace" ${Object.keys(p.ans).length<p.qs.length?'disabled':''}>See my level</button></section>`;
 }
@@ -1017,14 +1023,46 @@ Rules: reply mostly in simple natural everyday ${L().en} at my level; add a shor
   S.busy.chat=false;M().chat=S.chat.slice(-24);saveMain();render();
 }
 async function genPlacement(){
-  S.placement={loading:true};render();
-  try{
-    const lv=L().placeLevels;
-    const qs=await ai(`Create a 14-question placement quiz for ${L().en} learners, multiple choice with 4 options, ordered easy to hard. Use these levels in this order, 2-3 questions each: ${lv.join(', ')}. Each question has a "skill": one of vocab, grammar, conjugation, reading, listening. Include at least 3 listening items: put the sentence or short exchange to be spoken aloud in "audio" (the learner hears it but does not see it) and make "q" a short question about what was heard that does not repeat the audio text. Include 2 items on conjugation or grammar exceptions where the language has them. Questions in ${L().en} (short English hints allowed). Return ONLY a JSON array of {"q": string, "options": [4 strings], "answer": 0-3, "level": one of ${lv.join('|')}, "skill": string, "audio": optional string}.`,{tier:'default'});
-    if(!Array.isArray(qs)||qs.length<6)throw {code:'invalid_json'};
-    S.placement={qs:qs.slice(0,15),ans:{}};
-  }catch(e){S.placement=null;toast(aiMsg(e))}
+  const lv=L().placeLevels;
+  S.placement={loading:true,parts:lv.map(l=>({l,state:'wait'})),qs:[],ans:{}};
   render();
+  await fillPlacementParts();
+}
+async function fillPlacementParts(){
+  const p=S.placement;if(!p)return;
+  p.loading=true;p.needRetry=false;render();
+  const ja=S.lang==='ja',n=ja?4:5;
+  for(const part of p.parts){
+    if(part.state==='ok')continue;
+    if(S.placement!==p)return;
+    part.state='run';render();
+    try{
+      const qs=await ai(`Create ${n} multiple-choice ${L().en} placement questions, all at exactly level ${part.l}, with 4 options each and one correct answer. Mix skills: vocabulary in context, grammar${ja?', conjugation or a grammar exception':''}, one short reading item, and exactly one listening item where "audio" holds the spoken sentence (the learner hears it but does not see it) and "q" asks about what was heard without repeating it. Natural everyday language. Return ONLY a JSON array of {"q": string,"options":[4 strings],"answer": 0-3,"skill": one of vocab|grammar|conjugation|reading|listening,"audio": optional string}.`,{tier:'default'});
+      const ok=(Array.isArray(qs)?qs:[]).filter(q=>q&&q.q&&Array.isArray(q.options)&&q.options.length>=2&&Number.isInteger(q.answer)).slice(0,n+2).map(q=>({...q,level:part.l}));
+      if(!ok.length)throw {code:'invalid_json'};
+      part.qs=ok;part.state='ok';part.err='';
+    }catch(e){part.state='failed';part.err=aiMsg(e)}
+    render();
+  }
+  if(S.placement!==p)return;
+  p.qs=p.parts.flatMap(x=>x.qs||[]);
+  p.loading=false;
+  p.needRetry=p.qs.length<6;
+  render();
+}
+function pushHist(e){
+  const pr=M().prof;pr.placeHist=pr.placeHist||[];
+  pr.placeHist.push({t:Date.now(),...e});
+  pr.placeHist=pr.placeHist.slice(-40);
+}
+function histCard(){
+  const hs=(M().prof.placeHist||[]).slice().reverse();
+  if(!hs.length)return `<section class="card"><h2>Level history</h2><p class="small muted">Each placement check is saved here with its date, so you can see your level move. Repeat one every few weeks.</p></section>`;
+  const order=l=>{const lv=L().placeLevels,i=lv.indexOf(l);return i<0?-1:i};
+  return `<section class="card"><h2>Level history</h2>${hs.slice(0,8).map((e,i)=>{
+    const prev=hs.slice(i+1).find(x=>x.mode===e.mode);
+    let d='';if(prev){const a=order(e.level),b=order(prev.level);d=a>b?' <span class="ok">▲ up from '+h(prev.level)+'</span>':a<b?' <span style="color:var(--bad)">▼ down from '+h(prev.level)+'</span>':(e.pct>prev.pct?' <span class="ok">▲ '+(e.pct-prev.pct)+' points</span>':e.pct<prev.pct?' <span class="muted">▼ '+(prev.pct-e.pct)+' points</span>':' <span class="muted">= same</span>')}
+    return `<div class="row between small" style="margin-block:8px"><span>${new Date(e.t).toLocaleDateString([], {dateStyle:'medium'})} · ${e.mode==='quick'?'vocabulary check':'full check'}</span><span><b>${h(e.level)}</b> · ${e.pct}%${d}</span></div>`}).join('')}</section>`;
 }
 function subPlacement(){
   const p=S.placement,lv=L().placeLevels,ja=S.lang==='ja';
@@ -1041,6 +1079,7 @@ function subPlacement(){
   p.result={level,by,skills,readLevel};p.score=score;
   const pr=M().prof;pr.level=level;pr.skills=skills;pr.readLevel=readLevel;
   saveMain();
+  pushHist({mode:'ai',level,pct:Math.round(score/p.qs.length*100),skills});
   addLog({type:'placement',level,score,of:p.qs.length,summary:`Estimated ${level}${readLevel&&readLevel!==level?' (reading about '+readLevel+')':''}: ${score}/${p.qs.length}. `+by.map(b=>b.l+' '+b.pct+'%').join(', ')+'. Skills: '+Object.entries(skills).map(([k,v])=>k+' '+v+'%').join(', ')});
 }
 function importWords(){
@@ -1417,6 +1456,7 @@ document.addEventListener('click',e=>{
     case 'endses':S.ses=null;render();break;
     case 'reveal':S.ses.reveal=true;render();break;
     case 'know':knowCard();break;
+    case 'retryplace':fillPlacementParts();break;
     case 'quickplace':S.tab='tutor';startQuickPlace();render();break;
     case 'qpick':{S.placement.ans[+t.dataset.i]=+v;render();break}
     case 'subquick':subQuickPlace();render();break;
