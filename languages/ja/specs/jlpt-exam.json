@@ -1,5 +1,5 @@
 {
- "source": "Modelled on the official JLPT layout; counts and timings approximate. Pass marks: N5 80, N4 90, N3 95, N2 90, N1 100 out of 180, each section also has a minimum.",
+ "source": "Modelled on the official JLPT layout; counts and timings approximate. Pass marks: N5 80, N4 90, N3 95, N2 90, N1 100 out of 180, each section also has a minimum. Vocabulary/grammar counts for N1, N2, N3 and the N4 vocabulary total were checked against the learner's practice books on 2026-10-15; reading, listening, timings and pass marks were not.",
  "levels": {
   "N4": {
    "vocab_kanji": {
