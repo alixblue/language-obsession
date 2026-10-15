@@ -25,12 +25,14 @@
   const isGemini=k=>/^AIza/.test(k);
   async function http(url,init){
     let res;
-    try{res=await fetch(url,init)}catch(e){throw {code:(e&&e.name==='AbortError')?'cancelled':'upstream_error',message:String(e)}}
-    if(res.status===401||res.status===403){try{localStorage.removeItem(KEY)}catch(e){}throw {code:'not_granted',message:'API key rejected'}}
-    if(res.status===429)throw {code:'rate_limited',message:'Rate limited (free tiers allow only a few requests per minute and per day)'};
-    if(res.status===404)throw {code:'upstream_error',message:'Model not found. Set localStorage laoshi_gemini_model to a current model name.'};
-    if(!res.ok)throw {code:'upstream_error',message:'HTTP '+res.status};
-    return res.json();
+    try{res=await fetch(url,init)}catch(e){throw {code:(e&&e.name==='AbortError')?'cancelled':'upstream_error',message:'Network error: '+String(e&&e.message||e)}}
+    if(res.ok)return res.json();
+    let d='';try{const j=await res.json();d=(j&&j.error&&(j.error.message||j.error.status))||JSON.stringify(j).slice(0,200)}catch(e){}
+    const bad=res.status===401||res.status===403||(res.status===400&&/api key|API_KEY/i.test(d));
+    if(bad){try{localStorage.removeItem(KEY)}catch(e){}throw {code:'not_granted',message:'Key rejected ('+res.status+'): '+d}}
+    if(res.status===429)throw {code:'rate_limited',message:'Rate limited: '+d};
+    if(res.status===404)throw {code:'upstream_error',message:'Model not found: '+d};
+    throw {code:'upstream_error',message:'HTTP '+res.status+': '+d};
   }
   async function callGemini(key,input,opts,wantJson){
     const turns=typeof input==='string'?[{role:'user',content:input}]:input;

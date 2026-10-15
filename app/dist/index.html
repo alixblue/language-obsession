@@ -370,6 +370,7 @@ function learnerCtx(){
   const sk=m.prof.skills?' Placement accuracy by skill: '+Object.entries(m.prof.skills).map(([k,v])=>k+' '+v+'%').join(', ')+'.':'';
   return `Learner: ${L().who}. Goal: ${L().goal}. Goal level: ${m.prof.target}. Working level for exercises: ${work()}. Measured level: ${m.prof.level||'not tested yet'}.${sk} Recurring mistake types: ${w}. Words they are still learning: ${learning||'none yet'}.${adaptCtx()}`;
 }
+const aiMsg=e=>(AIERR[e&&e.code]||'Something went wrong. Try again.')+(e&&e.message&&e.code!=='unavailable'?' ('+String(e.message).slice(0,160)+')':'');
 const AIERR={not_granted:'AI is off: no key was entered, or access was declined. Cards, progress, pacing, the log and backups still work.',rate_limited:'Too many requests. Wait a moment, then try again.',invalid_json:'The tutor reply could not be read. Try once more.',upstream_error:'The tutor is unreachable right now. Try again.',cancelled:'Stopped.',unavailable:'AI features are not available in this view.'};
 async function ai(prompt,o={}){
   if(!sample)throw {code:'unavailable'};
@@ -379,7 +380,7 @@ async function ai(prompt,o={}){
 }
 async function guard(key,fn){
   if(S.busy[key])return;S.busy[key]=true;render();
-  try{await fn()}catch(e){if(e&&e.code!=='cancelled')toast(AIERR[e&&e.code]||'Something went wrong. Try again.');}
+  try{await fn()}catch(e){if(e&&e.code!=='cancelled')toast(aiMsg(e));}
   S.busy[key]=false;render();
 }
 const busy=k=>S.busy[k];
@@ -968,7 +969,7 @@ Rules: reply mostly in simple natural everyday ${L().en} at my level; add a shor
   try{
     const r=await sample(turns,{cache:false,modelTier:'default',onText:({text:t})=>{S.chat[idx].content=t;const el=document.querySelectorAll('#msgs .msg.a');if(el.length)el[el.length-1].firstChild.textContent=t}});
     S.chat[idx].content=r.text;
-  }catch(e){S.chat.pop();S.chat.pop();S.chatDraft=text;toast(AIERR[e&&e.code]||'The tutor could not reply.')}
+  }catch(e){S.chat.pop();S.chat.pop();S.chatDraft=text;toast(aiMsg(e))}
   S.busy.chat=false;M().chat=S.chat.slice(-24);saveMain();render();
 }
 async function genPlacement(){
@@ -978,7 +979,7 @@ async function genPlacement(){
     const qs=await ai(`Create a 14-question placement quiz for ${L().en} learners, multiple choice with 4 options, ordered easy to hard. Use these levels in this order, 2-3 questions each: ${lv.join(', ')}. Each question has a "skill": one of vocab, grammar, conjugation, reading, listening. Include at least 3 listening items: put the sentence or short exchange to be spoken aloud in "audio" (the learner hears it but does not see it) and make "q" a short question about what was heard that does not repeat the audio text. Include 2 items on conjugation or grammar exceptions where the language has them. Questions in ${L().en} (short English hints allowed). Return ONLY a JSON array of {"q": string, "options": [4 strings], "answer": 0-3, "level": one of ${lv.join('|')}, "skill": string, "audio": optional string}.`,{tier:'default'});
     if(!Array.isArray(qs)||qs.length<6)throw {code:'invalid_json'};
     S.placement={qs:qs.slice(0,15),ans:{}};
-  }catch(e){S.placement=null;toast(AIERR[e&&e.code]||'Could not build the quiz.')}
+  }catch(e){S.placement=null;toast(aiMsg(e))}
   render();
 }
 function subPlacement(){
@@ -1322,7 +1323,7 @@ async function mkGrade(){
     try{
       const r=await ai(`You are an HSK examiner marking a mock exam (${m.level}, new HSK). Mark each item strictly but fairly against the official standard for this level. For translation items (type translation) judge accuracy, completeness and natural Chinese. An empty answer scores 0; a writing answer below its minimum length loses marks. For retell items, check how completely and accurately the source was retold. Explanations in plain English. Items: ${JSON.stringify(aiItems)}\nReturn ONLY JSON {"items":[{"id": same id,"score": 0-10,"verdict": one sentence,"corrected": corrected answer,"natural": more natural everyday version,"errors":[{"orig","fix","cat": one of ${ERRCATS},"why"}],"focus": one thing to improve}]}.`,{tier:'default'});
       for(const x of (r&&r.items)||[])graded[x.id]=x;
-    }catch(e){toast(AIERR[e&&e.code]||'Marking failed for writing and speaking.')}
+    }catch(e){toast(aiMsg(e))}
   }
   const wr=aiItems.filter(x=>x.kind==='writing').map(x=>({...x,res:graded[x.id]||null}));
   for(const [key,pre] of [['writing','w'],['translation','t']]){const it=wr.filter(x=>x.id[0]===pre);if(it.length){const sc=it.map(x=>x.res?+x.res.score||0:0);res[key]={pct:Math.round(sc.reduce((a,b)=>a+b,0)/sc.length*10),items:it}}}
