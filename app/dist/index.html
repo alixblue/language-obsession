@@ -1,4 +1,4 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#0C7A64"><link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="icon-192.png"><link rel="apple-touch-icon" href="icon-192.png"><style>html{color-scheme:light}body{margin:0}[hidden]{display:none!important}:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}</style><script src="shim.js?v=1792056562"></script></head><body><title>Laoshi</title>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#0C7A64"><link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="icon-192.png"><link rel="apple-touch-icon" href="icon-192.png"><style>html{color-scheme:light}body{margin:0}[hidden]{display:none!important}:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}</style><script src="shim.js?v=1792059237"></script></head><body><title>Laoshi</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Noto+Serif+SC:wght@500;700&display=swap" rel="stylesheet">
 <style>
@@ -798,15 +798,54 @@ function vTutor(){
   <section class="card"><h2>Your tutor</h2>
     <p class="small muted">Talks with you at your level, mostly in ${L().en}, corrects as you go, and knows your weak spots (${weak().map(x=>x[0]).join(', ')||'none logged yet'}).</p>
     <div class="chips">${STARTERS.map(s=>`<button class="chip" data-act="starter" data-v="${h(s)}">${h(s)}</button>`).join('')}</div>
-    <div class="row" style="margin-top:10px"><button class="btn" data-act="goplace">Placement check</button><button class="btn ghost" data-act="clearchat">Clear chat</button></div>
+    <div class="row" style="margin-top:10px"><button class="btn" data-act="goplace">Placement check (AI)</button><button class="btn" data-act="quickplace">Quick vocabulary check (no AI)</button><button class="btn ghost" data-act="clearchat">Clear chat</button></div>
   </section>${noAI()}
   <div class="msgs" id="msgs">${S.chat.map((m,i)=>`<div class="msg ${m.role==='user'?'u':'a'}">${h(m.content)}${m.role==='assistant'?`<div><button class="btn small ghost" data-act="say" data-v="${h(m.content.split('\n')[0])}">▶</button></div>`:''}</div>`).join('')||'<p class="muted small">Pick a starter or write below.</p>'}</div>
   <div class="card"><textarea id="chatin" style="min-height:70px" placeholder="Write in ${L().en}, or ask in English…">${h(S.chatDraft||'')}</textarea>
     <div class="row" style="margin-top:8px"><button class="btn primary" data-act="send" ${busy('chat')||!S.aiOK?'disabled':''}>${busy('chat')?spin('Replying…'):'Send'}</button>
     <button class="btn ${rec?'primary':''}" data-act="${rec?'stoprec':'recchat'}">${rec?'■ Stop':'● Speak'}</button></div></div>`;
 }
+/* ---- QUICK PLACEMENT (no AI) ---- */
+function startQuickPlace(){
+  const m=M(),num=l=>{const x=/(\d)/.exec(l||'');return x?+x[1]:9},dif=l=>S.lang==='ja'?6-num(l):num(l);
+  const levels=[...new Set(allWords().map(w=>w.l))].sort((a,b)=>dif(a)-dif(b));
+  const items=[];
+  for(const l of levels){
+    const pool=allWords().filter(w=>w.l===l&&!(m.srs[w.w]&&m.srs[w.w][0]>=3));
+    for(let i=pool.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[pool[i],pool[j]]=[pool[j],pool[i]]}
+    pool.slice(0,6).forEach(w=>items.push({w:w.w,p:w.p,l}));
+  }
+  S.placement={quick:true,items,ans:{}};
+}
+function vQuickPlace(){
+  const p=S.placement;
+  if(p.result){const r=p.result;
+    return `<section class="card"><h3>Estimated vocabulary level: ${h(r.level)}</h3>
+      ${r.by.map(b=>`<div class="sk"><span>${h(b.l)}</span><div class="prog"><i style="width:${b.pct}%"></i></div><span class="n">${b.pct}%</span></div>`).join('')}
+      <p class="small muted">${r.marked} words you knew were moved to a long interval so they will not waste your reviews. This measures vocabulary only. For grammar, listening and reading, use the AI placement or the Practice tabs.</p>
+      <button class="btn primary" data-act="doneplace">Done</button></section>`}
+  const left=p.items.length-Object.keys(p.ans).length;
+  return `<section class="card"><div class="row between"><h3>Quick vocabulary check</h3><button class="btn ghost" data-act="doneplace">Cancel</button></div>
+    <p class="small muted">No AI needed. For each word, tap <b>I know it</b> only if you could give its meaning right now. Be strict: a wrong "know" makes your level look higher than it is.</p>
+    ${p.items.map((it,i)=>`<div class="row between" style="margin-block:8px;padding:8px 0;border-top:1px solid var(--line)"><span class="han" style="font-size:22px">${h(it.w)}</span>
+      <span class="row"><button class="btn small" style="${p.ans[i]===1?'border-color:var(--good);background:var(--accent-soft)':''}" data-act="qpick" data-i="${i}" data-v="1">I know it</button>
+      <button class="btn small" style="${p.ans[i]===0?'border-color:var(--bad)':''}" data-act="qpick" data-i="${i}" data-v="0">Not sure</button></span></div>`).join('')}
+    <button class="btn primary" style="margin-top:14px" data-act="subquick" ${left?'disabled':''}>${left?left+' left':'See my level'}</button></section>`;
+}
+function subQuickPlace(){
+  const p=S.placement,m=M(),levels=[...new Set(p.items.map(i=>i.l))];
+  const by=levels.map(l=>{const a=p.items.map((it,i)=>[it,i]).filter(x=>x[0].l===l);const k=a.filter(x=>p.ans[x[1]]===1).length;return {l,pct:Math.round(k/a.length*100)}});
+  let level=levels[0];for(const b of by){if(b.pct>=60)level=b.l;else break}
+  let marked=0;
+  p.items.forEach((it,i)=>{if(p.ans[i]===1){const s=m.srs[it.w]||[0,0,0,0];if(s[0]<4){s[0]=4;s[1]=TODAY()+14;s[2]++;m.srs[it.w]=s;marked++}}});
+  m.prof.level=level;
+  p.result={level,by,marked};
+  saveMain();saveSrs(p.items.map(i=>i.w));
+  addLog({type:'placement',level,score:p.items.filter((it,i)=>p.ans[i]===1).length,of:p.items.length,summary:'Quick vocabulary check: '+level+' ('+by.map(b=>b.l+' '+b.pct+'%').join(', ')+')'});
+}
 function vPlacement(){
   const p=S.placement;
+  if(p.quick)return vQuickPlace();
   if(p.loading)return `<section class="card" style="text-align:center;padding:32px"><div class="spin"></div><p>Building your placement check…</p></section>`;
   if(p.result){const r=p.result;
     return `<section class="card"><h3>Estimated level: ${h(r.level)}</h3><p>${p.score}/${p.qs.length} correct.${r.readLevel&&r.readLevel!==r.level?` Reading holds up to about <b>${h(r.readLevel)}</b>, so reading passages will run a level higher than listening and cards.`:''}</p>
@@ -1378,6 +1417,9 @@ document.addEventListener('click',e=>{
     case 'endses':S.ses=null;render();break;
     case 'reveal':S.ses.reveal=true;render();break;
     case 'know':knowCard();break;
+    case 'quickplace':S.tab='tutor';startQuickPlace();render();break;
+    case 'qpick':{S.placement.ans[+t.dataset.i]=+v;render();break}
+    case 'subquick':subQuickPlace();render();break;
     case 'savekey':{const el=$('#aikey'),k=(el&&el.value||'').trim();if(!k){toast('Paste a key first.');break}try{localStorage.setItem('laoshi_api_key',k);toast('Key saved. Press Test key to check it.')}catch(e){toast('This browser would not save the key.')}render();break}
     case 'clearkey':try{localStorage.removeItem('laoshi_api_key')}catch(e){}toast('Key removed.');render();break;
     case 'testkey':guard('testkey',async()=>{const r=await ai('Reply with the single word OK.',{text:true,tier:'quick'});toast('Key works. Reply: '+String(r.text).slice(0,40))});break;
