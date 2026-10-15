@@ -23,8 +23,8 @@ The AI features (corrections, example sentences, generated drills, mocks, the tu
 
 | Key | Provider | Cost |
 |---|---|---|
-| Starts with `AIza` | Google Gemini API | Free tier from Google AI Studio (aistudio.google.com, "Get API key"). No card. Limited requests per minute and per day, and free-tier requests may be used by Google to improve its products. Check the limits shown in AI Studio. |
-| Anything else | Anthropic API | Paid, billed to your account |
+| Any key that does not start with `sk-ant-` (Google keys usually start with `AIza`) | Google Gemini API | Free tier from Google AI Studio (aistudio.google.com, "Get API key"). No card. Limited requests per minute and per day, and free-tier requests may be used by Google to improve its products. Check the limits shown in AI Studio. |
+| Starts with `sk-ant-` | Anthropic API | Paid, billed to your account |
 
 - **Free path:** create the Gemini key, paste it when asked. If a call fails with "model not found", Google renamed the model: set `laoshi_gemini_model` in the browser's local storage to a current Flash model name.
 - **No-cost alternative with better quality:** do the AI work in the Claude project chat or the Claude artifact, which use your existing Claude plan, and use the phone app only for cards, progress and backups.

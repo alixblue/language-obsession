@@ -2,8 +2,8 @@
    so the same single file runs as a normal website / phone app.
    AI is OPTIONAL. Without a key, cards, progress, pacing, the log and backups all work.
    - claude.use('sample')    -> uses YOUR key, kept in this browser only. Two providers, chosen by the key:
-        key starting "AIza"   -> Google Gemini API (has a free tier, no card needed)
-        any other key         -> Anthropic API (paid)
+        key starting "sk-ant-" -> Anthropic API (paid)
+        any other key         -> Google Gemini API (has a free tier, no card needed)
    - claude.use('downloads') -> saves a file through a normal browser download
    - claude.use('db'|'user') -> null, so the app stores everything in this browser (localStorage)
 */
@@ -22,7 +22,8 @@
     }
     return k.trim();
   }
-  const isGemini=k=>/^AIza/.test(k);
+  // Anthropic keys start with sk-ant-. Anything else is treated as a Google (Gemini) key, whatever its format.
+  const isGemini=k=>!/^sk-ant-/i.test(k);
   async function http(url,init){
     let res;
     try{res=await fetch(url,init)}catch(e){throw {code:(e&&e.name==='AbortError')?'cancelled':'upstream_error',message:'Network error: '+String(e&&e.message||e)}}
