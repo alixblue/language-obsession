@@ -515,6 +515,11 @@ function vToday(){
     <p class="small muted" style="margin-top:8px">${m.prof.lastBackup?'Last backup: '+h(m.prof.lastBackup):'No backup made yet.'}</p>
     ${S.restore?`<div class="card" style="border-color:var(--warn)"><b>Replace this device's progress?</b><p class="small">${h(restoreSummary(S.restore.b))}</p><div class="row"><button class="btn primary small" data-act="dorestore">Replace my progress</button><button class="btn ghost small" data-act="cancelrestore">Cancel</button></div></div>`:''}
   </section>
+  ${(typeof claude!=='undefined'&&claude&&claude.forgetKey)?`<section class="card"><h2>AI key (optional)</h2>
+    <p class="small muted">Free option: get a key at aistudio.google.com (Get API key, no card). It starts with AIza. It is stored only in this browser. Without a key everything except AI features still works.</p>
+    <input type="password" id="aikey" autocomplete="off" placeholder="${(()=>{try{return localStorage.getItem('laoshi_api_key')?'A key is saved. Paste a new one to replace it.':'Paste your key here'}catch(e){return 'Paste your key here'}})()}">
+    <div class="row" style="margin-top:8px"><button class="btn primary small" data-act="savekey">Save key</button><button class="btn small" data-act="testkey" ${busy('testkey')?'disabled':''}>${busy('testkey')?spin('Testing…'):'Test key'}</button><button class="btn ghost small" data-act="clearkey">Remove key</button></div>
+  </section>`:''}
   <section class="card"><h2>Settings</h2>
     <div class="grid" style="grid-template-columns:repeat(auto-fit,minmax(160px,1fr))">
       <label class="small muted">Target level<select id="s-target" data-chg="target">${L().target.map(t=>`<option ${t===m.prof.target?'selected':''}>${h(t)}</option>`).join('')}</select></label>
@@ -1373,6 +1378,9 @@ document.addEventListener('click',e=>{
     case 'endses':S.ses=null;render();break;
     case 'reveal':S.ses.reveal=true;render();break;
     case 'know':knowCard();break;
+    case 'savekey':{const el=$('#aikey'),k=(el&&el.value||'').trim();if(!k){toast('Paste a key first.');break}try{localStorage.setItem('laoshi_api_key',k);toast('Key saved. Press Test key to check it.')}catch(e){toast('This browser would not save the key.')}render();break}
+    case 'clearkey':try{localStorage.removeItem('laoshi_api_key')}catch(e){}toast('Key removed.');render();break;
+    case 'testkey':guard('testkey',async()=>{const r=await ai('Reply with the single word OK.',{text:true,tier:'quick'});toast('Key works. Reply: '+String(r.text).slice(0,40))});break;
     case 'backup':doBackup();break;
     case 'dorestore':applyRestore();break;
     case 'cancelrestore':S.restore=null;render();break;
