@@ -1,0 +1,35 @@
+{
+ "learner": {
+  "native": "English",
+  "notes": "Typed pinyin; strong on reading; speaking and writing are the weak output skills."
+ },
+ "zh": {
+  "goal": "HSK 6",
+  "test_date": "2027-02-28",
+  "measured_level": null,
+  "skills": {
+   "listening": null,
+   "reading": null,
+   "writing": null,
+   "speaking": null
+  },
+  "weak_tags": [],
+  "lapsed_words": []
+ },
+ "ja": {
+  "goal": "N3",
+  "test_date": "2027-02-28",
+  "start_level": "N5",
+  "measured_level": null,
+  "skills": {
+   "vocab": null,
+   "grammar": null,
+   "reading": null,
+   "listening": null,
+   "speaking": null
+  },
+  "weak_tags": [],
+  "lapsed_words": []
+ },
+ "updated": null
+}

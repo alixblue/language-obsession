@@ -1,0 +1,6059 @@
+[
+ {
+  "w": "地震",
+  "p": "じしん",
+  "m": "earthquake",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "形",
+  "p": "かたち",
+  "m": "form; shape; figure",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "為",
+  "p": "ため",
+  "m": "good; advantage; benefit",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "行う",
+  "p": "おこなう",
+  "m": "to perform; to do; to conduct oneself",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "区",
+  "p": "く",
+  "m": "ward; district; section",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "経済",
+  "p": "けいざい",
+  "m": "economics; business; finance",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "政治",
+  "p": "せいじ",
+  "m": "politics; government",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "思う",
+  "p": "おもう",
+  "m": "to think; to consider; to believe",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "間",
+  "p": "あいだ",
+  "m": "space (between); gap; interval",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "会議",
+  "p": "かいぎ",
+  "m": "meeting; conference; session",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "世界",
+  "p": "せかい",
+  "m": "the world; society; the universe",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "関係",
+  "p": "かんけい",
+  "m": "relation; relationship; connection",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "国際",
+  "p": "こくさい",
+  "m": "international",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "受ける",
+  "p": "うける",
+  "m": "to receive; to get",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "考える",
+  "p": "かんがえる",
+  "m": "to consider; to think about",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "女性",
+  "p": "じょせい",
+  "m": "woman; female",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "以上",
+  "p": "いじょう",
+  "m": "not less than; ... and more; ... and upwards",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "必要",
+  "p": "ひつよう",
+  "m": "necessary; needed; essential",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "子",
+  "p": "こ",
+  "m": "child",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "力",
+  "p": "ちから",
+  "m": "force; strength; might",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "内",
+  "p": "うち",
+  "m": "inside; within",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "時代",
+  "p": "じだい",
+  "m": "period; epoch; era",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "社会",
+  "p": "しゃかい",
+  "m": "society; public",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "場合",
+  "p": "ばあい",
+  "m": "case; situation",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "決める",
+  "p": "きめる",
+  "m": "to decide; to choose; to determine",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "続く",
+  "p": "つづく",
+  "m": "to continue; to last; to go on",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "生活",
+  "p": "せいかつ",
+  "m": "living; life (one's daily existence); livelihood",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "社長",
+  "p": "しゃちょう",
+  "m": "company president; manager; director",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "続ける",
+  "p": "つづける",
+  "m": "to continue; to keep up; to keep on",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "仕舞う",
+  "p": "しまう",
+  "m": "to finish; to close; to do something completely",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "予定",
+  "p": "よてい",
+  "m": "plans; arrangement; schedule",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "始める",
+  "p": "はじめる",
+  "m": "to start; to begin; to commence",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "計画",
+  "p": "けいかく",
+  "m": "plan; project; schedule",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "戦争",
+  "p": "せんそう",
+  "m": "war",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "程",
+  "p": "ほど",
+  "m": "degree; extent; bounds",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "亜細亜",
+  "p": "アジア",
+  "m": "Asia (esp. \"the Far East\")",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "式",
+  "p": "しき",
+  "m": "equation; formula; expression",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "研究",
+  "p": "けんきゅう",
+  "m": "study; research; investigation",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "妻",
+  "p": "つま",
+  "m": "wife",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "自由",
+  "p": "じゆう",
+  "m": "freedom; liberty; as it pleases you",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "反対",
+  "p": "はんたい",
+  "m": "opposition; resistance; antagonism",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "呉れる",
+  "p": "くれる",
+  "m": "to give; to let one have; to do for one",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "特別",
+  "p": "とくべつ",
+  "m": "special",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "意見",
+  "p": "いけん",
+  "m": "opinion; view; comment",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "貿易",
+  "p": "ぼうえき",
+  "m": "trade (foreign)",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "員",
+  "p": "いん",
+  "m": "member",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "試合",
+  "p": "しあい",
+  "m": "match; game; bout",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "説明",
+  "p": "せつめい",
+  "m": "explanation; exposition",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "増える",
+  "p": "ふえる",
+  "m": "to increase; to multiply",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "理由",
+  "p": "りゆう",
+  "m": "reason; pretext; motive",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "別",
+  "p": "べつ",
+  "m": "distinction; difference; different",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "教育",
+  "p": "きょういく",
+  "m": "training; education",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "技術",
+  "p": "ぎじゅつ",
+  "m": "art; craft; technique",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "貰う",
+  "p": "もらう",
+  "m": "to receive; to take; to accept",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "最近",
+  "p": "さいきん",
+  "m": "most recent; these days; right now",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "通り",
+  "p": "とおり",
+  "m": "avenue; street; way",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "放送",
+  "p": "ほうそう",
+  "m": "broadcast; broadcasting",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "文化",
+  "p": "ぶんか",
+  "m": "culture; civilization; civilisation",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "進む",
+  "p": "すすむ",
+  "m": "to advance; to go forward",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "利用",
+  "p": "りよう",
+  "m": "use; utilization; utilisation",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "運動",
+  "p": "うんどう",
+  "m": "motion; exercise",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "市民",
+  "p": "しみん",
+  "m": "citizen; townspeople",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "変わる",
+  "p": "かわる",
+  "m": "to change; to be transformed; to be altered",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "許り",
+  "p": "ばかり",
+  "m": "approximately; about",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "生産",
+  "p": "せいさん",
+  "m": "production; manufacture",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "用",
+  "p": "よう",
+  "m": "task; business",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "気",
+  "p": "き",
+  "m": "spirit; mind; heart",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "島",
+  "p": "しま",
+  "m": "island",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "残る",
+  "p": "のこる",
+  "m": "to remain; to be left",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "心",
+  "p": "こころ",
+  "m": "mind; heart; spirit",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "厳しい",
+  "p": "きびしい",
+  "m": "severe; strict; rigid",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "輸入",
+  "p": "ゆにゅう",
+  "m": "importation; import; introduction",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "男性",
+  "p": "だんせい",
+  "m": "man; male",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "伝える",
+  "p": "つたえる",
+  "m": "to convey; to report; to transmit",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "最後",
+  "p": "さいご",
+  "m": "last; end; conclusion",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "殆ど",
+  "p": "ほとんど",
+  "m": "mostly; nearly; practically",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "比べる",
+  "p": "くらべる",
+  "m": "to compare; to make a comparison",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "決まる",
+  "p": "きまる",
+  "m": "to be decided; to be settled",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "倍",
+  "p": "ばい",
+  "m": "twice; double",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "高校",
+  "p": "こうこう",
+  "m": "senior high school",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "最も",
+  "p": "もっとも",
+  "m": "most; extremely",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "見える",
+  "p": "みえる",
+  "m": "to be seen; to be in sight",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "選ぶ",
+  "p": "えらぶ",
+  "m": "to choose; to select",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "線",
+  "p": "せん",
+  "m": "line; stripe; stria",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "迎える",
+  "p": "むかえる",
+  "m": "to go out to meet",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "事故",
+  "p": "じこ",
+  "m": "accident; incident; trouble",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "歴史",
+  "p": "れきし",
+  "m": "history",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "産業",
+  "p": "さんぎょう",
+  "m": "industry",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "客",
+  "p": "きゃく",
+  "m": "guest; visitor",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "筈",
+  "p": "はず",
+  "m": "expectation that something took place, will take place…",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "先ず",
+  "p": "まず",
+  "m": "first (of all); to start with; about",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "安全",
+  "p": "あんぜん",
+  "m": "safety",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "急",
+  "p": "きゅう",
+  "m": "urgent; sudden; abrupt",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "特に",
+  "p": "とくに",
+  "m": "particularly; especially",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "出席",
+  "p": "しゅっせき",
+  "m": "attendance; presence; appearance",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "輸出",
+  "p": "ゆしゅつ",
+  "m": "export",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "集める",
+  "p": "あつめる",
+  "m": "to collect; to assemble; to gather",
+  "l": "N4",
+  "t": "N4 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "番組",
+  "p": "ばんぐみ",
+  "m": "program (e.g. TV); programme",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "光",
+  "p": "ひかり",
+  "m": "light",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "死",
+  "p": "し",
+  "m": "death; decease",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "人口",
+  "p": "じんこう",
+  "m": "population",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "原因",
+  "p": "げんいん",
+  "m": "cause; origin; source",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "場所",
+  "p": "ばしょ",
+  "m": "place; location; spot",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "生きる",
+  "p": "いきる",
+  "m": "to live; to exist",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "以外",
+  "p": "いがい",
+  "m": "with the exception of; excepting",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "そんな",
+  "p": "そんな",
+  "m": "such (about the actions of the listener, or about ideas e…",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "空港",
+  "p": "くうこう",
+  "m": "airport",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "将来",
+  "p": "しょうらい",
+  "m": "future (usually near); prospects",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "亜米利加",
+  "p": "アメリカ",
+  "m": "America",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "事務所",
+  "p": "じむしょ",
+  "m": "office",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "気持ち",
+  "p": "きもち",
+  "m": "feeling; sensation; mood",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "送る",
+  "p": "おくる",
+  "m": "to send (a thing); to dispatch; to despatch",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "過ぎる",
+  "p": "すぎる",
+  "m": "to pass through; to pass by; to go beyond",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ビル",
+  "p": "ビル",
+  "m": "building",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "斯う",
+  "p": "こう",
+  "m": "in this way (used for something or someone close to th…",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "警察",
+  "p": "けいさつ",
+  "m": "police",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "紹介",
+  "p": "しょうかい",
+  "m": "introduction; referral",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "合う",
+  "p": "あう",
+  "m": "to come together; to merge; to unite",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "変える",
+  "p": "かえる",
+  "m": "to change; to alter; to vary",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "深い",
+  "p": "ふかい",
+  "m": "deep; profound; thick",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "経験",
+  "p": "けいけん",
+  "m": "experience",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "部長",
+  "p": "ぶちょう",
+  "m": "head (chief, director) of a section or department",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "連絡",
+  "p": "れんらく",
+  "m": "to contact; to get in touch",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "上がる",
+  "p": "あがる",
+  "m": "to rise; to go up; to come up",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "最初",
+  "p": "さいしょ",
+  "m": "beginning; outset; first",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "港",
+  "p": "みなと",
+  "m": "harbour; harbor; port",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "準備",
+  "p": "じゅんび",
+  "m": "preparation; setup; arrangements",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "打つ",
+  "p": "うつ",
+  "m": "to hit; to strike; to knock",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "以下",
+  "p": "いか",
+  "m": "not exceeding; and downward; ... and below",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "其れに",
+  "p": "それに",
+  "m": "besides; moreover",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "向かう",
+  "p": "むかう",
+  "m": "to face",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "森",
+  "p": "もり",
+  "m": "forest",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "工場",
+  "p": "こうじょう",
+  "m": "factory; plant; mill",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "戻る",
+  "p": "もどる",
+  "m": "to turn back; to return; to go back",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "親",
+  "p": "おや",
+  "m": "parent; parents",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "君",
+  "p": "きみ",
+  "m": "you; buddy; pal",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "夢",
+  "p": "ゆめ",
+  "m": "dream",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "相談",
+  "p": "そうだん",
+  "m": "consultation; discussion",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "競争",
+  "p": "きょうそう",
+  "m": "competition; contest",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "寺",
+  "p": "てら",
+  "m": "temple (Buddhist)",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "集まる",
+  "p": "あつまる",
+  "m": "to gather; to collect; to assemble",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "危険",
+  "p": "きけん",
+  "m": "danger; peril; hazard",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "科学",
+  "p": "かがく",
+  "m": "science",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "調べる",
+  "p": "しらべる",
+  "m": "to examine; to investigate; to check up",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "此れから",
+  "p": "これから",
+  "m": "after this",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "会場",
+  "p": "かいじょう",
+  "m": "assembly hall; meeting place; venue",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "クラブ",
+  "p": "クラブ",
+  "m": "club (e.g. golf, tennis)",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "心配",
+  "p": "しんぱい",
+  "m": "worry; concern; anxiety",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "音",
+  "p": "おと",
+  "m": "sound; noise; report",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "動く",
+  "p": "うごく",
+  "m": "to move; to stir; to shift",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "席",
+  "p": "せき",
+  "m": "seat",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "船",
+  "p": "ふね",
+  "m": "ship; boat; watercraft",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "けど",
+  "p": "けど",
+  "m": "but; however; although",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "普通",
+  "p": "ふつう",
+  "m": "general; ordinary; usual",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "林",
+  "p": "はやし",
+  "m": "woods; forest; copse",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "卒業",
+  "p": "そつぎょう",
+  "m": "graduation; completion (e.g. of a course)",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "起こす",
+  "p": "おこす",
+  "m": "to raise; to cause; to wake someone",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "込む",
+  "p": "こむ",
+  "m": "to be crowded; to be packed",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "コンピュータ",
+  "p": "コンピュータ",
+  "m": "computer",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "葉",
+  "p": "は",
+  "m": "leaf",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "試験",
+  "p": "しけん",
+  "m": "examination; test; study",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "亡くなる",
+  "p": "なくなる",
+  "m": "to die",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "旨い",
+  "p": "うまい",
+  "m": "skillful; clever; expert",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "専門",
+  "p": "せんもん",
+  "m": "speciality; specialty; subject of study",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "法律",
+  "p": "ほうりつ",
+  "m": "law",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "勿論",
+  "p": "もちろん",
+  "m": "of course; certainly; naturally",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "運転",
+  "p": "うんてん",
+  "m": "operation; motion; driving",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "矢っ張り",
+  "p": "やっぱり",
+  "m": "also; as I thought; still",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "機会",
+  "p": "きかい",
+  "m": "chance; opportunity",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "製",
+  "p": "せい",
+  "m": "-made; make",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "途中",
+  "p": "とちゅう",
+  "m": "on the way; en route",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "約束",
+  "p": "やくそく",
+  "m": "arrangement; promise; appointment",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "止める",
+  "p": "やめる",
+  "m": "to stop; to cease; to end",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "以内",
+  "p": "いない",
+  "m": "within; inside of; less than",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "裏",
+  "p": "うら",
+  "m": "bottom (or another side that is hidden from view); und…",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "スーパー",
+  "p": "スーパー",
+  "m": "super",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "見つかる",
+  "p": "みつかる",
+  "m": "to be found; to be discovered",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "失敗",
+  "p": "しっぱい",
+  "m": "failure; mistake; blunder",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "彼女",
+  "p": "かのじょ",
+  "m": "she; her",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "工業",
+  "p": "こうぎょう",
+  "m": "(manufacturing) industry",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "挨拶",
+  "p": "あいさつ",
+  "m": "greeting; greetings; salutation",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "例えば",
+  "p": "たとえば",
+  "m": "for example; e.g.",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "医学",
+  "p": "いがく",
+  "m": "medical science; medicine",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "課長",
+  "p": "かちょう",
+  "m": "section manager; section chief",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "落ちる",
+  "p": "おちる",
+  "m": "to fall down; to drop; to fall (e.g. rain)",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "壁",
+  "p": "かべ",
+  "m": "wall; barrier",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "大事",
+  "p": "だいじ",
+  "m": "important; valuable; serious matter",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "彼ら",
+  "p": "かれら",
+  "m": "they (usually male); them",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "表",
+  "p": "おもて",
+  "m": "surface",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "確か",
+  "p": "たしか",
+  "m": "certain; sure; definite",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "出発",
+  "p": "しゅっぱつ",
+  "m": "departure",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "積もり",
+  "p": "つもり",
+  "m": "intention; plan",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "運ぶ",
+  "p": "はこぶ",
+  "m": "to carry; to transport; to move",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "遅れる",
+  "p": "おくれる",
+  "m": "to be late; to be delayed; to fall behind schedule",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "文学",
+  "p": "ぶんがく",
+  "m": "literature",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "入院",
+  "p": "にゅういん",
+  "m": "hospitalization; hospitalisation",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "様",
+  "p": "さま",
+  "m": "Mr, Mrs or Ms",
+  "l": "N4",
+  "t": "N4 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "楽しむ",
+  "p": "たのしむ",
+  "m": "to enjoy (oneself)",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ちゃん",
+  "p": "ちゃん",
+  "m": "suffix for familiar person",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "簡単",
+  "p": "かんたん",
+  "m": "simple; easy; brief",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "タイプ",
+  "p": "タイプ",
+  "m": "type; kind; sort",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "はっきり",
+  "p": "はっきり",
+  "m": "clearly; plainly; distinctly",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "今度",
+  "p": "こんど",
+  "m": "now; this time; next time",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "注意",
+  "p": "ちゅうい",
+  "m": "caution; being careful; attention (heed)",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "昔",
+  "p": "むかし",
+  "m": "olden days; former",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ソフト",
+  "p": "ソフト",
+  "m": "soft",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "学部",
+  "p": "がくぶ",
+  "m": "department of a university",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "戴く",
+  "p": "いただく",
+  "m": "to receive; to get; to accept",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "用意",
+  "p": "ようい",
+  "m": "preparation; arrangements; provision",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "投げる",
+  "p": "なげる",
+  "m": "to throw; to cast away",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "交通",
+  "p": "こうつう",
+  "m": "traffic; transportation; communication",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "嬉しい",
+  "p": "うれしい",
+  "m": "happy; glad; pleasant",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "無理",
+  "p": "むり",
+  "m": "unreasonable; impossible; overdoing",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "石",
+  "p": "いし",
+  "m": "stone",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "だから",
+  "p": "だから",
+  "m": "so; therefore",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "阿弗利加",
+  "p": "アフリカ",
+  "m": "Africa",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "小学校",
+  "p": "しょうがっこう",
+  "m": "primary school; elementary school; grade school",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "一度",
+  "p": "いちど",
+  "m": "once; one time; on one occasion",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "味",
+  "p": "あじ",
+  "m": "flavor; flavour; taste",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "瓦斯",
+  "p": "ガス",
+  "m": "gas",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "負ける",
+  "p": "まける",
+  "m": "to lose; to be defeated",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "小説",
+  "p": "しょうせつ",
+  "m": "novel; (short) story",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "美しい",
+  "p": "うつくしい",
+  "m": "beautiful; lovely",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "息子",
+  "p": "むすこ",
+  "m": "son",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "育てる",
+  "p": "そだてる",
+  "m": "to raise; to rear; to bring up",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "捨てる",
+  "p": "すてる",
+  "m": "to throw away; to cast aside; to abandon",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "高校生",
+  "p": "こうこうせい",
+  "m": "senior high school student",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "食事",
+  "p": "しょくじ",
+  "m": "meal",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "似る",
+  "p": "にる",
+  "m": "to resemble; to look like; to take after",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "勝つ",
+  "p": "かつ",
+  "m": "to win; to gain victory",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "下がる",
+  "p": "さがる",
+  "m": "to hang down; to abate; to retire",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "張る",
+  "p": "はる",
+  "m": "to stick; to paste; to affix",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "中中",
+  "p": "なかなか",
+  "m": "very; considerably; easily",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "驚く",
+  "p": "おどろく",
+  "m": "to be surprised; to be astonished",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "複雑",
+  "p": "ふくざつ",
+  "m": "complex; complicated",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "必ず",
+  "p": "かならず",
+  "m": "always; without exception; necessarily",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "落とす",
+  "p": "おとす",
+  "m": "to drop; to lose; to let fall",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "入学",
+  "p": "にゅうがく",
+  "m": "entry to school or university; matriculation",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "立てる",
+  "p": "たてる",
+  "m": "to stand up; to put up; to set up",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "残念",
+  "p": "ざんねん",
+  "m": "deplorable; bad luck; regret",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "訪ねる",
+  "p": "たずねる",
+  "m": "to visit",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "通う",
+  "p": "かよう",
+  "m": "to go back and forth; to ply between",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "チェック",
+  "p": "チェック",
+  "m": "check; plaid",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "頑張る",
+  "p": "がんばる",
+  "m": "to persevere; to persist; to keep at it",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "急ぐ",
+  "p": "いそぐ",
+  "m": "to hurry; to rush; to hasten",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "又は",
+  "p": "または",
+  "m": "or; otherwise",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "払う",
+  "p": "はらう",
+  "m": "to pay (e.g. money, a bill, one's taxes, etc.)",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "美術館",
+  "p": "びじゅつかん",
+  "m": "art gallery; art museum",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "住所",
+  "p": "じゅうしょ",
+  "m": "address (e.g. of house); residence; domicile",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "見付ける",
+  "p": "みつける",
+  "m": "to discover; to find (e.g. an error in a book); to come acr…",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ピアノ",
+  "p": "ピアノ",
+  "m": "piano",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "割合",
+  "p": "わりあい",
+  "m": "rate; ratio; percentage",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "確り",
+  "p": "しっかり",
+  "m": "firmly; tightly; reliable",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "怪我",
+  "p": "けが",
+  "m": "injury (to animate object); hurt",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "招待",
+  "p": "しょうたい",
+  "m": "invitation",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "空気",
+  "p": "くうき",
+  "m": "air; atmosphere",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "下げる",
+  "p": "さげる",
+  "m": "to hang; to lower; to move back",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "コンサート",
+  "p": "コンサート",
+  "m": "concert",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "若し",
+  "p": "もし",
+  "m": "if; in case; supposing",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "倒れる",
+  "p": "たおれる",
+  "m": "to fall; to collapse; to drop",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "喜ぶ",
+  "p": "よろこぶ",
+  "m": "to be delighted; to be glad; to be pleased",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "やっと",
+  "p": "やっと",
+  "m": "at last; at length",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "星",
+  "p": "ほし",
+  "m": "star; any light-emitting (or reflecting) heavenly body (e…",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "代わり",
+  "p": "かわり",
+  "m": "substitute; replacement; substituting",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "下さる",
+  "p": "くださる",
+  "m": "to give; to confer",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "血",
+  "p": "ち",
+  "m": "blood; consanguinity",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "珍しい",
+  "p": "めずらしい",
+  "m": "unusual; rare; curious",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "決して",
+  "p": "けっして",
+  "m": "never; by no means; decidedly",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "治す",
+  "p": "なおす",
+  "m": "to cure; to heal",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "気分",
+  "p": "きぶん",
+  "m": "feeling; mood",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "校長",
+  "p": "こうちょう",
+  "m": "principal; headmaster",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "看護婦",
+  "p": "かんごふ",
+  "m": "(female) nurse",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "可笑しい",
+  "p": "おかしい",
+  "m": "funny; amusing; comical",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "笑う",
+  "p": "わらう",
+  "m": "to laugh",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "事",
+  "p": "こと",
+  "m": "thing; matter",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "中学校",
+  "p": "ちゅうがっこう",
+  "m": "junior high school; middle school; lower secondary sch…",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "季節",
+  "p": "きせつ",
+  "m": "season",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "硝子",
+  "p": "ガラス",
+  "m": "glass; pane",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "熱",
+  "p": "ねつ",
+  "m": "heat",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "台風",
+  "p": "たいふう",
+  "m": "typhoon; hurricane",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "楽しみ",
+  "p": "たのしみ",
+  "m": "enjoyment; pleasure; diversion",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "飾る",
+  "p": "かざる",
+  "m": "to decorate; to ornament; to adorn",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "郊外",
+  "p": "こうがい",
+  "m": "suburb; outskirts",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "聞こえる",
+  "p": "きこえる",
+  "m": "to be heard; to be audible",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "包む",
+  "p": "くるむ",
+  "m": "to wrap up; to tuck in; to pack",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "探す",
+  "p": "さがす",
+  "m": "to search (for something lost); to seek (a suspect in a cr…",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ずっと",
+  "p": "ずっと",
+  "m": "continuously in some state (for a long time, distance); t…",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "湖",
+  "p": "みずうみ",
+  "m": "lake",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "逃げる",
+  "p": "にげる",
+  "m": "to escape; to run away",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "正しい",
+  "p": "ただしい",
+  "m": "right; just; correct",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "興味",
+  "p": "きょうみ",
+  "m": "interest (in something)",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "この間",
+  "p": "このあいだ",
+  "m": "the other day; lately; recently",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "遊び",
+  "p": "あそび",
+  "m": "playing",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "テニス",
+  "p": "テニス",
+  "m": "tennis",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "値段",
+  "p": "ねだん",
+  "m": "price; cost",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "答え",
+  "p": "こたえ",
+  "m": "response; reply; answer",
+  "l": "N4",
+  "t": "N4 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "会話",
+  "p": "かいわ",
+  "m": "conversation",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "慣れる",
+  "p": "なれる",
+  "m": "to grow accustomed (to); to get too familiar with; to ge…",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "格好",
+  "p": "かっこう",
+  "m": "shape; form; posture",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "其れで",
+  "p": "それで",
+  "m": "and; thereupon; because of that",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "運転手",
+  "p": "うんてんしゅ",
+  "m": "driver; chauffeur",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "枝",
+  "p": "えだ",
+  "m": "branch; bow; bough",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "凄い",
+  "p": "すごい",
+  "m": "terrible; dreadful",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "仕方",
+  "p": "しかた",
+  "m": "way; method; means",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "連れる",
+  "p": "つれる",
+  "m": "to lead; to take (a person)",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "暫く",
+  "p": "しばらく",
+  "m": "little while; short while; moment",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "建てる",
+  "p": "たてる",
+  "m": "to build; to construct",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "駄目",
+  "p": "だめ",
+  "m": "no good; not serving its purpose; useless",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "済む",
+  "p": "すむ",
+  "m": "to finish; to end; to be completed",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "是非",
+  "p": "ぜひ",
+  "m": "certainly; without fail",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "故障",
+  "p": "こしょう",
+  "m": "break-down; failure; fault",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "思い出す",
+  "p": "おもいだす",
+  "m": "to recall; to remember",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "通る",
+  "p": "とおる",
+  "m": "to go by; to go past; to go along",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "揺れる",
+  "p": "ゆれる",
+  "m": "to shake; to sway",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "僕",
+  "p": "ぼく",
+  "m": "I; me",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "踏む",
+  "p": "ふむ",
+  "m": "to step on; to tread on",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "怖い",
+  "p": "こわい",
+  "m": "scary; frightening; eerie",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "訳",
+  "p": "わけ",
+  "m": "conclusion from reasoning, judgement or calculation b…",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "海岸",
+  "p": "かいがん",
+  "m": "coast; beach",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "酷い",
+  "p": "ひどい",
+  "m": "cruel; awful; severe",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "先輩",
+  "p": "せんぱい",
+  "m": "senior (at work or school); superior; elder",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "教会",
+  "p": "きょうかい",
+  "m": "church",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "趣味",
+  "p": "しゅみ",
+  "m": "hobby; pastime",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "焼く",
+  "p": "やく",
+  "m": "to bake; to grill",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "新聞社",
+  "p": "しんぶんしゃ",
+  "m": "newspaper company",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "安心",
+  "p": "あんしん",
+  "m": "relief; peace of mind",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "届ける",
+  "p": "とどける",
+  "m": "to deliver; to forward; to send",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "毛",
+  "p": "け",
+  "m": "hair; fur",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "素晴らしい",
+  "p": "すばらしい",
+  "m": "wonderful; splendid; magnificent",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "盛ん",
+  "p": "さかん",
+  "m": "popular",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "引き出す",
+  "p": "ひきだす",
+  "m": "to pull out; to take out; to draw out",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "腕",
+  "p": "うで",
+  "m": "arm",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "世話",
+  "p": "せわ",
+  "m": "looking after; help; aid",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "大分",
+  "p": "だいぶ",
+  "m": "considerably; greatly; a lot",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "足りる",
+  "p": "たりる",
+  "m": "to be sufficient; to be enough",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "移る",
+  "p": "うつる",
+  "m": "to move (house); to transfer (department)",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "予約",
+  "p": "よやく",
+  "m": "reservation; appointment; booking",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "翻訳",
+  "p": "ほんやく",
+  "m": "translation",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "泣く",
+  "p": "なく",
+  "m": "to cry; to weep; to sob",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "神社",
+  "p": "じんじゃ",
+  "m": "Shinto shrine",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "どんどん",
+  "p": "どんどん",
+  "m": "drumming (noise)",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "柔道",
+  "p": "じゅうどう",
+  "m": "judo",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "プレゼント",
+  "p": "プレゼント",
+  "m": "present; gift",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "人形",
+  "p": "にんぎょう",
+  "m": "doll; puppet; figure",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "回り",
+  "p": "まわり",
+  "m": "circumference; perimeter; edge",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "レポート",
+  "p": "レポート",
+  "m": "report; paper",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "漫画",
+  "p": "まんが",
+  "m": "cartoon; comic; comic strip",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "苛める",
+  "p": "いじめる",
+  "m": "to tease; to torment; to persecute",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "出来るだけ",
+  "p": "できるだけ",
+  "m": "as much as one can; as much as possible; if at all possible",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "細かい",
+  "p": "こまかい",
+  "m": "small",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "盗む",
+  "p": "ぬすむ",
+  "m": "to steal",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "熱心",
+  "p": "ねっしん",
+  "m": "zeal; enthusiasm",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "駐車場",
+  "p": "ちゅうしゃじょう",
+  "m": "parking lot; parking place",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "公務員",
+  "p": "こうむいん",
+  "m": "government worker; public (civil) servant",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "為さる",
+  "p": "なさる",
+  "m": "to do",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "終わり",
+  "p": "おわり",
+  "m": "the end",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "すっかり",
+  "p": "すっかり",
+  "m": "all; completely; thoroughly",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "怒る",
+  "p": "おこる",
+  "m": "to get angry; to get mad",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "鏡",
+  "p": "かがみ",
+  "m": "mirror",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "案内",
+  "p": "あんない",
+  "m": "information; guidance; leading",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "アルバイト",
+  "p": "アルバイト",
+  "m": "part-time job; side job",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "其れ程",
+  "p": "それほど",
+  "m": "to that degree; extent",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "尋ねる",
+  "p": "たずねる",
+  "m": "to ask; to enquire; to inquire",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "近所",
+  "p": "きんじょ",
+  "m": "neighbourhood; neighborhood",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "湯",
+  "p": "ゆ",
+  "m": "hot water",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "オーバー",
+  "p": "オーバー",
+  "m": "overcoat",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お蔭",
+  "p": "おかげ",
+  "m": "(your) backing; assistance; thanks or owing to",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "水道",
+  "p": "すいどう",
+  "m": "water service; water supply",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "優しい",
+  "p": "やさしい",
+  "m": "tender; kind; gentle",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "規則",
+  "p": "きそく",
+  "m": "rules; regulations; conventions",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "雲",
+  "p": "くも",
+  "m": "cloud",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "指",
+  "p": "ゆび",
+  "m": "finger; toe; digit",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "赤ちゃん",
+  "p": "あかちゃん",
+  "m": "baby; infant",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "虫",
+  "p": "むし",
+  "m": "insect; bug; cricket",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "砂",
+  "p": "すな",
+  "m": "sand; grit",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "習慣",
+  "p": "しゅうかん",
+  "m": "custom; habit; manners",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "承知",
+  "p": "しょうち",
+  "m": "acknowledgment; acknowledgement; awareness",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "正月",
+  "p": "しょうがつ",
+  "m": "New Year; New Year's Day; the first month",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ガソリン",
+  "p": "ガソリン",
+  "m": "gasoline; petrol",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "光る",
+  "p": "ひかる",
+  "m": "to shine; to glitter; to be bright",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "草",
+  "p": "くさ",
+  "m": "grass; weed; herb",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "売り場",
+  "p": "うりば",
+  "m": "place where things are sold; point of sale; POS",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "一生懸命",
+  "p": "いっしょうけんめい",
+  "m": "very hard; with utmost effort; with all one's might",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "吃驚",
+  "p": "びっくり",
+  "m": "to be surprised; to be amazed; to be frightened",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "祈る",
+  "p": "いのる",
+  "m": "to pray; to wish",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "寂しい",
+  "p": "さびしい",
+  "m": "lonely; lonesome; solitary",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "パート",
+  "p": "パート",
+  "m": "part",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "適当",
+  "p": "てきとう",
+  "m": "suitable; proper; appropriate",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "髪",
+  "p": "かみ",
+  "m": "hair (on the head)",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "全然",
+  "p": "ぜんぜん",
+  "m": "not at all (with neg. verb)",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "糸",
+  "p": "いと",
+  "m": "thread; yarn; string",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "具合",
+  "p": "ぐあい",
+  "m": "condition; state; manner",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "噛む",
+  "p": "かむ",
+  "m": "to bite; to chew; to gnaw",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "踊る",
+  "p": "おどる",
+  "m": "to dance (orig. a hopping dance)",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "拾う",
+  "p": "ひろう",
+  "m": "to pick up; to find; to gather",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "眠る",
+  "p": "ねむる",
+  "m": "to sleep (not necessarily lying down)",
+  "l": "N4",
+  "t": "N4 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "屹度",
+  "p": "きっと",
+  "m": "surely; undoubtedly; almost certainly",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "両方",
+  "p": "りょうほう",
+  "m": "both sides; both parties",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "植える",
+  "p": "うえる",
+  "m": "to plant; to grow",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "匂い",
+  "p": "におい",
+  "m": "odour; odor; scent",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "都合",
+  "p": "つごう",
+  "m": "circumstances; condition; convenience",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "申し上げる",
+  "p": "もうしあげる",
+  "m": "to say; to tell; to state",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "悲しい",
+  "p": "かなしい",
+  "m": "sad; sorrowful",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "坂",
+  "p": "さか",
+  "m": "slope; hill",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "水泳",
+  "p": "すいえい",
+  "m": "swimming",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "二階建て",
+  "p": "にかいだて",
+  "m": "two-storied building",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "スーツ",
+  "p": "スーツ",
+  "m": "suit",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "日記",
+  "p": "にっき",
+  "m": "diary; journal",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "知らせる",
+  "p": "しらせる",
+  "m": "to notify; to advise; to inform",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "背中",
+  "p": "せなか",
+  "m": "back (of body)",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "帰り",
+  "p": "かえり",
+  "m": "return; coming back",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "講義",
+  "p": "こうぎ",
+  "m": "lecture",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "変",
+  "p": "へん",
+  "m": "strange; odd; peculiar",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "そんなに",
+  "p": "そんなに",
+  "m": "so much; so; like that",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "間に合う",
+  "p": "まにあう",
+  "m": "to be in time for",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "店員",
+  "p": "てんいん",
+  "m": "shop assistant; employee; clerk",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "手伝う",
+  "p": "てつだう",
+  "m": "to help; to assist; to take part in",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "壊す",
+  "p": "こわす",
+  "m": "to break; to destroy; to demolish",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "退院",
+  "p": "たいいん",
+  "m": "leaving hospital; discharge from hospital",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "割れる",
+  "p": "われる",
+  "m": "to break; to be smashed",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "叱る",
+  "p": "しかる",
+  "m": "to scold",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "動物園",
+  "p": "どうぶつえん",
+  "m": "zoo; zoological gardens",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "道具",
+  "p": "どうぐ",
+  "m": "implement; tool; means",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "返事",
+  "p": "へんじ",
+  "m": "reply; answer; response",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "久しぶり",
+  "p": "ひさしぶり",
+  "m": "a long time (since the last time); it's been a while (since…",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "難い",
+  "p": "かたい",
+  "m": "difficult; hard",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "褒める",
+  "p": "ほめる",
+  "m": "to praise; to admire; to speak well",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "西洋",
+  "p": "せいよう",
+  "m": "the west; Western countries",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "会議室",
+  "p": "かいぎしつ",
+  "m": "conference room; council room",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "鳴る",
+  "p": "なる",
+  "m": "to sound; to ring; to resound",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "硬い",
+  "p": "かたい",
+  "m": "hard; solid; tough",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "アルコール",
+  "p": "アルコール",
+  "m": "alcohol",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "玩具",
+  "p": "おもちゃ",
+  "m": "toy",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "研究室",
+  "p": "けんきゅうしつ",
+  "m": "laboratory",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "塗る",
+  "p": "ぬる",
+  "m": "to paint; to plaster; to lacquer",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "恥ずかしい",
+  "p": "はずかしい",
+  "m": "shy; ashamed; embarrassed",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "真ん中",
+  "p": "まんなか",
+  "m": "middle; centre; center",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "注射",
+  "p": "ちゅうしゃ",
+  "m": "injection",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "騒ぐ",
+  "p": "さわぐ",
+  "m": "to make noise; to make racket; to be noisy",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "真面目",
+  "p": "まじめ",
+  "m": "diligent; serious; honest",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "展覧会",
+  "p": "てんらんかい",
+  "m": "exhibition",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "昼間",
+  "p": "ひるま",
+  "m": "daytime; during the day; time from sunrise until sunset",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "参る",
+  "p": "まいる",
+  "m": "to go; to come; to call",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "踊り",
+  "p": "おどり",
+  "m": "dance",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "隅",
+  "p": "すみ",
+  "m": "corner; nook; recess",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "丁寧",
+  "p": "ていねい",
+  "m": "polite; courteous; careful",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "オートバイ",
+  "p": "オートバイ",
+  "m": "motorcycle",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "そろそろ",
+  "p": "そろそろ",
+  "m": "slowly; quietly; steadily",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "遠く",
+  "p": "とおく",
+  "m": "far away; distant; at a distance",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "壊れる",
+  "p": "こわれる",
+  "m": "to be broken; to break",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "祖父",
+  "p": "そふ",
+  "m": "grandfather",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "致す",
+  "p": "いたす",
+  "m": "to do",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "食料品",
+  "p": "しょくりょうひん",
+  "m": "foodstuff; groceries",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "着物",
+  "p": "きもの",
+  "m": "clothing; clothes",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "田舎",
+  "p": "いなか",
+  "m": "rural area; countryside; the sticks",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "受付",
+  "p": "うけつけ",
+  "m": "reception (desk); information desk",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ベル",
+  "p": "ベル",
+  "m": "bell",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "随分",
+  "p": "ずいぶん",
+  "m": "very; extremely; surprisingly",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "伊達",
+  "p": "だて",
+  "m": "elegance; dandyism; sophistication",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "寄る",
+  "p": "よる",
+  "m": "to visit; to drop in; to approach",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "金持ち",
+  "p": "かねもち",
+  "m": "rich person",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "滑る",
+  "p": "すべる",
+  "m": "to glide; to slide (e.g. on skis); to slip",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "旅館",
+  "p": "りょかん",
+  "m": "Japanese hotel; inn; ryokan",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "役に立つ",
+  "p": "やくにたつ",
+  "m": "to be helpful; to be useful",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "別れる",
+  "p": "わかれる",
+  "m": "to be divided; to part from; to separate",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "浅い",
+  "p": "あさい",
+  "m": "shallow; superficial",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "折る",
+  "p": "おる",
+  "m": "to break; to fracture; to break off",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "暮れる",
+  "p": "くれる",
+  "m": "to get dark",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "嘘",
+  "p": "うそ",
+  "m": "lie; falsehood; incorrect fact",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "数学",
+  "p": "すうがく",
+  "m": "mathematics; arithmetic",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "講堂",
+  "p": "こうどう",
+  "m": "auditorium",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "辞典",
+  "p": "じてん",
+  "m": "dictionary",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "あんな",
+  "p": "あんな",
+  "m": "such (about something or someone distant from both s…",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "すると",
+  "p": "すると",
+  "m": "thereupon; hereupon",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "火事",
+  "p": "かじ",
+  "m": "fire; conflagration",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "祖母",
+  "p": "そぼ",
+  "m": "grandmother",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "特急",
+  "p": "とっきゅう",
+  "m": "limited express (train, faster than an express)",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "治る",
+  "p": "なおる",
+  "m": "to be cured; to get well; to be healed",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "布団",
+  "p": "ふとん",
+  "m": "futon (quilted Japanese-style mattress laid out on the f…",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "間違える",
+  "p": "まちがえる",
+  "m": "to make a mistake (in); to commit an error (e.g. in calcu…",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "親切",
+  "p": "しんせつ",
+  "m": "kindness; gentleness",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "喉",
+  "p": "のど",
+  "m": "throat",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "仰っしゃる",
+  "p": "おっしゃる",
+  "m": "to say; to speak; to tell",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "地理",
+  "p": "ちり",
+  "m": "geography",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "屋上",
+  "p": "おくじょう",
+  "m": "rooftop",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "喧嘩",
+  "p": "けんか",
+  "m": "quarrel; brawl; fight",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "下着",
+  "p": "したぎ",
+  "m": "underwear",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "柔らかい",
+  "p": "やわらかい",
+  "m": "soft; tender; limp",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "苦い",
+  "p": "にがい",
+  "m": "bitter",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "構う",
+  "p": "かまう",
+  "m": "to mind; to care about; to be concerned about",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "成るべく",
+  "p": "なるべく",
+  "m": "as much as possible; wherever practicable",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "留守",
+  "p": "るす",
+  "m": "absence; being away from home",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "棚",
+  "p": "たな",
+  "m": "shelf; shelves; ledge",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "引き出し",
+  "p": "ひきだし",
+  "m": "drawer",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "折れる",
+  "p": "おれる",
+  "m": "to break; to be broken; to snap",
+  "l": "N4",
+  "t": "N4 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "アナウンサー",
+  "p": "アナウンサー",
+  "m": "announcer",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ステレオ",
+  "p": "ステレオ",
+  "m": "stereo",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "焼ける",
+  "p": "やける",
+  "m": "to burn; to be roasted; to be heated",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "太る",
+  "p": "ふとる",
+  "m": "to grow fat (stout, plump); to become fat; to gain weight",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "痩せる",
+  "p": "やせる",
+  "m": "to become thin; to lose weight; to reduce (one's) weight",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "見物",
+  "p": "けんぶつ",
+  "m": "sightseeing; sightseer; watching",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "スクリーン",
+  "p": "スクリーン",
+  "m": "screen",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "写す",
+  "p": "うつす",
+  "m": "to transcribe; to duplicate; to reproduce",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "いらっしゃる",
+  "p": "いらっしゃる",
+  "m": "to come; to go; to be (somewhere)",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "遠慮",
+  "p": "えんりょ",
+  "m": "diffidence; restraint; reserve",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ケーキ",
+  "p": "ケーキ",
+  "m": "cake",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "申す",
+  "p": "もうす",
+  "m": "to say; to be called",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "泊まる",
+  "p": "とまる",
+  "m": "to stay at (e.g. hotel)",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "冷房",
+  "p": "れいぼう",
+  "m": "cooling; air-conditioning",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "サラダ",
+  "p": "サラダ",
+  "m": "salad",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "絹",
+  "p": "きぬ",
+  "m": "silk",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "パパ",
+  "p": "パパ",
+  "m": "Papa",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "一杯",
+  "p": "いっぱい",
+  "m": "amount necessary to fill a container (e.g. a cupful, spoo…",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "失礼",
+  "p": "しつれい",
+  "m": "discourtesy; impoliteness",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "成程",
+  "p": "なるほど",
+  "m": "I see; That's right!; Indeed",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "花見",
+  "p": "はなみ",
+  "m": "cherry blossom viewing; flower viewing",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "乾く",
+  "p": "かわく",
+  "m": "to get dry",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "大体",
+  "p": "だいたい",
+  "m": "general; substantially; outline",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "沸く",
+  "p": "わく",
+  "m": "to grow hot (of water, etc.); to boil",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "テキスト",
+  "p": "テキスト",
+  "m": "text",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "アクセサリー",
+  "p": "アクセサリー",
+  "m": "accessory",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "触る",
+  "p": "さわる",
+  "m": "to touch; to feel",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ご存じ",
+  "p": "ごぞんじ",
+  "m": "knowing",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "この頃",
+  "p": "このごろ",
+  "m": "recently; nowadays; these days",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "電報",
+  "p": "でんぽう",
+  "m": "telegram",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "品物",
+  "p": "しなもの",
+  "m": "goods; article; thing",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "飛行場",
+  "p": "ひこうじょう",
+  "m": "airfield; airport",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "回る",
+  "p": "まわる",
+  "m": "to turn; to revolve",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "景色",
+  "p": "けしき",
+  "m": "scenery; scene; landscape",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "発音",
+  "p": "はつおん",
+  "m": "pronunciation",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "片付ける",
+  "p": "かたづける",
+  "m": "to tidy up; to put in order; to straighten up",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "赤ん坊",
+  "p": "あかんぼう",
+  "m": "baby; infant",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "指輪",
+  "p": "ゆびわ",
+  "m": "(finger) ring",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "不便",
+  "p": "ふべん",
+  "m": "inconvenience; inexpediency; unhandiness",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "大抵",
+  "p": "たいてい",
+  "m": "mostly; ordinarily; usually",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "邪魔",
+  "p": "じゃま",
+  "m": "hindrance; intrusion",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "冷える",
+  "p": "ひえる",
+  "m": "to grow cold (from room temperature, e.g. in refrigerat…",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "宜しい",
+  "p": "よろしい",
+  "m": "good; OK; all right",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "濡れる",
+  "p": "ぬれる",
+  "m": "to get wet",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "贈り物",
+  "p": "おくりもの",
+  "m": "present; gift",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "足す",
+  "p": "たす",
+  "m": "to add (numbers)",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ガソリンスタンド",
+  "p": "ガソリンスタンド",
+  "m": "gas station; petrol station",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "支度",
+  "p": "したく",
+  "m": "preparation; arrangements",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "高等学校",
+  "p": "こうとうがっこう",
+  "m": "senior high school",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "暖房",
+  "p": "だんぼう",
+  "m": "heating",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "カーテン",
+  "p": "カーテン",
+  "m": "curtain; curtains",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "空く",
+  "p": "すく",
+  "m": "to become less crowded; to thin out; to get empty",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "レジ",
+  "p": "レジ",
+  "m": "(cash) register",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "下宿",
+  "p": "げしゅく",
+  "m": "boarding; lodging; boarding house",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "謝る",
+  "p": "あやまる",
+  "m": "to apologize; to apologise",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "取り替える",
+  "p": "とりかえる",
+  "m": "to exchange; to replace",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "引っ越す",
+  "p": "ひっこす",
+  "m": "to move (house); to change residence",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "泥棒",
+  "p": "どろぼう",
+  "m": "thief; burglar; robber",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "うん",
+  "p": "うん",
+  "m": "yeah; uh huh",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "捕まえる",
+  "p": "つかまえる",
+  "m": "to catch; to arrest; to seize",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "急行",
+  "p": "きゅうこう",
+  "m": "moving at high speed",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "手袋",
+  "p": "てぶくろ",
+  "m": "glove; mitten; mitt",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ご馳走",
+  "p": "ごちそう",
+  "m": "feast; treating (someone)",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "昼休み",
+  "p": "ひるやすみ",
+  "m": "lunch break; noon recess; noon rest period",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "小鳥",
+  "p": "ことり",
+  "m": "small bird; songbird",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ステーキ",
+  "p": "ステーキ",
+  "m": "steak",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "今夜",
+  "p": "こんや",
+  "m": "this evening; tonight",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "乗り換える",
+  "p": "のりかえる",
+  "m": "to transfer (trains); to change (bus, train)",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "さっき",
+  "p": "さっき",
+  "m": "some time ago",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "味噌",
+  "p": "みそ",
+  "m": "miso; bean paste",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "汽車",
+  "p": "きしゃ",
+  "m": "train (steam)",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "乗り物",
+  "p": "のりもの",
+  "m": "vehicle",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "家内",
+  "p": "かない",
+  "m": "(my) wife",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "釣る",
+  "p": "つる",
+  "m": "to fish; to angle; to catch",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お嬢さん",
+  "p": "おじょうさん",
+  "m": "daughter",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ジャム",
+  "p": "ジャム",
+  "m": "jam",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "拝見",
+  "p": "はいけん",
+  "m": "seeing; look at",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "眠い",
+  "p": "ねむい",
+  "m": "sleepy; drowsy; somnolent",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "押し入れ",
+  "p": "おしいれ",
+  "m": "closet",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "文法",
+  "p": "ぶんぽう",
+  "m": "grammar; syntax",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "エスカレーター",
+  "p": "エスカレーター",
+  "m": "escalator",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "木綿",
+  "p": "もめん",
+  "m": "cotton (material)",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "等々",
+  "p": "とうとう",
+  "m": "and so on; at last; finally",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "サンドイッチ",
+  "p": "サンドイッチ",
+  "m": "sandwich",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "差し上げる",
+  "p": "さしあげる",
+  "m": "to give; to offer",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "漬ける",
+  "p": "つける",
+  "m": "to soak; to seep; to dip in",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "サンダル",
+  "p": "サンダル",
+  "m": "sandal",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ご覧になる",
+  "p": "ごらんになる",
+  "m": "to see; to look; to watch",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お宅",
+  "p": "おたく",
+  "m": "your house; your home; your family",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "伺う",
+  "p": "うかがう",
+  "m": "to ask; to inquire; to hear",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "電灯",
+  "p": "でんとう",
+  "m": "electric light",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "用事",
+  "p": "ようじ",
+  "m": "tasks; things to do; errand",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "消しゴム",
+  "p": "けしゴム",
+  "m": "eraser; India rubber",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ハンバーグ",
+  "p": "ハンバーグ",
+  "m": "hamburger (meat, no bun); Hamburg steak",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "スーツケース",
+  "p": "スーツケース",
+  "m": "suitcase",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "沸かす",
+  "p": "わかす",
+  "m": "to boil; to heat",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "すっと",
+  "p": "すっと",
+  "m": "straight; quickly; directly",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "復習",
+  "p": "ふくしゅう",
+  "m": "review; revision",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "忘れ物",
+  "p": "わすれもの",
+  "m": "lost article; something forgotten",
+  "l": "N4",
+  "t": "N4 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "歯医者",
+  "p": "はいしゃ",
+  "m": "dentist",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "予習",
+  "p": "よしゅう",
+  "m": "preparation for a lesson",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "降り出す",
+  "p": "ふりだす",
+  "m": "to begin to rain",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お礼",
+  "p": "おれい",
+  "m": "thanking; expression of gratitude",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "召し上がる",
+  "p": "めしあがる",
+  "m": "to eat",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "無くなる",
+  "p": "なくなる",
+  "m": "to disappear; to get lost",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "儘",
+  "p": "まま",
+  "m": "as it is; as one likes; because",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "葡萄",
+  "p": "ぶどう",
+  "m": "grape",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "億",
+  "p": "おく",
+  "m": "10^8; 100,000,000; hundred million",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "易い",
+  "p": "やすい",
+  "m": "easy",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "止む",
+  "p": "やむ",
+  "m": "to cease; to stop; to be over",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "髭",
+  "p": "ひげ",
+  "m": "moustache; beard; whiskers",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "夫",
+  "p": "おっと",
+  "m": "husband",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "寝坊",
+  "p": "ねぼう",
+  "m": "sleeping in late; oversleeping",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "首",
+  "p": "くび",
+  "m": "neck",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "床屋",
+  "p": "とこや",
+  "m": "barbershop; barber",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "再来週",
+  "p": "さらいしゅう",
+  "m": "week after next",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "十分",
+  "p": "じゅうぶん",
+  "m": "plenty; enough; sufficient",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ただ今",
+  "p": "ただいま",
+  "m": "Here I am; I'm home!",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "非常に",
+  "p": "ひじょうに",
+  "m": "very; extremely; exceedingly",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "劫",
+  "p": "こう",
+  "m": "kalpa (eon, aeon)",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "汚れる",
+  "p": "よごれる",
+  "m": "to get dirty; to become dirty",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "娘",
+  "p": "むすめ",
+  "m": "(my) daughter",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "再来月",
+  "p": "さらいげつ",
+  "m": "month after next",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お大事に",
+  "p": "おだいじに",
+  "m": "take care of yourself; get well soon; God bless you",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "稲子",
+  "p": "いなご",
+  "m": "rice grasshopper (of genus Oxya)",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "掏摸",
+  "p": "すり",
+  "m": "pickpocket",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "素っ",
+  "p": "すっ",
+  "m": "most (emphasis); much; greatly",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "びる",
+  "p": "びる",
+  "m": "seeming to be ...; becoming like ...; behaving as ...",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お出でになる",
+  "p": "おいでになる",
+  "m": "to be",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お目出度うご座います",
+  "p": "おめでとうございます",
+  "m": "congratulations",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お帰りなさい",
+  "p": "おかえりなさい",
+  "m": "welcome home",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お見舞い",
+  "p": "おみまい",
+  "m": "calling on someone who is ill; enquiry; inquiry",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お子さん",
+  "p": "おこさん",
+  "m": "(someone else's) child",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お土産",
+  "p": "おみやげ",
+  "m": "present; souvenir",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "畏まりました",
+  "p": "かしこまりました",
+  "m": "certainly!",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "些とも",
+  "p": "ちっとも",
+  "m": "not at all (neg. verb)",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "依ると",
+  "p": "よると",
+  "m": "according to",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "キット",
+  "p": "キット",
+  "m": "kit",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ハンドバッグ",
+  "p": "ハンドバッグ",
+  "m": "handbag; purse",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "パソコン",
+  "p": "パソコン",
+  "m": "personal computer",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ファックス",
+  "p": "ファックス",
+  "m": "facsimile; FAX",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ワープロ",
+  "p": "ワープロ",
+  "m": "word processor",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "会",
+  "p": "かい",
+  "m": "meeting; assembly; party",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お蔭様で",
+  "p": "おかげさまで",
+  "m": "(I'm fine) thank you; under the gods' shadow",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ご主人",
+  "p": "ごしゅじん",
+  "m": "your husband; her husband",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お釣り",
+  "p": "おつり",
+  "m": "change (i.e. money); balance",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "市",
+  "p": "し",
+  "m": "city",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "字",
+  "p": "じ",
+  "m": "character (i.e. kanji)",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "畳",
+  "p": "たたみ",
+  "m": "tatami mat; Japanese straw floor coverings",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "大学生",
+  "p": "だいがくせい",
+  "m": "university student; college student",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "天気予報",
+  "p": "てんきよほう",
+  "m": "weather forecast; weather report",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "点",
+  "p": "てん",
+  "m": "spot; mark",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "点く",
+  "p": "つく",
+  "m": "to be lit (e.g. electricity comes on); to be lighted",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お祭り",
+  "p": "おまつり",
+  "m": "festival; feast; carnival",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "御座います",
+  "p": "ございます",
+  "m": "to be; to exist",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "行けません",
+  "p": "いけません",
+  "m": "wrong; not good; of no use",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お祝い",
+  "p": "おいわい",
+  "m": "congratulation; congratulations; celebration",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "都",
+  "p": "と",
+  "m": "metropolitan; municipal",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "偶に",
+  "p": "たまに",
+  "m": "occasionally; once in a while",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "御名",
+  "p": "みな",
+  "m": "name of God (esp. in Christian contexts); name of Christ",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "就いて",
+  "p": "ついて",
+  "m": "about; concerning; as to",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "幾らでも",
+  "p": "いくらでも",
+  "m": "as many (much) as one likes",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "看護師",
+  "p": "かんごし",
+  "m": "(hospital) nurse; registered nurse; RN",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "代",
+  "p": "だい",
+  "m": "charge; cost; price",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "泳ぎ方",
+  "p": "およぎかた",
+  "m": "way of swimming",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "もう直ぐ",
+  "p": "もうすぐ",
+  "m": "very soon",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "杯",
+  "p": "はい",
+  "m": "sake cup; cup for alcoholic beverages",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "や",
+  "p": "や",
+  "m": "such things as (non-exhaustive list related to a specific…",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "軒",
+  "p": "けん",
+  "m": "counter for buildings (esp. houses)",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "鸛",
+  "p": "こうのとり",
+  "m": "stork (esp. the Oriental stork, Ciconia boyciana)",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ああ",
+  "p": "ああ",
+  "m": "like that (used for something or someone distant from…",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "し",
+  "p": "し",
+  "m": "(at the end of a phrase) notes one (of several) reasons",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "行ってらっしゃい",
+  "p": "いってらっしゃい",
+  "m": "have a good day; take care; see you",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "然う",
+  "p": "そう",
+  "m": "in that way (concerning the actions of the listener or co…",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "行ってまいります",
+  "p": "いってまいります",
+  "m": "So long (lit:\"(I'm) going and coming back\"); I'm off; see…",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お待たせしました",
+  "p": "おまたせしました",
+  "m": "Thank you for waiting; Have I kept you waiting?",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "あ",
+  "p": "あ",
+  "m": "Ah! (expression of surprise, recollection, etc.); Oh!",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ケレド",
+  "p": "ケレド",
+  "m": "credo",
+  "l": "N4",
+  "t": "N4 · Common 601–700",
+  "z": "",
+  "e": ""
+ }
+]

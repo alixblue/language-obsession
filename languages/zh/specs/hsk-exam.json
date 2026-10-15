@@ -1,0 +1,109 @@
+{
+ "source": "Official HSK sample papers (HSK 5, 6, 7-9) and the 2025-11 syllabus supplied by the learner. Counts and timings are from the sample paper cover pages.",
+ "levels": {
+  "HSK 5": {
+   "questions": 72,
+   "sections": {
+    "listening": {
+     "questions": 35,
+     "minutes": 25,
+     "parts": [
+      "Q1-19 short items",
+      "Q20-35 longer dialogues/passages"
+     ]
+    },
+    "reading": {
+     "questions": 35,
+     "minutes": 35,
+     "parts": [
+      "Q36-45 cloze (words/phrases)",
+      "Q46-55 paragraph ordering",
+      "Q56-70 passages"
+     ]
+    },
+    "writing": {
+     "tasks": 2,
+     "minutes": 40,
+     "parts": [
+      "Q71 picture story >=100 chars",
+      "Q72 topic essay >=200 chars"
+     ]
+    }
+   },
+   "speaking_oral_paper": {
+    "tasks": 5,
+    "minutes": 23,
+    "parts": [
+     "2 listen-and-retell",
+     "1 picture description",
+     "2 answer questions"
+    ]
+   }
+  },
+  "HSK 6": {
+   "questions": 82,
+   "sections": {
+    "listening": {
+     "questions": 40,
+     "minutes": 30,
+     "parts": [
+      "Q1-8",
+      "Q9-28",
+      "Q29-40"
+     ]
+    },
+    "reading": {
+     "questions": 40,
+     "minutes": 40,
+     "parts": [
+      "Q41-50 word cloze",
+      "Q51-60 sentence cloze with one distractor",
+      "Q61-80 passages"
+     ]
+    },
+    "writing": {
+     "tasks": 2,
+     "minutes": 45,
+     "parts": [
+      "Q81 application text >=150 chars",
+      "Q82 topic essay >=300 chars"
+     ]
+    }
+   },
+   "speaking_oral_paper": {
+    "tasks": 5,
+    "minutes": 23
+   }
+  },
+  "HSK 7-9": {
+   "questions": 91,
+   "sections": {
+    "listening": {
+     "questions": 40,
+     "minutes": 33
+    },
+    "reading": {
+     "questions": 40,
+     "minutes": 50
+    },
+    "writing": {
+     "tasks": 2,
+     "minutes": 55,
+     "parts": [
+      "Q81 chart description >=200 chars (15 min)",
+      "Q82 topic essay >=600 chars (40 min)"
+     ]
+    },
+    "translation": {
+     "tasks": 4,
+     "minutes": 42
+    },
+    "speaking": {
+     "tasks": 5,
+     "minutes": 20
+    }
+   }
+  }
+ },
+ "scoring_note": "HSK 5/6: listening, reading and writing are 100 points each (300 total). Check the official notice for the current pass mark."
+}

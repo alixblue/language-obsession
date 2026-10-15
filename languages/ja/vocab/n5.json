@@ -1,0 +1,6572 @@
+[
+ {
+  "w": "歯",
+  "p": "は",
+  "m": "tooth",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "為る",
+  "p": "する",
+  "m": "to do",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "手",
+  "p": "て",
+  "m": "hand; arm",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "日",
+  "p": "ひ",
+  "m": "day; days",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "在る",
+  "p": "ある",
+  "m": "to be (usu. of inanimate objects); to exist; to live",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "成る",
+  "p": "なる",
+  "m": "to become; to get; to grow",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "等",
+  "p": "など",
+  "m": "et cetera; etc.; and the like",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "人",
+  "p": "じん",
+  "m": "-ian (e.g. Italian, etc.) (attaches to name of country to d…",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "年",
+  "p": "とし",
+  "m": "year",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "さん",
+  "p": "さん",
+  "m": "Mr, Mrs, Miss or Ms",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "円",
+  "p": "えん",
+  "m": "Yen; money",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "九",
+  "p": "きゅう",
+  "m": "nine",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "時",
+  "p": "とき",
+  "m": "time; hour",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "中",
+  "p": "なか",
+  "m": "inside; in",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "其の",
+  "p": "その",
+  "m": "that (something or someone distant from the speaker…",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "問題",
+  "p": "もんだい",
+  "m": "problem; question",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "此れ",
+  "p": "これ",
+  "m": "this (indicating an item near the speaker, the action of t…",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "先",
+  "p": "さき",
+  "m": "previous; prior; former",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "国",
+  "p": "くに",
+  "m": "country; (the) state",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "分",
+  "p": "ふん",
+  "m": "minute",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "米",
+  "p": "メートル",
+  "m": "metre; meter",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "丈",
+  "p": "だけ",
+  "m": "only; just; as",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "回",
+  "p": "かい",
+  "m": "counter for occurrences",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "後",
+  "p": "あと",
+  "m": "behind; rear",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "然し",
+  "p": "しかし",
+  "m": "however; but",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "出る",
+  "p": "でる",
+  "m": "to go out; to exit; to leave",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "目",
+  "p": "め",
+  "m": "eye; eyeball",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "言う",
+  "p": "いう",
+  "m": "to say",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "側",
+  "p": "そば",
+  "m": "near; close; beside",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "歳",
+  "p": "さい",
+  "m": "-years-old",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "私",
+  "p": "わたし",
+  "m": "I; me",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "そう",
+  "p": "そう",
+  "m": "so; really; seeming",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "午後",
+  "p": "ごご",
+  "m": "afternoon; p.m.",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "見る",
+  "p": "みる",
+  "m": "to see; to look; to watch",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "其れ",
+  "p": "それ",
+  "m": "that (indicating an item or person near the listener, the…",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "時間",
+  "p": "じかん",
+  "m": "time",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "会社",
+  "p": "かいしゃ",
+  "m": "company; corporation",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "御",
+  "p": "ご",
+  "m": "honourable; honorable",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "午前",
+  "p": "ごぜん",
+  "m": "morning; a.m.",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "より",
+  "p": "より",
+  "m": "from; out of; since",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "町",
+  "p": "まち",
+  "m": "town; block; neighbourhood",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "今年",
+  "p": "ことし",
+  "m": "this year",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "持つ",
+  "p": "もつ",
+  "m": "to hold; to carry",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "所",
+  "p": "ところ",
+  "m": "place; spot; scene",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "乍ら",
+  "p": "ながら",
+  "m": "while; during; as",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "今",
+  "p": "いま",
+  "m": "now; the present time; just now",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "如何",
+  "p": "どう",
+  "m": "how; in what way; how about",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "良い",
+  "p": "よい",
+  "m": "good; excellent; fine",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "出す",
+  "p": "だす",
+  "m": "to take out; to get out",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "強い",
+  "p": "つよい",
+  "m": "strong; powerful; mighty",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "方",
+  "p": "かた",
+  "m": "direction; way",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "自分",
+  "p": "じぶん",
+  "m": "myself; yourself; oneself",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "多い",
+  "p": "おおい",
+  "m": "many; numerous",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "一",
+  "p": "いち",
+  "m": "one",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "遣る",
+  "p": "やる",
+  "m": "to do",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "外",
+  "p": "ほか",
+  "m": "other (esp. places and things); the rest",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "上",
+  "p": "うえ",
+  "m": "above; up; over",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "使う",
+  "p": "つかう",
+  "m": "to use (a thing, method, etc.); to make use of; to put to…",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "家",
+  "p": "うち",
+  "m": "house; home (one's own)",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "大学",
+  "p": "だいがく",
+  "m": "post-secondary education institution, incl. university, c…",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "写真",
+  "p": "しゃしん",
+  "m": "photograph; photo",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "初めて",
+  "p": "はじめて",
+  "m": "for the first time",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "掛ける",
+  "p": "かける",
+  "m": "to hang (e.g. picture); to hoist (e.g. sail); to raise (e.g. flag)",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "次",
+  "p": "つぎ",
+  "m": "next; following; subsequent",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "子供",
+  "p": "こども",
+  "m": "child; children",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "声",
+  "p": "こえ",
+  "m": "voice",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "同じ",
+  "p": "おなじ",
+  "m": "same; identical; equal",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "大きい",
+  "p": "おおきい",
+  "m": "big; large; great",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "テレビ",
+  "p": "テレビ",
+  "m": "television; TV",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "話す",
+  "p": "はなす",
+  "m": "to talk; to speak; to converse",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "台",
+  "p": "だい",
+  "m": "stand; rack; table",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "知る",
+  "p": "しる",
+  "m": "to know; to understand; to be acquainted with",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "キロ",
+  "p": "キロ",
+  "m": "kilo-; 10^3",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "病院",
+  "p": "びょういん",
+  "m": "hospital",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "高い",
+  "p": "たかい",
+  "m": "high; tall",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "カ月",
+  "p": "かげつ",
+  "m": "(number of) months",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "作る",
+  "p": "つくる",
+  "m": "to make; to produce; to manufacture",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "男",
+  "p": "おとこ",
+  "m": "man",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "聞く",
+  "p": "きく",
+  "m": "to hear",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "夜",
+  "p": "よる",
+  "m": "evening; night",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "大きな",
+  "p": "おおきな",
+  "m": "big; large; great",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "車",
+  "p": "くるま",
+  "m": "car; automobile; vehicle",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "分かる",
+  "p": "わかる",
+  "m": "to be understood; to be comprehended; to be grasped",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "話",
+  "p": "はなし",
+  "m": "talk; speech; chat",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "一つ",
+  "p": "ひとつ",
+  "m": "one",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "電話",
+  "p": "でんわ",
+  "m": "telephone",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "二人",
+  "p": "ふたり",
+  "m": "two persons; two people; pair",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "銀行",
+  "p": "ぎんこう",
+  "m": "bank",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "下",
+  "p": "した",
+  "m": "below; down; under",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "取る",
+  "p": "とる",
+  "m": "to take; to pick up; to harvest",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "映画",
+  "p": "えいが",
+  "m": "movie; film",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "始まる",
+  "p": "はじまる",
+  "m": "to begin",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "新しい",
+  "p": "あたらしい",
+  "m": "new; novel; fresh",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "近く",
+  "p": "ちかく",
+  "m": "near; neighbourhood; neighborhood",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "言葉",
+  "p": "ことば",
+  "m": "language; dialect",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "水",
+  "p": "みず",
+  "m": "water (esp. cool, fresh water, e.g. drinking water)",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "道",
+  "p": "みち",
+  "m": "road; street; way",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "もう",
+  "p": "もう",
+  "m": "already; anymore",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "新聞",
+  "p": "しんぶん",
+  "m": "newspaper",
+  "l": "N5",
+  "t": "N5 · Common 001–100",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "行く",
+  "p": "いく",
+  "m": "to go",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "仕事",
+  "p": "しごと",
+  "m": "work; job; business",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "来る",
+  "p": "くる",
+  "m": "to come (spatially or temporally); to approach; to arrive",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "学校",
+  "p": "がっこう",
+  "m": "school",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "店",
+  "p": "みせ",
+  "m": "store; shop; establishment",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "未だ",
+  "p": "まだ",
+  "m": "as yet; hitherto; still",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "少ない",
+  "p": "すくない",
+  "m": "few; a little; scarce",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "撮る",
+  "p": "とる",
+  "m": "to take (a photo)",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "此処",
+  "p": "ここ",
+  "m": "here (place physically close to the speaker, place point…",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "書く",
+  "p": "かく",
+  "m": "to write",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "朝",
+  "p": "あさ",
+  "m": "morning",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "学生",
+  "p": "がくせい",
+  "m": "student (esp. a university student)",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "家族",
+  "p": "かぞく",
+  "m": "family; members of a family",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "呼ぶ",
+  "p": "よぶ",
+  "m": "to call out (to); to call; to invoke",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "入れる",
+  "p": "いれる",
+  "m": "to put in; to let in; to take in",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "北",
+  "p": "きた",
+  "m": "north",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "毎日",
+  "p": "まいにち",
+  "m": "every day",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "欲しい",
+  "p": "ほしい",
+  "m": "wanted; wished for; in need of",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "山",
+  "p": "やま",
+  "m": "mountain; hill",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "意味",
+  "p": "いみ",
+  "m": "meaning; significance",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "南",
+  "p": "みなみ",
+  "m": "south",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "今月",
+  "p": "こんげつ",
+  "m": "this month",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "違う",
+  "p": "ちがう",
+  "m": "to differ (from); to vary",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "見せる",
+  "p": "みせる",
+  "m": "to show; to display",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "早い",
+  "p": "はやい",
+  "m": "fast; quick; hasty",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "花",
+  "p": "はな",
+  "m": "flower; blossom; bloom",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "然して",
+  "p": "そして",
+  "m": "and; and then; thus",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "来年",
+  "p": "らいねん",
+  "m": "next year",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "立つ",
+  "p": "たつ",
+  "m": "to stand; to rise; to stand up",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "終わる",
+  "p": "おわる",
+  "m": "to finish; to end; to close",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "体",
+  "p": "からだ",
+  "m": "body",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "紙",
+  "p": "かみ",
+  "m": "paper",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "駅",
+  "p": "えき",
+  "m": "station",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "自動車",
+  "p": "じどうしゃ",
+  "m": "automobile",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "音楽",
+  "p": "おんがく",
+  "m": "music; musical movement",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "番",
+  "p": "ばん",
+  "m": "number (in a series)",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "起きる",
+  "p": "おきる",
+  "m": "to get up; to rise",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "一日",
+  "p": "いちにち",
+  "m": "first day of the month",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "夏",
+  "p": "なつ",
+  "m": "summer",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "物",
+  "p": "もの",
+  "m": "thing; object",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "顔",
+  "p": "かお",
+  "m": "face (person)",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "何処",
+  "p": "どこ",
+  "m": "where; what place",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ホテル",
+  "p": "ホテル",
+  "m": "hotel",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "置く",
+  "p": "おく",
+  "m": "to put; to place",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "其処",
+  "p": "そこ",
+  "m": "there (place relatively near listener)",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "難しい",
+  "p": "むずかしい",
+  "m": "difficult; hard; troublesome",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "外国",
+  "p": "がいこく",
+  "m": "foreign country",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "若い",
+  "p": "わかい",
+  "m": "young",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "働く",
+  "p": "はたらく",
+  "m": "to work; to labor; to labour",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "質問",
+  "p": "しつもん",
+  "m": "question; inquiry; enquiry",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "答える",
+  "p": "こたえる",
+  "m": "to answer; to reply",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "一番",
+  "p": "いちばん",
+  "m": "best; first; number one",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "海",
+  "p": "うみ",
+  "m": "sea; beach",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "右",
+  "p": "みぎ",
+  "m": "right; right hand side",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "西",
+  "p": "にし",
+  "m": "west",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "何",
+  "p": "なに",
+  "m": "what",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "五",
+  "p": "ご",
+  "m": "five",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "じゃあ",
+  "p": "じゃあ",
+  "m": "then; well; so",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "生まれる",
+  "p": "うまれる",
+  "m": "to be born",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "近い",
+  "p": "ちかい",
+  "m": "near; close; short (distance)",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "上げる",
+  "p": "あげる",
+  "m": "to raise; to elevate",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "秋",
+  "p": "あき",
+  "m": "autumn; fall",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "悪い",
+  "p": "わるい",
+  "m": "bad; poor; inferior",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "家庭",
+  "p": "かてい",
+  "m": "home; family; household",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "安い",
+  "p": "やすい",
+  "m": "cheap; inexpensive",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "スポーツ",
+  "p": "スポーツ",
+  "m": "sport; sports",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "左",
+  "p": "ひだり",
+  "m": "left; left hand side",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "始め",
+  "p": "はじめ",
+  "m": "beginning; start; outset",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "外国人",
+  "p": "がいこくじん",
+  "m": "foreigner",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "買う",
+  "p": "かう",
+  "m": "to buy; to purchase",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "村",
+  "p": "むら",
+  "m": "village",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "口",
+  "p": "くち",
+  "m": "mouth",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "頃",
+  "p": "ころ",
+  "m": "(approximate) time; around; about",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "春",
+  "p": "はる",
+  "m": "spring; springtime",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "女",
+  "p": "おんな",
+  "m": "woman",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "長い",
+  "p": "ながい",
+  "m": "long (distance)",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "読む",
+  "p": "よむ",
+  "m": "to read",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "足",
+  "p": "あし",
+  "m": "foot",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "誰",
+  "p": "だれ",
+  "m": "who",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "階",
+  "p": "かい",
+  "m": "storey; story; floor",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "こんな",
+  "p": "こんな",
+  "m": "such (about something/someone close to the speaker (i…",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "住む",
+  "p": "すむ",
+  "m": "to live (of humans); to reside; to inhabit",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "少し",
+  "p": "すこし",
+  "m": "small quantity; little; few",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "父",
+  "p": "ちち",
+  "m": "father",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "もっと",
+  "p": "もっと",
+  "m": "(some) more; even more; longer",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "結婚",
+  "p": "けっこん",
+  "m": "marriage",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "切る",
+  "p": "きる",
+  "m": "to cut (usu. to cut through)",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "出来る",
+  "p": "できる",
+  "m": "to be able (in a position) to do; to be up to the task",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "何故",
+  "p": "なぜ",
+  "m": "why; how",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "色",
+  "p": "いろ",
+  "m": "colour; color",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "勤める",
+  "p": "つとめる",
+  "m": "to work (for); to be employed (at); to serve (in)",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "川",
+  "p": "かわ",
+  "m": "river; stream",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "母",
+  "p": "はは",
+  "m": "mother",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "木",
+  "p": "き",
+  "m": "tree; wood; timber",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "走る",
+  "p": "はしる",
+  "m": "to run",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "本当",
+  "p": "ほんとう",
+  "m": "truth; reality",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "乗る",
+  "p": "のる",
+  "m": "to get on (train, plane, bus, ship, etc.); to get in; to board",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "半",
+  "p": "はん",
+  "m": "half; semi-",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "生徒",
+  "p": "せいと",
+  "m": "pupil",
+  "l": "N5",
+  "t": "N5 · Common 101–200",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "余り",
+  "p": "あまり",
+  "m": "remainder; rest; balance",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "食べる",
+  "p": "たべる",
+  "m": "to eat",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "一緒",
+  "p": "いっしょ",
+  "m": "together",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "旅行",
+  "p": "りょこう",
+  "m": "travel; trip",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "待つ",
+  "p": "まつ",
+  "m": "to wait",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "枚",
+  "p": "まい",
+  "m": "counter for flat objects (e.g. sheets of paper)",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "でも",
+  "p": "でも",
+  "m": "but; however; though",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "名前",
+  "p": "なまえ",
+  "m": "name; full name",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "低い",
+  "p": "ひくい",
+  "m": "low (height, tone, rank, degree, cost, etc.); short",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "橋",
+  "p": "はし",
+  "m": "bridge",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "大切",
+  "p": "たいせつ",
+  "m": "important; valuable; worthy of care",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "並ぶ",
+  "p": "ならぶ",
+  "m": "to line up; to stand in a line",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "どんな",
+  "p": "どんな",
+  "m": "what; what kind of",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "好き",
+  "p": "すき",
+  "m": "liking; fondness; love",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "先月",
+  "p": "せんげつ",
+  "m": "last month",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "死ぬ",
+  "p": "しぬ",
+  "m": "to die",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "大変",
+  "p": "たいへん",
+  "m": "very; greatly",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "先生",
+  "p": "せんせい",
+  "m": "teacher; master; doctor",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "練習",
+  "p": "れんしゅう",
+  "m": "practice; practise",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "歌",
+  "p": "うた",
+  "m": "song",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "個",
+  "p": "こ",
+  "m": "counter for articles",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "語",
+  "p": "ご",
+  "m": "language",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "帰る",
+  "p": "かえる",
+  "m": "to return; to come home; to go home",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "公園",
+  "p": "こうえん",
+  "m": "(public) park",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "彼の",
+  "p": "あの",
+  "m": "that (someone or something distant from both speaker…",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "勉強",
+  "p": "べんきょう",
+  "m": "study",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "彼",
+  "p": "あれ",
+  "m": "that (indicating something distant from both speaker a…",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "部屋",
+  "p": "へや",
+  "m": "room",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "週間",
+  "p": "しゅうかん",
+  "m": "week; weekly",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "暗い",
+  "p": "くらい",
+  "m": "dark; gloomy",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "会う",
+  "p": "あう",
+  "m": "to meet; to encounter",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "歩く",
+  "p": "あるく",
+  "m": "to walk",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ずつ",
+  "p": "ずつ",
+  "m": "apiece; each",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "二つ",
+  "p": "ふたつ",
+  "m": "two",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "料理",
+  "p": "りょうり",
+  "m": "cooking; cookery; cuisine",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "三",
+  "p": "さん",
+  "m": "three",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "教える",
+  "p": "おしえる",
+  "m": "to teach; to inform; to instruct",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ポスト",
+  "p": "ポスト",
+  "m": "post; position",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "売る",
+  "p": "うる",
+  "m": "to sell",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "くらい",
+  "p": "くらい",
+  "m": "approximately; about; around",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "忘れる",
+  "p": "わすれる",
+  "m": "to forget; to leave carelessly; to be forgetful of",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "絵",
+  "p": "え",
+  "m": "picture; drawing; painting",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "雨",
+  "p": "あめ",
+  "m": "rain",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "皆",
+  "p": "みな",
+  "m": "all; everyone; everybody",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "今日",
+  "p": "きょう",
+  "m": "today; this day",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "二十日",
+  "p": "はつか",
+  "m": "twentieth (day of the month)",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "屋",
+  "p": "や",
+  "m": "(something) shop",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "半分",
+  "p": "はんぶん",
+  "m": "half",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "日本語",
+  "p": "にほんご",
+  "m": "Japanese (language)",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "一寸",
+  "p": "ちょっと",
+  "m": "just a minute; short time; just a little",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "色々",
+  "p": "いろいろ",
+  "m": "various",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "何時も",
+  "p": "いつも",
+  "m": "always; usually; every time",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "病気",
+  "p": "びょうき",
+  "m": "illness; disease; sickness",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "戸",
+  "p": "と",
+  "m": "door (esp. Japanese-style)",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "小さな",
+  "p": "ちいさな",
+  "m": "small; little; tiny",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "雑誌",
+  "p": "ざっし",
+  "m": "journal; magazine; periodical",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "消える",
+  "p": "きえる",
+  "m": "to go out; to vanish; to disappear",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "英語",
+  "p": "えいご",
+  "m": "English (language)",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ニュース",
+  "p": "ニュース",
+  "m": "news",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "一昨年",
+  "p": "いっさくねん",
+  "m": "year before last",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "一人",
+  "p": "ひとり",
+  "m": "one person",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "動物",
+  "p": "どうぶつ",
+  "m": "animal",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "広い",
+  "p": "ひろい",
+  "m": "spacious; vast; wide",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "貴方",
+  "p": "あなた",
+  "m": "you (referring to someone of equal or lower status)",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "何時",
+  "p": "いつ",
+  "m": "when; how soon",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "火",
+  "p": "ひ",
+  "m": "fire; flame; blaze",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "横",
+  "p": "よこ",
+  "m": "horizontal (as opposed to vertical); lying down",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "電気",
+  "p": "でんき",
+  "m": "electricity",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "楽しい",
+  "p": "たのしい",
+  "m": "enjoyable; fun",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "飲む",
+  "p": "のむ",
+  "m": "to drink; to gulp; to swallow",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "バス",
+  "p": "バス",
+  "m": "bus",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "歌う",
+  "p": "うたう",
+  "m": "to sing",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "明るい",
+  "p": "あかるい",
+  "m": "bright; colourful",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "重い",
+  "p": "おもい",
+  "m": "heavy; weighty; massive",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "来月",
+  "p": "らいげつ",
+  "m": "next month",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "困る",
+  "p": "こまる",
+  "m": "to be troubled; to be worried; to be bothered",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "引く",
+  "p": "ひく",
+  "m": "to pull",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "小さい",
+  "p": "ちいさい",
+  "m": "small; little; tiny",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "迚も",
+  "p": "とても",
+  "m": "very; awfully; exceedingly",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "薬",
+  "p": "くすり",
+  "m": "medicine; pharmaceuticals; (legal) drugs",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "冬",
+  "p": "ふゆ",
+  "m": "winter",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "大使館",
+  "p": "たいしかん",
+  "m": "embassy",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "跳ぶ",
+  "p": "とぶ",
+  "m": "to jump; to leap; to spring",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "建物",
+  "p": "たてもの",
+  "m": "building",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "頭",
+  "p": "あたま",
+  "m": "head",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "白",
+  "p": "しろ",
+  "m": "white",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "番号",
+  "p": "ばんごう",
+  "m": "number; series of digits",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "クラス",
+  "p": "クラス",
+  "m": "class",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "有名",
+  "p": "ゆうめい",
+  "m": "famous",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "大人",
+  "p": "おとな",
+  "m": "adult",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "教室",
+  "p": "きょうしつ",
+  "m": "classroom",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "晴れ",
+  "p": "はれ",
+  "m": "clear weather",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "授業",
+  "p": "じゅぎょう",
+  "m": "lesson; class work; teaching",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ラジオ",
+  "p": "ラジオ",
+  "m": "radio",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "面白い",
+  "p": "おもしろい",
+  "m": "interesting; amusing",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "六日",
+  "p": "むいか",
+  "m": "sixth day of the month",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "赤",
+  "p": "あか",
+  "m": "red; crimson; scarlet",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "テスト",
+  "p": "テスト",
+  "m": "test",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "元気",
+  "p": "げんき",
+  "m": "health(y); robust; vigor",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "何方",
+  "p": "どちら",
+  "m": "which way; which direction; where",
+  "l": "N5",
+  "t": "N5 · Common 201–300",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "押す",
+  "p": "おす",
+  "m": "to push; to press",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "緑",
+  "p": "みどり",
+  "m": "green",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "弱い",
+  "p": "よわい",
+  "m": "weak; frail; delicate",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "二",
+  "p": "に",
+  "m": "two",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "毎年",
+  "p": "まいとし",
+  "m": "every year; yearly; annually",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "沢山",
+  "p": "たくさん",
+  "m": "many; a lot; much",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "軽い",
+  "p": "かるい",
+  "m": "light (i.e. not heavy); feeling light (i.e. offering little resi…",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "浴びる",
+  "p": "あびる",
+  "m": "to dash over oneself (e.g. water); to bathe; to bask in (e…",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "手紙",
+  "p": "てがみ",
+  "m": "letter",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "開ける",
+  "p": "あける",
+  "m": "to open (a door, etc.); to unwrap (e.g. parcel, package)",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "古い",
+  "p": "ふるい",
+  "m": "old (not person); aged; ancient",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "上る",
+  "p": "のぼる",
+  "m": "to ascend; to go up; to climb",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "何れ",
+  "p": "どれ",
+  "m": "which (of three or more)",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "両親",
+  "p": "りょうしん",
+  "m": "parents; both parents",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "魚",
+  "p": "さかな",
+  "m": "fish",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "カメラ",
+  "p": "カメラ",
+  "m": "camera",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "渡す",
+  "p": "わたす",
+  "m": "to ferry across (a river, etc.); to carry across; to traverse",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "耳",
+  "p": "みみ",
+  "m": "ear",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "雪",
+  "p": "ゆき",
+  "m": "snow",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "否",
+  "p": "いいえ",
+  "m": "no; nay",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "冊",
+  "p": "さつ",
+  "m": "counter for books",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "青",
+  "p": "あお",
+  "m": "blue",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "黒",
+  "p": "くろ",
+  "m": "black",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "デモ",
+  "p": "デモ",
+  "m": "demo; demonstration",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "此方",
+  "p": "こちら",
+  "m": "this way (direction close to the speaker or towards the…",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "覚える",
+  "p": "おぼえる",
+  "m": "to memorize; to memorise; to commit to memory",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "犬",
+  "p": "いぬ",
+  "m": "dog (Canis (lupus) familiaris)",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "三つ",
+  "p": "みっつ",
+  "m": "three",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "全部",
+  "p": "ぜんぶ",
+  "m": "all; entire; whole",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "カップ",
+  "p": "カップ",
+  "m": "cup (drinking vessel, measure, brassiere, prize, etc.)",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "借りる",
+  "p": "かりる",
+  "m": "to borrow; to have a loan",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "パーティ",
+  "p": "パーティ",
+  "m": "party",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "野菜",
+  "p": "やさい",
+  "m": "vegetable",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "零",
+  "p": "れい",
+  "m": "zero; nought",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "返す",
+  "p": "かえす",
+  "m": "to return (something); to restore; to put back",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お金",
+  "p": "おかね",
+  "m": "money",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "寝る",
+  "p": "ねる",
+  "m": "to lie down",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "過ぎ",
+  "p": "すぎ",
+  "m": "past; after",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "頼む",
+  "p": "たのむ",
+  "m": "to request; to beg; to ask",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "瓦",
+  "p": "グラム",
+  "m": "gram; gramme",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "遅い",
+  "p": "おそい",
+  "m": "slow",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "甘い",
+  "p": "あまい",
+  "m": "sweet; delicious",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "短い",
+  "p": "みじかい",
+  "m": "short",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "大勢",
+  "p": "おおぜい",
+  "m": "many; crowd; great number of people",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "服",
+  "p": "ふく",
+  "m": "clothes (esp. Western clothes)",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "電車",
+  "p": "でんしゃ",
+  "m": "(electric) train",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "止まる",
+  "p": "とまる",
+  "m": "to stop (moving); to come to a stop",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "着る",
+  "p": "きる",
+  "m": "to wear (in modern Japanese, from the shoulders down…",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "渡る",
+  "p": "わたる",
+  "m": "to cross over; to go across",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "薄い",
+  "p": "うすい",
+  "m": "thin",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "頁",
+  "p": "ページ",
+  "m": "page",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "消す",
+  "p": "けす",
+  "m": "to erase; to delete; to cross out",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "白い",
+  "p": "しろい",
+  "m": "white",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "窓",
+  "p": "まど",
+  "m": "window",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "箱",
+  "p": "はこ",
+  "m": "box",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "匹",
+  "p": "ひき",
+  "m": "counter for small animals",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "自転車",
+  "p": "じてんしゃ",
+  "m": "bicycle",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "隣",
+  "p": "となり",
+  "m": "neighbor (neighbour); next to (esp. living next door to)",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "鳥",
+  "p": "とり",
+  "m": "bird",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "奇麗",
+  "p": "きれい",
+  "m": "pretty; lovely; beautiful",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ドア",
+  "p": "ドア",
+  "m": "door (Western-style)",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "レストラン",
+  "p": "レストラン",
+  "m": "restaurant (esp. Western-style)",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "昼",
+  "p": "ひる",
+  "m": "noon; midday",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "遠い",
+  "p": "とおい",
+  "m": "far; distant",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "アパート",
+  "p": "アパート",
+  "m": "apartment building; apartment block; apartment house",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "池",
+  "p": "いけ",
+  "m": "pond",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "弟",
+  "p": "おとうと",
+  "m": "younger brother",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "美味しい",
+  "p": "おいしい",
+  "m": "delicious; tasty; sweet",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "遊ぶ",
+  "p": "あそぶ",
+  "m": "to play; to enjoy oneself; to have a good time",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "兄",
+  "p": "あに",
+  "m": "older brother",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "幾ら",
+  "p": "いくら",
+  "m": "how much?; how many?",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "何の",
+  "p": "どの",
+  "m": "which; what (way)",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "座る",
+  "p": "すわる",
+  "m": "to sit; to squat",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "タクシー",
+  "p": "タクシー",
+  "m": "taxi",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "煙草",
+  "p": "たばこ",
+  "m": "tobacco; cigarettes",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "卵",
+  "p": "たまご",
+  "m": "eggs; egg; spawn",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "静か",
+  "p": "しずか",
+  "m": "quiet; peaceful",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "狭い",
+  "p": "せまい",
+  "m": "narrow; confined; small",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "図書館",
+  "p": "としょかん",
+  "m": "library",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "兄弟",
+  "p": "きょうだい",
+  "m": "siblings; brothers and sisters",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "縦",
+  "p": "たて",
+  "m": "the vertical; height",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "警官",
+  "p": "けいかん",
+  "m": "policeman",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "降りる",
+  "p": "おりる",
+  "m": "to descend (e.g. a mountain); to go down; to come down",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "出掛ける",
+  "p": "でかける",
+  "m": "to depart; to go out (e.g. on an excursion or outing); to…",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "地下鉄",
+  "p": "ちかてつ",
+  "m": "underground train; subway",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "夏休み",
+  "p": "なつやすみ",
+  "m": "summer vacation; summer holiday",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "玄関",
+  "p": "げんかん",
+  "m": "entranceway; entry hall; vestibule",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "着く",
+  "p": "つく",
+  "m": "to arrive at; to reach",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "吹く",
+  "p": "ふく",
+  "m": "to blow (wind, etc.); to play a wind instrument",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "留学生",
+  "p": "りゅうがくせい",
+  "m": "overseas student; exchange student",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "先週",
+  "p": "せんしゅう",
+  "m": "last week; the week before",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "痛い",
+  "p": "いたい",
+  "m": "painful; sore",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "飛行機",
+  "p": "ひこうき",
+  "m": "aeroplane; airplane; aircraft",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "丁度",
+  "p": "ちょうど",
+  "m": "just; right; exactly",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "無くす",
+  "p": "なくす",
+  "m": "to lose something",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "肉",
+  "p": "にく",
+  "m": "flesh",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "並べる",
+  "p": "ならべる",
+  "m": "to line up; to set up",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "忙しい",
+  "p": "いそがしい",
+  "m": "busy; hectic; occupied",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "トイレ",
+  "p": "トイレ",
+  "m": "toilet; restroom; bathroom",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "机",
+  "p": "つくえ",
+  "m": "desk",
+  "l": "N5",
+  "t": "N5 · Common 301–400",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "休み",
+  "p": "やすみ",
+  "m": "rest; recess; respite",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ゆっくり",
+  "p": "ゆっくり",
+  "m": "slowly; at ease; restful",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "毎月",
+  "p": "まいげつ",
+  "m": "every month; each month; monthly",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "今週",
+  "p": "こんしゅう",
+  "m": "this week",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "疲れる",
+  "p": "つかれる",
+  "m": "to get tired; to tire",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "椅子",
+  "p": "いす",
+  "m": "chair; stool",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "葉書",
+  "p": "はがき",
+  "m": "postcard",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "コピー",
+  "p": "コピー",
+  "m": "copy; photocopy",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "休む",
+  "p": "やすむ",
+  "m": "to be absent; to take a day off",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "友達",
+  "p": "ともだち",
+  "m": "friend; companion",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "熱い",
+  "p": "あつい",
+  "m": "hot (thing)",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "地図",
+  "p": "ちず",
+  "m": "map",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "テープ",
+  "p": "テープ",
+  "m": "tape",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "明日",
+  "p": "あした",
+  "m": "tomorrow",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "レコード",
+  "p": "レコード",
+  "m": "record (e.g. LP)",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "其れから",
+  "p": "それから",
+  "m": "and then; after that",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "結構",
+  "p": "けっこう",
+  "m": "splendid; nice; wonderful",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "入口",
+  "p": "いりぐち",
+  "m": "entrance; entry; gate",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お母さん",
+  "p": "おかあさん",
+  "m": "mother",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "易しい",
+  "p": "やさしい",
+  "m": "easy; plain; simple",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "如何して",
+  "p": "どうして",
+  "m": "why?; for what reason; how",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "文章",
+  "p": "ぶんしょう",
+  "m": "sentence; article; composition",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "大丈夫",
+  "p": "だいじょうぶ",
+  "m": "safe; all right; OK",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "毎週",
+  "p": "まいしゅう",
+  "m": "every week",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ベッド",
+  "p": "ベッド",
+  "m": "bed",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "黒い",
+  "p": "くろい",
+  "m": "black",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "買い物",
+  "p": "かいもの",
+  "m": "shopping; purchased goods",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "貸す",
+  "p": "かす",
+  "m": "to lend; to loan",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "赤い",
+  "p": "あかい",
+  "m": "red",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "立派",
+  "p": "りっぱ",
+  "m": "splendid; fine; handsome",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "後ろ",
+  "p": "うしろ",
+  "m": "back; behind; rear",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "靴",
+  "p": "くつ",
+  "m": "shoes; footwear",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "妹",
+  "p": "いもうと",
+  "m": "younger sister",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "女の子",
+  "p": "おんなのこ",
+  "m": "girl",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "厚い",
+  "p": "あつい",
+  "m": "thick; deep; heavy",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "四つ",
+  "p": "よっつ",
+  "m": "four",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "便利",
+  "p": "べんり",
+  "m": "convenient; handy; useful",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "達",
+  "p": "たち",
+  "m": "pluralizing suffix (esp. for people & animals; formerly h…",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "テーブル",
+  "p": "テーブル",
+  "m": "table",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "上手",
+  "p": "じょうず",
+  "m": "skill; skillful; dexterity",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "庭",
+  "p": "にわ",
+  "m": "garden",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "プール",
+  "p": "プール",
+  "m": "(swimming) pool",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "皆さん",
+  "p": "みなさん",
+  "m": "all; everyone; everybody",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お茶",
+  "p": "おちゃ",
+  "m": "tea (usu. green)",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "デパート",
+  "p": "デパート",
+  "m": "department store",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "塩",
+  "p": "しお",
+  "m": "salt (i.e. sodium chloride); common salt; table salt",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "天気",
+  "p": "てんき",
+  "m": "weather; the elements",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "洗う",
+  "p": "あらう",
+  "m": "to wash",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "晩",
+  "p": "ばん",
+  "m": "evening",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "六",
+  "p": "ろく",
+  "m": "six",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "冷たい",
+  "p": "つめたい",
+  "m": "cold (to the touch); chilly; icy",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "医者",
+  "p": "いしゃ",
+  "m": "(medical) doctor; physician",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "フィルム",
+  "p": "フィルム",
+  "m": "film",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "郵便局",
+  "p": "ゆうびんきょく",
+  "m": "post office",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "台所",
+  "p": "だいどころ",
+  "m": "kitchen",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "二十歳",
+  "p": "はたち",
+  "m": "20 years old",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "嫌",
+  "p": "いや",
+  "m": "disagreeable; detestable; unpleasant",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "姉",
+  "p": "あね",
+  "m": "older sister; elder sister",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "咲く",
+  "p": "さく",
+  "m": "to bloom",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "夕方",
+  "p": "ゆうがた",
+  "m": "evening; dusk",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "猫",
+  "p": "ねこ",
+  "m": "cat",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "吸う",
+  "p": "すう",
+  "m": "to smoke; to breathe in; to inhale",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "向こう",
+  "p": "むこう",
+  "m": "opposite side; other side; opposite direction",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お父さん",
+  "p": "おとうさん",
+  "m": "father; dad; papa",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "シャツ",
+  "p": "シャツ",
+  "m": "shirt; singlet",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "階段",
+  "p": "かいだん",
+  "m": "stairs; stairway; staircase",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "時計",
+  "p": "とけい",
+  "m": "watch; clock; timepiece",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "珈琲",
+  "p": "コーヒー",
+  "m": "coffee",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "がる",
+  "p": "がる",
+  "m": "to feel (on adj-stem to represent a third party's appare…",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "被る",
+  "p": "かぶる",
+  "m": "to put on (one's head); to wear; to have on",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "時々",
+  "p": "ときどき",
+  "m": "sometimes; at times",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "嗚呼",
+  "p": "ああ",
+  "m": "Ah!; Oh!; Alas!",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "千",
+  "p": "せん",
+  "m": "1,000; thousand",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "漢字",
+  "p": "かんじ",
+  "m": "Chinese characters; kanji",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "出口",
+  "p": "でぐち",
+  "m": "exit; gateway; way out",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "男の子",
+  "p": "おとこのこ",
+  "m": "boy; male child; baby boy",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "風呂",
+  "p": "ふろ",
+  "m": "bath; bathtub",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "釦",
+  "p": "ボタン",
+  "m": "button",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ペット",
+  "p": "ペット",
+  "m": "pet",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "嫌い",
+  "p": "きらい",
+  "m": "dislike; hate",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "冷蔵庫",
+  "p": "れいぞうこ",
+  "m": "refrigerator",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "コート",
+  "p": "コート",
+  "m": "coat",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ノート",
+  "p": "ノート",
+  "m": "notebook; copy-book; exercise book",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ナイフ",
+  "p": "ナイフ",
+  "m": "knife",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "幾つ",
+  "p": "いくつ",
+  "m": "how many?",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "食堂",
+  "p": "しょくどう",
+  "m": "dining room; dining hall; cafeteria",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "どうも",
+  "p": "どうも",
+  "m": "thanks",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "青い",
+  "p": "あおい",
+  "m": "blue; green",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "掃除",
+  "p": "そうじ",
+  "m": "cleaning; sweeping",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "牛乳",
+  "p": "ぎゅうにゅう",
+  "m": "(cow's) milk",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "散歩",
+  "p": "さんぽ",
+  "m": "walk; stroll",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "切手",
+  "p": "きって",
+  "m": "stamp (postage); merchandise certificate",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "フォーク",
+  "p": "フォーク",
+  "m": "fork",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "鼻",
+  "p": "はな",
+  "m": "nose",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "牛肉",
+  "p": "ぎゅうにく",
+  "m": "beef",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "砂糖",
+  "p": "さとう",
+  "m": "sugar",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "暑い",
+  "p": "あつい",
+  "m": "hot (weather, etc.); warm",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "洗濯",
+  "p": "せんたく",
+  "m": "washing; laundry",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "食べ物",
+  "p": "たべもの",
+  "m": "food",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "大好き",
+  "p": "だいすき",
+  "m": "loveable; very likeable; like very much",
+  "l": "N5",
+  "t": "N5 · Common 401–500",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "風邪",
+  "p": "かぜ",
+  "m": "cold (illness); common cold",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "荷物",
+  "p": "にもつ",
+  "m": "luggage; baggage",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "泳ぐ",
+  "p": "およぐ",
+  "m": "to swim",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "細い",
+  "p": "ほそい",
+  "m": "thin; slender; fine",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "其れでは",
+  "p": "それでは",
+  "m": "well then ...",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "五つ",
+  "p": "いつつ",
+  "m": "five",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "差す",
+  "p": "さす",
+  "m": "to shine",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "辺",
+  "p": "へん",
+  "m": "area; vicinity",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "帽子",
+  "p": "ぼうし",
+  "m": "hat; cap",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "可愛い",
+  "p": "かわいい",
+  "m": "cute; adorable; charming",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "果物",
+  "p": "くだもの",
+  "m": "fruit",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "背",
+  "p": "せい",
+  "m": "height; stature",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "段々",
+  "p": "だんだん",
+  "m": "gradually; by degrees",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "作文",
+  "p": "さくぶん",
+  "m": "writing (an essay, prose, etc.); composition",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "燐寸",
+  "p": "まっち",
+  "m": "match (contest)",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "映画館",
+  "p": "えいがかん",
+  "m": "movie theatre (theater); cinema",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "はい",
+  "p": "はい",
+  "m": "yes",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "寒い",
+  "p": "さむい",
+  "m": "cold (e.g. weather)",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "太い",
+  "p": "ふとい",
+  "m": "fat; thick",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "危ない",
+  "p": "あぶない",
+  "m": "dangerous; risky; hazardous",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "エレベーター",
+  "p": "エレベーター",
+  "m": "elevator; lift",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "パン",
+  "p": "パン",
+  "m": "bread; pastries (e.g. croissants); pastry-based products",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "切符",
+  "p": "きっぷ",
+  "m": "ticket",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ネクタイ",
+  "p": "ネクタイ",
+  "m": "tie; necktie",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "黄色",
+  "p": "きいろ",
+  "m": "yellow; amber",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "磨く",
+  "p": "みがく",
+  "m": "to polish; to shine; to brush (e.g. teeth)",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "去年",
+  "p": "きょねん",
+  "m": "last year",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ギター",
+  "p": "ギター",
+  "m": "guitar",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "辞書",
+  "p": "じしょ",
+  "m": "dictionary; lexicon",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "廊下",
+  "p": "ろうか",
+  "m": "corridor; hallway; passageway",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "昨日",
+  "p": "きのう",
+  "m": "yesterday",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "伯父さん",
+  "p": "おじさん",
+  "m": "uncle",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "財布",
+  "p": "さいふ",
+  "m": "purse; handbag; wallet",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "習う",
+  "p": "ならう",
+  "m": "to take lessons in; to be taught; to learn",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "晴れる",
+  "p": "はれる",
+  "m": "to clear up; to clear away; to be sunny",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "醤油",
+  "p": "しょうゆ",
+  "m": "soy sauce; shoyu",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ペン",
+  "p": "ペン",
+  "m": "pen",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "喫茶店",
+  "p": "きっさてん",
+  "m": "coffee lounge; coffee shop; (rather formal) cafe",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "締める",
+  "p": "しめる",
+  "m": "to tie; to fasten",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "交差点",
+  "p": "こうさてん",
+  "m": "crossing; intersection",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "傘",
+  "p": "かさ",
+  "m": "umbrella; parasol",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "賑やか",
+  "p": "にぎやか",
+  "m": "bustling; busy",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "封筒",
+  "p": "ふうとう",
+  "m": "envelope",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "さあ",
+  "p": "さあ",
+  "m": "come; come now",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "毎朝",
+  "p": "まいあさ",
+  "m": "every morning",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "スカート",
+  "p": "スカート",
+  "m": "skirt",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "石鹸",
+  "p": "せっけん",
+  "m": "soap",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "洋服",
+  "p": "ようふく",
+  "m": "Western-style clothes (cf traditional Japanese clothes)",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "煩い",
+  "p": "うるさい",
+  "m": "noisy; loud",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "八",
+  "p": "はち",
+  "m": "eight",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "では",
+  "p": "では",
+  "m": "then; well; so",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "宜しく",
+  "p": "よろしく",
+  "m": "well; properly; suitably",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ズボン",
+  "p": "ズボン",
+  "m": "trousers",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "暇",
+  "p": "ひま",
+  "m": "spare time; free time; leisure",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "彼処",
+  "p": "あそこ",
+  "m": "there (place physically distant from both speaker and li…",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "六つ",
+  "p": "むっつ",
+  "m": "six",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "鍵",
+  "p": "かぎ",
+  "m": "key",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "丸い",
+  "p": "まるい",
+  "m": "round; circular; spherical",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "背広",
+  "p": "せびろ",
+  "m": "business suit",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "汚い",
+  "p": "きたない",
+  "m": "dirty; filthy; foul",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "曲がる",
+  "p": "まがる",
+  "m": "to bend; to curve; to warp",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "入る",
+  "p": "はいる",
+  "m": "to enter",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "鉛筆",
+  "p": "えんぴつ",
+  "m": "pencil",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "閉める",
+  "p": "しめる",
+  "m": "to close; to shut",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お腹",
+  "p": "おなか",
+  "m": "stomach",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "多分",
+  "p": "たぶん",
+  "m": "perhaps; probably",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "バター",
+  "p": "バター",
+  "m": "butter",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "紅茶",
+  "p": "こうちゃ",
+  "m": "black tea",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "居る",
+  "p": "いる",
+  "m": "to be (of animate objects); to exist",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "宿題",
+  "p": "しゅくだい",
+  "m": "homework",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "どうぞ",
+  "p": "どうぞ",
+  "m": "please; kindly",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "掛かる",
+  "p": "かかる",
+  "m": "to take",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "七つ",
+  "p": "ななつ",
+  "m": "seven",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "伯母さん",
+  "p": "おばさん",
+  "m": "aunt",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "セーター",
+  "p": "セーター",
+  "m": "sweater; jumper",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "脱ぐ",
+  "p": "ぬぐ",
+  "m": "to take off (clothes, shoes, etc.); to undress",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "十",
+  "p": "じゅう",
+  "m": "10; ten",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "シャワー",
+  "p": "シャワー",
+  "m": "shower",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "眼鏡",
+  "p": "めがね",
+  "m": "spectacles; glasses",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "下さい",
+  "p": "ください",
+  "m": "please give me",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "鳴く",
+  "p": "なく",
+  "m": "to sing (bird)",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "カレー",
+  "p": "カレー",
+  "m": "curry",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "詰らない",
+  "p": "つまらない",
+  "m": "dull; uninteresting; boring",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "カレンダー",
+  "p": "カレンダー",
+  "m": "calendar",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "コップ",
+  "p": "コップ",
+  "m": "glass (i.e. drinking vessel); tumbler",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "涼しい",
+  "p": "すずしい",
+  "m": "cool; refreshing",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ハンカチ",
+  "p": "ハンカチ",
+  "m": "handkerchief",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "瓩",
+  "p": "キログラム",
+  "m": "kilogram; kilogramme",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "丈夫",
+  "p": "じょうぶ",
+  "m": "healthy; robust; strong",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "真っ直ぐ",
+  "p": "まっすぐ",
+  "m": "straight (ahead); direct; upright",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "茶色",
+  "p": "ちゃいろ",
+  "m": "light brown; tawny",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "黄色い",
+  "p": "きいろい",
+  "m": "yellow",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "履く",
+  "p": "はく",
+  "m": "to put on (or wear) lower-body clothing (i.e. pants, skirt…",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "万",
+  "p": "まん",
+  "m": "10,000; ten thousand",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お祖母さん",
+  "p": "おばあさん",
+  "m": "grandmother",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "又",
+  "p": "また",
+  "m": "again; and; also",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "辛い",
+  "p": "からい",
+  "m": "spicy; hot",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "温い",
+  "p": "ぬるい",
+  "m": "lukewarm; tepid",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "百",
+  "p": "ひゃく",
+  "m": "100; hundred",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ええ",
+  "p": "ええ",
+  "m": "yes; that is correct; right",
+  "l": "N5",
+  "t": "N5 · Common 501–600",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ボールペン",
+  "p": "ボールペン",
+  "m": "ball-point pen",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "八つ",
+  "p": "やっつ",
+  "m": "eight",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "粁",
+  "p": "キロメートル",
+  "m": "kilometer; kilometre",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "火曜日",
+  "p": "かようび",
+  "m": "Tuesday",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "豚肉",
+  "p": "ぶたにく",
+  "m": "pork",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "上着",
+  "p": "うわぎ",
+  "m": "coat; tunic; jacket",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ストーブ",
+  "p": "ストーブ",
+  "m": "heater (from stove)",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "無い",
+  "p": "ない",
+  "m": "nonexistent; not being (there)",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "毎晩",
+  "p": "まいばん",
+  "m": "every night",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お祖父さん",
+  "p": "おじいさん",
+  "m": "grandfather",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "度",
+  "p": "ど",
+  "m": "degree (angle, temperature, scale, etc.)",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "交番",
+  "p": "こうばん",
+  "m": "police box",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "Ｙシャツ",
+  "p": "ワイシャツ",
+  "m": "shirt; business shirt; dress shirt",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "夕べ",
+  "p": "ゆうべ",
+  "m": "evening",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "然うして",
+  "p": "そうして",
+  "m": "and; like that",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "今朝",
+  "p": "けさ",
+  "m": "this morning",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "靴下",
+  "p": "くつした",
+  "m": "socks; sock; stockings",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "箸",
+  "p": "はし",
+  "m": "chopsticks",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "万年筆",
+  "p": "まんねんひつ",
+  "m": "fountain pen",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "要る",
+  "p": "いる",
+  "m": "to need",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "其方",
+  "p": "そちら",
+  "m": "that way (direction distant from the speaker, close to t…",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "閉まる",
+  "p": "しまる",
+  "m": "to be shut; to close; to be closed",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "彼方",
+  "p": "あちら",
+  "m": "that way (direction distant from both speaker and liste…",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "曇り",
+  "p": "くもり",
+  "m": "cloudiness; cloudy weather; shadow",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "飲み物",
+  "p": "のみもの",
+  "m": "drink; beverage",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "九つ",
+  "p": "ここのつ",
+  "m": "nine",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "茶わん",
+  "p": "ちゃわん",
+  "m": "rice bowl; tea cup; teacup",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "灰皿",
+  "p": "はいざら",
+  "m": "ashtray",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "スプーン",
+  "p": "スプーン",
+  "m": "spoon",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "さよなら",
+  "p": "さよなら",
+  "m": "good-bye",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "今日は",
+  "p": "こんにちは",
+  "m": "hello; good day (daytime greeting)",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "鶏肉",
+  "p": "けいにく",
+  "m": "chicken meat",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "テープレコーダー",
+  "p": "テープレコーダー",
+  "m": "tape recorder",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "前",
+  "p": "まえ",
+  "m": "ago; before (some event); previously",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "御免なさい",
+  "p": "ごめんなさい",
+  "m": "I beg your pardon; excuse me",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "平仮名",
+  "p": "ひらがな",
+  "m": "hiragana; cursive Japanese syllabary used primarily for…",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "曇る",
+  "p": "くもる",
+  "m": "to get cloudy; to cloud over; to become overcast",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "八百屋",
+  "p": "やおや",
+  "m": "greengrocer",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ご飯",
+  "p": "ごはん",
+  "m": "cooked rice",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "再来年",
+  "p": "さらいねん",
+  "m": "year after next",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "風",
+  "p": "かぜ",
+  "m": "wind; breeze",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "本棚",
+  "p": "ほんだな",
+  "m": "bookshelves; bookshelf; bookcase",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "花瓶",
+  "p": "かびん",
+  "m": "(flower) vase",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "誰か",
+  "p": "だれか",
+  "m": "someone; somebody",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "左様なら",
+  "p": "さようなら",
+  "m": "good-bye",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "スリッパ",
+  "p": "スリッパ",
+  "m": "slipper; slippers",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "今晩",
+  "p": "こんばん",
+  "m": "tonight; this evening",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "飴",
+  "p": "あめ",
+  "m": "(hard) candy; toffee",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "明後日",
+  "p": "あさって",
+  "m": "day after tomorrow",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "片仮名",
+  "p": "かたかな",
+  "m": "katakana; angular Japanese syllabary used primarily fo…",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "有難うございます",
+  "p": "ありがとうございます",
+  "m": "thank you",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お早うございます",
+  "p": "おはようございます",
+  "m": "good morning",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "空",
+  "p": "そら",
+  "m": "sky; the heavens",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "もしもし",
+  "p": "もしもし",
+  "m": "hello (e.g. on phone)",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お巡りさん",
+  "p": "おまわりさん",
+  "m": "policeman",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "一昨日",
+  "p": "いっさくじつ",
+  "m": "day before yesterday",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "夕飯",
+  "p": "ゆうはん",
+  "m": "evening meal",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "開く",
+  "p": "あく",
+  "m": "to open (e.g. doors)",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "本",
+  "p": "ほん",
+  "m": "book; volume",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "済みません",
+  "p": "すみません",
+  "m": "sorry; excuse me; thank you",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "鞄",
+  "p": "かばん",
+  "m": "bag; satchel; briefcase",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "今晩は",
+  "p": "こんばんは",
+  "m": "good evening",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "七",
+  "p": "しち",
+  "m": "seven",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "字引",
+  "p": "じびき",
+  "m": "dictionary",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "あのう",
+  "p": "あのう",
+  "m": "say; well; errr ...",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "四",
+  "p": "し",
+  "m": "four",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お休みなさい",
+  "p": "おやすみなさい",
+  "m": "good night",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ご免ください",
+  "p": "ごめんください",
+  "m": "may I come in?",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "此の",
+  "p": "この",
+  "m": "this (something or someone close to the speaker (inclu…",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "朝ご飯",
+  "p": "あさごはん",
+  "m": "breakfast",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お酒",
+  "p": "おさけ",
+  "m": "alcohol; sake",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "二日",
+  "p": "ふつか",
+  "m": "second day of the month",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "八日",
+  "p": "ようか",
+  "m": "the eighth day of the month",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お弁当",
+  "p": "おべんとう",
+  "m": "bento (Japanese box lunch)",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "いらっしゃいませ",
+  "p": "いらっしゃいませ",
+  "m": "welcome (in shops, etc.)",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お菓子",
+  "p": "おかし",
+  "m": "confections; sweets; candy",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お願いします",
+  "p": "おねがいします",
+  "m": "please",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お兄さん",
+  "p": "おにいさん",
+  "m": "older brother; elder brother",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お姉さん",
+  "p": "おねえさん",
+  "m": "elder sister",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お手洗い",
+  "p": "おてあらい",
+  "m": "toilet; restroom; lavatory",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "こちらこそ",
+  "p": "こちらこそ",
+  "m": "it is I who should say so",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ご馳走様でした",
+  "p": "ごちそうさまでした",
+  "m": "That was a delicious meal (said after meals); What a wo…",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "どう致しまして",
+  "p": "どういたしまして",
+  "m": "you are welcome; don't mention it; not at all",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "イクラ",
+  "p": "イクラ",
+  "m": "salted salmon roe (i.e. individual mature eggs)",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ポケット",
+  "p": "ポケット",
+  "m": "pocket",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ラジオカセット",
+  "p": "ラジオカセット",
+  "m": "radio-cassette; tape recorder",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ラジカセ",
+  "p": "ラジカセ",
+  "m": "radio-cassette player",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "一月",
+  "p": "ひとつき",
+  "m": "one month",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "奥さん",
+  "p": "おくさん",
+  "m": "wife; your wife; his wife",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "下手",
+  "p": "へた",
+  "m": "unskillful; poor; awkward",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "角",
+  "p": "かど",
+  "m": "corner (e.g. desk, pavement)",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "金曜日",
+  "p": "きんようび",
+  "m": "Friday",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "九日",
+  "p": "ここのか",
+  "m": "the ninth day of the month",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "月曜日",
+  "p": "げつようび",
+  "m": "Monday",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "五日",
+  "p": "いつか",
+  "m": "the fifth day of the month",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "降る",
+  "p": "ふる",
+  "m": "to precipitate; to fall (e.g. rain)",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お皿",
+  "p": "おさら",
+  "m": "plate; dish",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "三日",
+  "p": "みっか",
+  "m": "the third day of the month",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "四日",
+  "p": "よっか",
+  "m": "fourth day of month",
+  "l": "N5",
+  "t": "N5 · Common 601–700",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "失礼しました",
+  "p": "しつれいしました",
+  "m": "excuse me; I'm sorry",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "十日",
+  "p": "とおか",
+  "m": "the tenth day of the month",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "水曜日",
+  "p": "すいようび",
+  "m": "Wednesday",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "頂きます",
+  "p": "いただきます",
+  "m": "expression of gratitude before meals",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "誕生日",
+  "p": "たんじょうび",
+  "m": "birthday",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "弾く",
+  "p": "ひく",
+  "m": "to play (piano, guitar)",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "直ぐに",
+  "p": "すぐに",
+  "m": "instantly; immediately",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "土曜日",
+  "p": "どようび",
+  "m": "Saturday",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "東",
+  "p": "ひがし",
+  "m": "east",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "日曜日",
+  "p": "にちようび",
+  "m": "Sunday",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "不味い",
+  "p": "まずい",
+  "m": "unappetising; unappetizing; unpleasant (taste, appear…",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "木曜日",
+  "p": "もくようび",
+  "m": "Thursday",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "来週",
+  "p": "らいしゅう",
+  "m": "next week",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "七日",
+  "p": "なのか",
+  "m": "the seventh day of the month",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "門",
+  "p": "かど",
+  "m": "gate",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "晩御飯",
+  "p": "ばんごはん",
+  "m": "dinner; evening meal",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "昼ご飯",
+  "p": "ひるごはん",
+  "m": "lunch; midday meal",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "良く",
+  "p": "よく",
+  "m": "nicely; properly; well",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "点ける",
+  "p": "つける",
+  "m": "to turn on; to switch on; to light up",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "初めまして",
+  "p": "はじめまして",
+  "m": "How do you do?; I am glad to meet you",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "イイ",
+  "p": "イイ",
+  "m": "Iran-Iraq",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "もう一度",
+  "p": "もういちど",
+  "m": "once more; again",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "リッパー",
+  "p": "リッパー",
+  "m": "ripper",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "か",
+  "p": "か",
+  "m": "indicates question (sentence end)",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "月",
+  "p": "がつ",
+  "m": "month (of the year); used after number or question wor…",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ではまた",
+  "p": "ではまた",
+  "m": "see you later (used in casual correspondence and conv…",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "どうも有難うございます",
+  "p": "どうもありがとうござい…",
+  "m": "thank you very much",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "タブン",
+  "p": "タブン",
+  "m": "tabun (nerve gas)",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お風呂",
+  "p": "おふろ",
+  "m": "bath",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "どう",
+  "p": "どう",
+  "m": "whoa (command used to stop a horse, etc.)",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "ない",
+  "p": "ない",
+  "m": "not (verb-negating suffix; may indicate question or invi…",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "お元気ですか",
+  "p": "おげんきですか",
+  "m": "how are you?",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ },
+ {
+  "w": "失礼します",
+  "p": "しつれいします",
+  "m": "excuse me",
+  "l": "N5",
+  "t": "N5 · Common 701–800",
+  "z": "",
+  "e": ""
+ }
+]

@@ -1,0 +1,119 @@
+[
+ {
+  "w": "約束",
+  "p": "やくそく",
+  "m": "promise",
+  "l": "N4",
+  "t": "Daily life",
+  "z": "友達と七時に会う約束をしました。",
+  "e": "I promised to meet a friend at seven."
+ },
+ {
+  "w": "予定",
+  "p": "よてい",
+  "m": "plan; schedule",
+  "l": "N4",
+  "t": "Daily life",
+  "z": "週末の予定はありますか。",
+  "e": "Do you have plans this weekend?"
+ },
+ {
+  "w": "準備",
+  "p": "じゅんび",
+  "m": "preparation",
+  "l": "N4",
+  "t": "Daily life",
+  "z": "出かける準備はできましたか。",
+  "e": "Are you ready to head out?"
+ },
+ {
+  "w": "遅れる",
+  "p": "おくれる",
+  "m": "to be late",
+  "l": "N4",
+  "t": "Daily life",
+  "z": "電車が遅れて、会議に間に合わなかった。",
+  "e": "The train was late and I missed the meeting."
+ },
+ {
+  "w": "忘れる",
+  "p": "わすれる",
+  "m": "to forget",
+  "l": "N4",
+  "t": "Daily life",
+  "z": "傘を忘れてしまいました。",
+  "e": "I forgot my umbrella."
+ },
+ {
+  "w": "経験",
+  "p": "けいけん",
+  "m": "experience",
+  "l": "N4",
+  "t": "Work & study",
+  "z": "日本で働いた経験があります。",
+  "e": "I have experience working in Japan."
+ },
+ {
+  "w": "相談",
+  "p": "そうだん",
+  "m": "to consult",
+  "l": "N4",
+  "t": "Work & study",
+  "z": "先生に進路を相談しました。",
+  "e": "I consulted my teacher about my path."
+ },
+ {
+  "w": "片付ける",
+  "p": "かたづける",
+  "m": "to tidy up",
+  "l": "N4",
+  "t": "Daily life",
+  "z": "部屋を片付けないといけない。",
+  "e": "I have to tidy my room."
+ },
+ {
+  "w": "引っ越す",
+  "p": "ひっこす",
+  "m": "to move house",
+  "l": "N4",
+  "t": "Daily life",
+  "z": "来月、新しい家に引っ越します。",
+  "e": "I move to a new home next month."
+ },
+ {
+  "w": "大切",
+  "p": "たいせつ",
+  "m": "important; precious",
+  "l": "N4",
+  "t": "Feelings",
+  "z": "健康は大切です。",
+  "e": "Health is important."
+ },
+ {
+  "w": "続ける",
+  "p": "つづける",
+  "m": "to continue",
+  "l": "N4",
+  "t": "Work & study",
+  "z": "毎日日本語の勉強を続けています。",
+  "e": "I keep studying Japanese every day."
+ },
+ {
+  "w": "急に",
+  "p": "きゅうに",
+  "m": "suddenly",
+  "l": "N3",
+  "t": "Daily life",
+  "z": "急に雨が降ってきた。",
+  "e": "It suddenly started raining."
+ },
+ {
+  "w": "おすすめ",
+  "p": "おすすめ",
+  "m": "recommendation",
+  "l": "N4",
+  "t": "Shopping & tech",
+  "z": "おすすめの店を教えてください。",
+  "e": "Please tell me a shop you recommend."
+ }
+]

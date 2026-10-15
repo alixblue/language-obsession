@@ -1,0 +1,18 @@
+{
+ "code": "ja",
+ "name": "Japanese",
+ "script": "Kanji + kana",
+ "reading": "kana",
+ "speech": "ja-JP",
+ "levels": [
+  "N5",
+  "N4",
+  "N3",
+  "N2",
+  "N1"
+ ],
+ "level_direction": "lower number = harder (N5 easiest, N1 hardest)",
+ "goal": "N3",
+ "test_date": "2027-02-28",
+ "start_level": "N5"
+}
