@@ -50,6 +50,8 @@
     return names.filter(n=>score(n)>=0).sort((a,b)=>score(b)-score(a)).slice(0,8);
   }
   const retired=m=>/no longer available|not found|NOT_FOUND|not supported|deprecated|is not available|404/i.test(String(m||''));
+  const busy=m=>/503|500|overload|high demand|UNAVAILABLE|try again later/i.test(String(m||''));
+  const nap=ms=>new Promise(r=>setTimeout(r,ms));
   async function callGemini(key,input,opts,wantJson){
     const turns=typeof input==='string'?[{role:'user',content:input}]:input;
     const contents=turns.map(m=>({role:m.role==='assistant'?'model':'user',parts:[{text:m.content}]}));
@@ -61,21 +63,33 @@
     let j=null,lastErr=null;
     if(stored){
       try{j=await send(stored)}
-      catch(e){if(e&&e.code==='upstream_error'&&retired(e.message)){try{localStorage.removeItem('laoshi_gemini_model')}catch(x){}lastErr=e}else throw e}
+      catch(e){
+        if(e&&e.code==='upstream_error'&&retired(e.message)){try{localStorage.removeItem('laoshi_gemini_model')}catch(x){}lastErr=e}
+        else if(e&&e.code==='upstream_error'&&busy(e.message)){lastErr=e}
+        else throw e;
+      }
     }
     if(!j){
       const cands=await geminiCandidates(key,opts&&opts.signal);
       if(!cands.length)throw {code:'upstream_error',message:'No Gemini text model is available for this key'};
-      const tried=[];
-      for(const m of cands){
-        try{j=await send(m);try{localStorage.setItem('laoshi_gemini_model',m)}catch(x){}break}
-        catch(e){
-          tried.push(m);
-          if(e&&e.code==='upstream_error'&&retired(e.message)){lastErr=e;continue}
-          throw e;
+      let busyCount=0;
+      for(let round=0;round<2&&!j;round++){
+        if(round===1){if(!busyCount)break;await nap(3000)}
+        const tried=[];
+        for(const m of cands){
+          try{j=await send(m);try{localStorage.setItem('laoshi_gemini_model',m)}catch(x){}break}
+          catch(e){
+            tried.push(m);
+            if(e&&e.code==='upstream_error'&&retired(e.message)){lastErr=e;continue}
+            if(e&&e.code==='upstream_error'&&busy(e.message)){busyCount++;lastErr=e;continue}
+            throw e;
+          }
         }
       }
-      if(!j)throw {code:'upstream_error',message:'No listed model accepted the request (tried '+tried.join(', ')+'). Last error: '+(lastErr&&lastErr.message||'')};
+      if(!j){
+        if(busyCount)throw {code:'rate_limited',message:'The free Google models are busy right now. Try again in a minute. ('+(lastErr&&lastErr.message||'')+')'};
+        throw {code:'upstream_error',message:'No listed model accepted the request. Last error: '+(lastErr&&lastErr.message||'')};
+      }
     }
     const c=(j.candidates||[])[0]||{};
     const text=((c.content&&c.content.parts)||[]).map(p=>p.text||'').join('');
