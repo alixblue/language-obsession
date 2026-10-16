@@ -1,0 +1,173 @@
+{
+ "reply": [
+  [
+   "友だち",
+   "今度の土曜日、みんなでバーベキューするんだけど、来られそう？",
+   "A friend invites you to a barbecue on Saturday. Accept or decline and give a reason."
+  ],
+  [
+   "同僚",
+   "明日の打ち合わせ、10時から14時に変更になりました。ご都合いかがですか。",
+   "A colleague moved tomorrow's meeting. Reply politely about whether the new time works."
+  ],
+  [
+   "友だち",
+   "ごめん、10分くらい遅れそう！先にお店入っててくれる？",
+   "A friend is running late. Reply naturally."
+  ],
+  [
+   "大家さん",
+   "来週の火曜日の午前中に、エアコンの点検があります。在宅していただけますか。",
+   "Your landlord says the air conditioner will be checked. Reply about whether you'll be home."
+  ],
+  [
+   "先輩",
+   "この前貸した本、読み終わったら返してもらえる？急がなくていいからね。",
+   "A senior colleague asks for their book back. Reply politely."
+  ],
+  [
+   "友だち",
+   "最近おすすめのカフェある？週末に行ってみたいんだけど。",
+   "A friend asks for a café recommendation. Recommend one and say why."
+  ],
+  [
+   "お店",
+   "ご予約ありがとうございます。当日は何名様でいらっしゃいますか。",
+   "A restaurant asks how many people are coming. Reply and add one request."
+  ],
+  [
+   "同僚",
+   "資料ありがとうございました。1か所だけ数字が違うようなので、確認していただけますか。",
+   "A colleague found a wrong figure in your document. Reply politely."
+  ],
+  [
+   "友だち",
+   "風邪ひいちゃって、明日の約束行けなくなっちゃった。ほんとにごめん！",
+   "A friend cancels because they caught a cold. Reply kindly."
+  ],
+  [
+   "先生",
+   "レポートの締め切りは金曜日です。質問があれば、いつでも連絡してください。",
+   "Your teacher reminds you about a deadline. Ask one question politely."
+  ]
+ ],
+ "passage": [
+  [
+   "休みの日の過ごし方",
+   "Describe how you spend your days off and what you'd like to try."
+  ],
+  [
+   "思い出に残っている旅行",
+   "Write about a trip you remember and one thing that happened."
+  ],
+  [
+   "わたしの町",
+   "Introduce your town: what is good about it and what could be better."
+  ],
+  [
+   "好きな食べ物",
+   "Write about a food you love: when you first ate it and why you like it."
+  ],
+  [
+   "日本語の勉強",
+   "Write about how you study Japanese and what is hard for you."
+  ],
+  [
+   "最近うれしかったこと",
+   "Write about something recent that made you happy."
+  ],
+  [
+   "スマホと生活",
+   "How does your phone help or get in the way of your daily life?"
+  ],
+  [
+   "子どものころの思い出",
+   "Write about a memory from your childhood."
+  ],
+  [
+   "健康のためにしていること",
+   "What do you do to stay healthy?"
+  ],
+  [
+   "将来の夢",
+   "Write about something you want to do in the future."
+  ]
+ ],
+ "speaking": [
+  [
+   "question",
+   "週末は たいてい 何を して いますか。",
+   "What do you usually do on weekends?"
+  ],
+  [
+   "question",
+   "最近 見た 映画や ドラマについて 話して ください。",
+   "Talk about a film or drama you watched recently."
+  ],
+  [
+   "question",
+   "どの 季節が いちばん 好きですか。どうしてですか。",
+   "Which season do you like best, and why?"
+  ],
+  [
+   "question",
+   "あなたの 住んで いる 町を 紹介して ください。",
+   "Introduce the town you live in."
+  ],
+  [
+   "question",
+   "日本語の 勉強で 難しいと 思う ことは 何ですか。",
+   "What do you find hard about studying Japanese?"
+  ],
+  [
+   "describe",
+   "レストランで 注文と 違う 料理が 来ました。店員に 伝えて ください。",
+   "You were served the wrong dish. Tell the staff."
+  ],
+  [
+   "describe",
+   "道に 迷いました。通りの 人に 駅への 行き方を 聞いて ください。",
+   "You're lost. Ask a passer-by how to get to the station."
+  ],
+  [
+   "describe",
+   "友だちとの 約束に 遅れそうです。電話で 謝って、理由を 説明して ください。",
+   "You're going to be late to meet a friend. Call, apologise and explain."
+  ],
+  [
+   "describe",
+   "買った ものが すぐ 壊れました。お店に 電話して 交換を お願いして ください。",
+   "Something you bought broke right away. Call the shop and ask for an exchange."
+  ],
+  [
+   "describe",
+   "上司に 明日 休みを 取りたいと お願いして ください。",
+   "Ask your boss for a day off tomorrow."
+  ],
+  [
+   "opinion",
+   "子どもは 小さい ころから 外国語を 勉強した ほうが いいと 思いますか。",
+   "Should children study a foreign language from an early age?"
+  ],
+  [
+   "opinion",
+   "在宅勤務と 会社で 働くのと、どちらが いいと 思いますか。",
+   "Working from home or at the office: which is better?"
+  ],
+  [
+   "opinion",
+   "旅行は 一人で 行くのと 友だちと 行くのと、どちらが 好きですか。",
+   "Do you prefer travelling alone or with friends?"
+  ],
+  [
+   "opinion",
+   "スマホは 子どもに 必要だと 思いますか。",
+   "Do children need smartphones?"
+  ],
+  [
+   "opinion",
+   "都会と 田舎、住むなら どちらが いいですか。",
+   "City or countryside: where would you rather live?"
+  ]
+ ]
+}

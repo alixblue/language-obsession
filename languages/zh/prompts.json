@@ -1,0 +1,173 @@
+{
+ "reply": [
+  [
+   "同事",
+   "明天上午的会改到下午三点了，你那边时间方便吗？要是不行我再跟大家协调一下。",
+   "A colleague moved tomorrow's meeting. Reply: say whether you can make it and suggest something if not."
+  ],
+  [
+   "朋友",
+   "周末天气不错，我们几个打算去郊区爬山，你要不要一起来？",
+   "A friend invites you hiking this weekend. Accept or decline politely and give a reason."
+  ],
+  [
+   "房东",
+   "下周二师傅要来检查一下热水器，大概上午十点到，家里得有人在。",
+   "Your landlord says a repair worker is coming. Reply about whether someone can be home."
+  ],
+  [
+   "快递",
+   "您好，您的包裹已经到小区门口了，但是联系不上您，请问放哪儿比较方便？",
+   "A courier can't reach you. Tell them where to leave the parcel."
+  ],
+  [
+   "朋友",
+   "我最近想学做饭，你平时都做什么菜？有没有简单一点儿的推荐？",
+   "A friend wants easy recipes. Recommend one dish and say why it's easy."
+  ],
+  [
+   "同学",
+   "下周的报告你准备得怎么样了？我有几个地方还没想好，能不能一起讨论一下？",
+   "A classmate asks to discuss next week's presentation. Suggest a time and place."
+  ],
+  [
+   "饭店",
+   "您好，您预订的是今晚七点四位，请问人数和时间有变化吗？",
+   "A restaurant confirms your booking. Change the number of people or the time."
+  ],
+  [
+   "老同学",
+   "好久不见！我下个月出差去你那儿，有空的话一起吃个饭吧？",
+   "An old classmate is visiting your city next month. Reply and suggest a plan."
+  ],
+  [
+   "领导",
+   "这个方案客户不太满意，你周五之前能不能再改一版？",
+   "Your manager asks for a revised plan by Friday. Reply realistically."
+  ],
+  [
+   "邻居",
+   "不好意思，昨天晚上我们家聚会可能有点儿吵，没影响到你休息吧？",
+   "A neighbour apologises for last night's noise. Reply naturally."
+  ]
+ ],
+ "passage": [
+  [
+   "我的一次旅行",
+   "Describe a trip you remember well: where, who with, and one thing that went wrong or surprised you."
+  ],
+  [
+   "网上购物的好处和坏处",
+   "Give your view on online shopping with one example from your own life."
+  ],
+  [
+   "一个对我影响很大的人",
+   "Write about someone who influenced you and how."
+  ],
+  [
+   "城市生活还是农村生活",
+   "Which would you choose to live in and why?"
+  ],
+  [
+   "怎么保持健康",
+   "Explain what you do (or plan to do) to stay healthy."
+  ],
+  [
+   "手机对生活的影响",
+   "How has your phone changed your daily life, for better or worse?"
+  ],
+  [
+   "学外语的经验",
+   "Share what has worked and what hasn't in learning a language."
+  ],
+  [
+   "我理想的工作",
+   "Describe your ideal job and what makes it ideal."
+  ],
+  [
+   "一次难忘的失败",
+   "Write about a failure and what you learned from it."
+  ],
+  [
+   "周末怎么过最好",
+   "Describe your ideal weekend and why."
+  ]
+ ],
+ "speaking": [
+  [
+   "question",
+   "你平时周末一般怎么过？",
+   "How do you usually spend your weekends?"
+  ],
+  [
+   "question",
+   "说说你最近看过的一部电影或者一本书。",
+   "Talk about a film or book you saw or read recently."
+  ],
+  [
+   "question",
+   "你最喜欢哪个季节？为什么？",
+   "Which season do you like best, and why?"
+  ],
+  [
+   "question",
+   "介绍一下你住的城市或者地区。",
+   "Introduce the city or area where you live."
+  ],
+  [
+   "question",
+   "你学中文的时候遇到过什么困难？你是怎么解决的？",
+   "What difficulties have you had learning Chinese, and how did you deal with them?"
+  ],
+  [
+   "describe",
+   "你在饭店点的菜上错了，你要跟服务员说明情况。",
+   "The restaurant brought you the wrong dish. Explain the situation to the waiter."
+  ],
+  [
+   "describe",
+   "你的航班取消了，请给朋友打电话说明情况，并商量接下来的安排。",
+   "Your flight was cancelled. Call a friend, explain, and agree on what to do next."
+  ],
+  [
+   "describe",
+   "你想跟房东商量提前退租，说说理由，并提出你的方案。",
+   "You want to end your lease early. Explain why to your landlord and propose a solution."
+  ],
+  [
+   "describe",
+   "你买的东西有质量问题，请给客服打电话要求退换。",
+   "Something you bought is faulty. Call customer service and ask to return or exchange it."
+  ],
+  [
+   "describe",
+   "同事请你帮忙，可是你手上的工作也很多，请你委婉地拒绝。",
+   "A colleague asks for help but you're swamped. Turn them down tactfully."
+  ],
+  [
+   "opinion",
+   "你觉得孩子应该从小学外语吗？为什么？",
+   "Should children start a foreign language early? Why?"
+  ],
+  [
+   "opinion",
+   "在家工作和去公司上班，你更喜欢哪一种？",
+   "Working from home or at the office: which do you prefer?"
+  ],
+  [
+   "opinion",
+   "有人说现在的年轻人压力太大，你同意吗？",
+   "Some say young people today are under too much pressure. Do you agree?"
+  ],
+  [
+   "opinion",
+   "你觉得旅游的时候应该跟团还是自由行？",
+   "When travelling, is a group tour or independent travel better?"
+  ],
+  [
+   "opinion",
+   "网络让人和人之间的关系更近了还是更远了？",
+   "Has the internet brought people closer or pushed them apart?"
+  ]
+ ]
+}

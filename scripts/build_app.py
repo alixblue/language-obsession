@@ -2,8 +2,9 @@
 
     python scripts/build_app.py
 
-Reads the vocabulary JSON in languages/*/vocab and the grammar/topic files, injects them into
-app/src/laoshi.html, wraps the page for standalone use (manifest, service worker, shim) and writes
+Reads the vocabulary JSON in languages/*/vocab, the Japanese verb list, the fixed grammar question
+banks (used by the offline placement check) and the writing/speaking prompt banks, injects them into
+app/src/laoshi.html (which keeps empty placeholders so it stays small enough to edit), wraps the page for standalone use (manifest, service worker, shim) and writes
 app/dist/. Run it after editing any vocab file, then commit.
 """
 import json, re, shutil, pathlib, glob, time
@@ -36,6 +37,20 @@ def inject(src, name, data, loop):
 
 page = inject(SRC, 'BIG', zh, 'BIG')
 page = inject(page, 'BIGJ', ja, 'BIGJ')
+
+def load(path):
+    return json.load(open(ROOT / path, encoding='utf8'))
+
+def inject_const(src, name, data):
+    pat = re.compile(r'const %s=.*?;//@data\n' % name, re.S)
+    assert pat.search(src), name
+    new = 'const %s=%s;//@data\n' % (name, json.dumps(data, ensure_ascii=False, separators=(',', ':')))
+    return pat.sub(lambda m: new, src, count=1)
+
+page = inject_const(page, 'JVERBS', load('languages/ja/grammar/verbs.json'))
+page = inject_const(page, 'QBANK', {'zh': load('languages/zh/grammar/question-bank.json'),
+                                    'ja': load('languages/ja/grammar/question-bank.json')})
+page = inject_const(page, 'PROMPTS', {'zh': load('languages/zh/prompts.json'), 'ja': load('languages/ja/prompts.json')})
 
 title = re.search(r'<title>(.*?)</title>', page).group(1)
 head = ('<!doctype html><html lang="en"><head><meta charset="utf-8">'

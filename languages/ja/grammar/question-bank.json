@@ -1,0 +1,314 @@
+[
+ {
+  "l": "N5",
+  "point": "time + に",
+  "q": "毎朝 7時 ＿＿ 起きます。",
+  "options": [
+   "に",
+   "で",
+   "を",
+   "が"
+  ],
+  "answer": 0,
+  "why": "Clock times take に."
+ },
+ {
+  "l": "N5",
+  "point": "place of action で",
+  "q": "図書館 ＿＿ 本を 読みました。",
+  "options": [
+   "で",
+   "に",
+   "を",
+   "へ"
+  ],
+  "answer": 0,
+  "why": "The place where an action happens takes で."
+ },
+ {
+  "l": "N5",
+  "point": "好き + が",
+  "q": "わたしは 犬 ＿＿ 好きです。",
+  "options": [
+   "が",
+   "を",
+   "に",
+   "で"
+  ],
+  "answer": 0,
+  "why": "好き/嫌い/上手 mark their object with が."
+ },
+ {
+  "l": "N5",
+  "point": "な-adjective negative",
+  "q": "この 部屋は あまり 静か ＿＿ ありません。",
+  "options": [
+   "では",
+   "くは",
+   "には",
+   "が"
+  ],
+  "answer": 0,
+  "why": "な-adjective negative: 静かではありません (casual: 静かじゃない)."
+ },
+ {
+  "l": "N5",
+  "point": "と (together with)",
+  "q": "週末、友だち ＿＿ 映画を 見に 行きました。",
+  "options": [
+   "と",
+   "を",
+   "に",
+   "で"
+  ],
+  "answer": 0,
+  "why": "と = with (a person you do something together with)."
+ },
+ {
+  "l": "N5",
+  "point": "〜に 行く (purpose)",
+  "q": "デパートへ くつを 買い ＿＿ 行きます。",
+  "options": [
+   "に",
+   "で",
+   "を",
+   "と"
+  ],
+  "answer": 0,
+  "why": "Verb stem + に 行く = go to do."
+ },
+ {
+  "l": "N4",
+  "point": "〜てある",
+  "q": "窓が 開けて ＿＿ 。",
+  "options": [
+   "あります",
+   "います",
+   "おきます",
+   "しまいます"
+  ],
+  "answer": 0,
+  "why": "Transitive verb + てある = someone did it and the result remains (窓が開けてある)."
+ },
+ {
+  "l": "N4",
+  "point": "〜そうだ (looks like)",
+  "q": "空が 暗いから、雨が 降り ＿＿ です。",
+  "options": [
+   "そう",
+   "よう",
+   "らしい",
+   "みたい"
+  ],
+  "answer": 0,
+  "why": "Verb stem + そうだ = looks like it is about to."
+ },
+ {
+  "l": "N4",
+  "point": "〜たことがある",
+  "q": "日本へ 行った ＿＿ が あります。",
+  "options": [
+   "こと",
+   "もの",
+   "ところ",
+   "の"
+  ],
+  "answer": 0,
+  "why": "た-form + ことがある = have done (experience)."
+ },
+ {
+  "l": "N4",
+  "point": "〜たら",
+  "q": "薬を 飲んだ ＿＿ 、熱が 下がりました。",
+  "options": [
+   "ら",
+   "のに",
+   "ても",
+   "し"
+  ],
+  "answer": 0,
+  "why": "〜たら with a past result: when I did…, (I found that)…"
+ },
+ {
+  "l": "N4",
+  "point": "〜なければならない",
+  "q": "明日は 早く 起き ＿＿ ばなりません。",
+  "options": [
+   "なけれ",
+   "なく",
+   "ない",
+   "なかっ"
+  ],
+  "answer": 0,
+  "why": "なければならない = must."
+ },
+ {
+  "l": "N4",
+  "point": "passive",
+  "q": "先生に 遅刻を 注意 ＿＿ 。",
+  "options": [
+   "されました",
+   "させました",
+   "しました",
+   "させられました"
+  ],
+  "answer": 0,
+  "why": "Passive of する: される (I was told off by the teacher)."
+ },
+ {
+  "l": "N3",
+  "point": "〜のに",
+  "q": "忙しい ＿＿ 、手伝って くれて ありがとう。",
+  "options": [
+   "のに",
+   "ので",
+   "から",
+   "ため"
+  ],
+  "answer": 0,
+  "why": "のに = even though (gratitude or surprise despite a situation)."
+ },
+ {
+  "l": "N3",
+  "point": "〜ころ",
+  "q": "子どもの ＿＿ 、よく この 公園で 遊んだ。",
+  "options": [
+   "ころ",
+   "うち",
+   "あいだに",
+   "まま"
+  ],
+  "answer": 0,
+  "why": "〜のころ = back when (a period of life)."
+ },
+ {
+  "l": "N3",
+  "point": "〜ために (purpose)",
+  "q": "健康の ＿＿ 、毎日 歩いて います。",
+  "options": [
+   "ために",
+   "ように",
+   "せいで",
+   "おかげで"
+  ],
+  "answer": 0,
+  "why": "Noun + のために = for the sake of."
+ },
+ {
+  "l": "N3",
+  "point": "〜まま",
+  "q": "電気を つけた ＿＿ 寝て しまった。",
+  "options": [
+   "まま",
+   "ながら",
+   "うちに",
+   "ところ"
+  ],
+  "answer": 0,
+  "why": "た-form + まま = leaving it as it was."
+ },
+ {
+  "l": "N3",
+  "point": "〜ふりをする",
+  "q": "彼は 何も 知らない ＿＿ を して いる。",
+  "options": [
+   "ふり",
+   "よう",
+   "こと",
+   "わけ"
+  ],
+  "answer": 0,
+  "why": "〜ふりをする = pretend to."
+ },
+ {
+  "l": "N3",
+  "point": "causative-passive",
+  "q": "嫌だったのに、母に 毎日 ピアノを 練習 ＿＿ 。",
+  "options": [
+   "させられた",
+   "させた",
+   "された",
+   "していた"
+  ],
+  "answer": 0,
+  "why": "させられる = was made to do (against one's will)."
+ },
+ {
+  "l": "N2",
+  "point": "〜おかげで",
+  "q": "彼の 努力 ＿＿ 、プロジェクトは 成功した。",
+  "options": [
+   "のおかげで",
+   "のせいで",
+   "にしては",
+   "に反して"
+  ],
+  "answer": 0,
+  "why": "おかげで = thanks to (a good result); せいで is for bad results."
+ },
+ {
+  "l": "N2",
+  "point": "〜にかかわらず",
+  "q": "天気 ＿＿ 、試合は 行われます。",
+  "options": [
+   "にかかわらず",
+   "にしては",
+   "にとって",
+   "について"
+  ],
+  "answer": 0,
+  "why": "にかかわらず = regardless of."
+ },
+ {
+  "l": "N2",
+  "point": "〜にしては",
+  "q": "子ども ＿＿ 、ずいぶん 難しい 本を 読むね。",
+  "options": [
+   "にしては",
+   "にとって",
+   "として",
+   "に対して"
+  ],
+  "answer": 0,
+  "why": "にしては = for (a …), considering it is."
+ },
+ {
+  "l": "N2",
+  "point": "〜以上は",
+  "q": "約束した ＿＿ 、守らなければ ならない。",
+  "options": [
+   "以上",
+   "上で",
+   "うちに",
+   "ばかりか"
+  ],
+  "answer": 0,
+  "why": "以上(は) = now that, since (an obligation follows)."
+ },
+ {
+  "l": "N2",
+  "point": "〜にもかかわらず",
+  "q": "彼は 忙しい ＿＿ 、毎日 ジムに 通って いる。",
+  "options": [
+   "にもかかわらず",
+   "からこそ",
+   "わけで",
+   "ついでに"
+  ],
+  "answer": 0,
+  "why": "にもかかわらず = in spite of."
+ },
+ {
+  "l": "N2",
+  "point": "〜上で",
+  "q": "説明書を よく 読んだ ＿＿ 、使って ください。",
+  "options": [
+   "上で",
+   "うちに",
+   "ばかりに",
+   "末に"
+  ],
+  "answer": 0,
+  "why": "た-form + 上で = after (doing it properly), then."
+ }
+]
