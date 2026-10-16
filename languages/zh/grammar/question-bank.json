@@ -1,0 +1,392 @@
+[
+ {
+  "l": "HSK 5",
+  "point": "万一",
+  "q": "你现在还不出发，____ 堵车就来不及了。",
+  "options": [
+   "万一",
+   "尽管",
+   "既然",
+   "只要"
+  ],
+  "answer": 0,
+  "why": "万一 = in case (something unlikely and bad happens)."
+ },
+ {
+  "l": "HSK 5",
+  "point": "居然",
+  "q": "他平时那么节省，____ 花五千块买了一双鞋。",
+  "options": [
+   "居然",
+   "果然",
+   "毕竟",
+   "简直"
+  ],
+  "answer": 0,
+  "why": "居然 marks a surprising, unexpected fact."
+ },
+ {
+  "l": "HSK 5",
+  "point": "毕竟",
+  "q": "别怪他了，他 ____ 还是个孩子。",
+  "options": [
+   "毕竟",
+   "居然",
+   "反而",
+   "简直"
+  ],
+  "answer": 0,
+  "why": "毕竟 = after all; it gives the deciding reason."
+ },
+ {
+  "l": "HSK 5",
+  "point": "不但没……反而……",
+  "q": "吃了药以后，他的病不但没好，____ 更严重了。",
+  "options": [
+   "反而",
+   "而且",
+   "从而",
+   "然而"
+  ],
+  "answer": 0,
+  "why": "不但没/不但不……，反而…… = not only not…, but on the contrary…"
+ },
+ {
+  "l": "HSK 5",
+  "point": "哪怕……也……",
+  "q": "____ 下大雨，比赛也会照常进行。",
+  "options": [
+   "哪怕",
+   "只要",
+   "除非",
+   "假如"
+  ],
+  "answer": 0,
+  "why": "哪怕……也…… = even if; it pairs with 也."
+ },
+ {
+  "l": "HSK 5",
+  "point": "自从",
+  "q": "____ 来了北京以后，他每天都坚持说中文。",
+  "options": [
+   "自从",
+   "从来",
+   "从此",
+   "当时"
+  ],
+  "answer": 0,
+  "why": "自从……以后 = ever since (a past point)."
+ },
+ {
+  "l": "HSK 5",
+  "point": "一旦……就……",
+  "q": "这件事 ____ 决定了，就不能再改了。",
+  "options": [
+   "一旦",
+   "一边",
+   "一直",
+   "一向"
+  ],
+  "answer": 0,
+  "why": "一旦……就…… = once (something happens), then…"
+ },
+ {
+  "l": "HSK 5",
+  "point": "似的",
+  "q": "她高兴得像个孩子 ____ 。",
+  "options": [
+   "似的",
+   "似乎",
+   "好像",
+   "仿佛"
+  ],
+  "answer": 0,
+  "why": "像……似的 = just like…; 似的 closes the comparison at the end."
+ },
+ {
+  "l": "HSK 5",
+  "point": "凭",
+  "q": "他 ____ 自己的努力考上了大学。",
+  "options": [
+   "凭",
+   "按",
+   "对",
+   "给"
+  ],
+  "answer": 0,
+  "why": "凭 = by virtue of, relying on (ability, effort, evidence)."
+ },
+ {
+  "l": "HSK 5",
+  "point": "把……一+动词",
+  "q": "他把门 ____ 关，头也不回地走了。",
+  "options": [
+   "一",
+   "了",
+   "着",
+   "过"
+  ],
+  "answer": 0,
+  "why": "把+宾语+一+动词: a quick, decisive action, often followed by what happens next."
+ },
+ {
+  "l": "HSK 6",
+  "point": "不禁",
+  "q": "听到这个消息，她 ____ 流下了眼泪。",
+  "options": [
+   "不禁",
+   "不断",
+   "不料",
+   "不必"
+  ],
+  "answer": 0,
+  "why": "不禁 = can't help (doing); an involuntary reaction."
+ },
+ {
+  "l": "HSK 6",
+  "point": "不料",
+  "q": "本以为他会同意，____ 他一口就拒绝了。",
+  "options": [
+   "不料",
+   "不禁",
+   "况且",
+   "何况"
+  ],
+  "answer": 0,
+  "why": "不料 = unexpectedly; introduces an outcome against expectation."
+ },
+ {
+  "l": "HSK 6",
+  "point": "明明",
+  "q": "你 ____ 知道答案，为什么不告诉我？",
+  "options": [
+   "明明",
+   "明白",
+   "总算",
+   "一再"
+  ],
+  "answer": 0,
+  "why": "明明 = clearly, obviously (used when the facts contradict what follows)."
+ },
+ {
+  "l": "HSK 6",
+  "point": "总算",
+  "q": "等了三个小时，车 ____ 来了。",
+  "options": [
+   "总算",
+   "明明",
+   "干脆",
+   "倒是"
+  ],
+  "answer": 0,
+  "why": "总算 = finally, at long last (after waiting or effort)."
+ },
+ {
+  "l": "HSK 6",
+  "point": "除非……否则……",
+  "q": "____ 你亲自去请他，否则他是不会来的。",
+  "options": [
+   "除非",
+   "凡是",
+   "无论",
+   "即使"
+  ],
+  "answer": 0,
+  "why": "除非……，否则…… = unless…, otherwise…"
+ },
+ {
+  "l": "HSK 6",
+  "point": "凡是……都……",
+  "q": "____ 参加比赛的人，都能得到一份纪念品。",
+  "options": [
+   "凡是",
+   "除非",
+   "不管",
+   "只有"
+  ],
+  "answer": 0,
+  "why": "凡是……都…… = every…, all who…"
+ },
+ {
+  "l": "HSK 6",
+  "point": "所",
+  "q": "这正是我 ____ 担心的问题。",
+  "options": [
+   "所",
+   "的",
+   "得",
+   "地"
+  ],
+  "answer": 0,
+  "why": "(主语+)所+动词+的+名词: formal structure marking the object of the verb."
+ },
+ {
+  "l": "HSK 6",
+  "point": "干脆",
+  "q": "太麻烦了，我们 ____ 打车去吧。",
+  "options": [
+   "干脆",
+   "明明",
+   "未必",
+   "一再"
+  ],
+  "answer": 0,
+  "why": "干脆 = simply, just (cut it short and decide)."
+ },
+ {
+  "l": "HSK 6",
+  "point": "未必",
+  "q": "贵的东西 ____ 质量就好。",
+  "options": [
+   "未必",
+   "不必",
+   "务必",
+   "何必"
+  ],
+  "answer": 0,
+  "why": "未必 = not necessarily."
+ },
+ {
+  "l": "HSK 6",
+  "point": "以便",
+  "q": "我们早点儿出发，____ 能赶上第一班车。",
+  "options": [
+   "以便",
+   "以免",
+   "从而",
+   "因而"
+  ],
+  "answer": 0,
+  "why": "以便 = so that (introduces the purpose); 以免 = so as to avoid."
+ },
+ {
+  "l": "HSK 7-9",
+  "point": "何况",
+  "q": "这道题连老师都不会，____ 是我们呢？",
+  "options": [
+   "何况",
+   "况且",
+   "甚至",
+   "而且"
+  ],
+  "answer": 0,
+  "why": "连……都……，何况……呢 = even … can't, let alone …"
+ },
+ {
+  "l": "HSK 7-9",
+  "point": "未免",
+  "q": "你这样说 ____ 有点儿过分了。",
+  "options": [
+   "未免",
+   "以免",
+   "何必",
+   "难道"
+  ],
+  "answer": 0,
+  "why": "未免 = rather, a bit too (a mild criticism)."
+ },
+ {
+  "l": "HSK 7-9",
+  "point": "宁可……也……",
+  "q": "他 ____ 放弃休假，也要把项目按时完成。",
+  "options": [
+   "宁可",
+   "与其",
+   "况且",
+   "固然"
+  ],
+  "answer": 0,
+  "why": "宁可……也要…… = would rather …, in order to …"
+ },
+ {
+  "l": "HSK 7-9",
+  "point": "与其……不如……",
+  "q": "____ 在家里干等，不如出去找找。",
+  "options": [
+   "与其",
+   "宁可",
+   "与否",
+   "何况"
+  ],
+  "answer": 0,
+  "why": "与其A，不如B = rather than A, better B."
+ },
+ {
+  "l": "HSK 7-9",
+  "point": "固然……但……",
+  "q": "这个办法 ____ 好，但成本太高。",
+  "options": [
+   "固然",
+   "固定",
+   "果然",
+   "既然"
+  ],
+  "answer": 0,
+  "why": "固然……，但…… = admittedly…, but…"
+ },
+ {
+  "l": "HSK 7-9",
+  "point": "之所以……是因为……",
+  "q": "他 ____ 能成功，是因为从不轻易放弃。",
+  "options": [
+   "之所以",
+   "所以",
+   "因此",
+   "因而"
+  ],
+  "answer": 0,
+  "why": "之所以……，是因为…… = the reason why … is that …"
+ },
+ {
+  "l": "HSK 7-9",
+  "point": "难免",
+  "q": "新手开车 ____ 会紧张，慢慢就好了。",
+  "options": [
+   "难免",
+   "未免",
+   "以免",
+   "避免"
+  ],
+  "answer": 0,
+  "why": "难免 = hard to avoid, bound to happen."
+ },
+ {
+  "l": "HSK 7-9",
+  "point": "不惜",
+  "q": "为了救孩子，他 ____ 冒生命危险。",
+  "options": [
+   "不惜",
+   "不必",
+   "不免",
+   "不禁"
+  ],
+  "answer": 0,
+  "why": "不惜 = not hesitate to (pay a high price)."
+ },
+ {
+  "l": "HSK 7-9",
+  "point": "以至于",
+  "q": "他工作太投入了，____ 连饭都忘了吃。",
+  "options": [
+   "以至于",
+   "以便",
+   "以免",
+   "何况"
+  ],
+  "answer": 0,
+  "why": "以至于 = to the extent that (a result)."
+ },
+ {
+  "l": "HSK 7-9",
+  "point": "务必",
+  "q": "请 ____ 在周五前提交材料。",
+  "options": [
+   "务必",
+   "必然",
+   "未必",
+   "势必"
+  ],
+  "answer": 0,
+  "why": "务必 = be sure to (a firm request)."
+ }
+]

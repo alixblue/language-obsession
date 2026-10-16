@@ -15,7 +15,7 @@ A personal language-learning project: one tutor, one library per language, one p
 | `progress/` | Profile template, corrections log, session log |
 | `app/src/laoshi.html` | The app (single file) |
 | `app/shim.js`, `manifest.webmanifest`, `sw.js` | Make the same file run as a standalone phone app |
-| `scripts/build_app.py` | Builds `app/dist` from the vocabulary files |
+| `scripts/build_app.py` | Builds `app/dist` from the vocabulary, grammar-bank and prompt files |
 
 ## Library contents
 
@@ -30,7 +30,7 @@ A personal language-learning project: one tutor, one library per language, one p
 | Japanese | N2 | 1,868 |
 | Japanese | N1 | 2,979 |
 
-Chinese meanings for HSK 7–9 are missing in the source list; the app writes them on demand. Examples are written on demand for all lists except a few starter words.
+Chinese meanings for HSK 7–9 were missing in the source list and are now filled from CC-CEDICT. Example sentences are written on demand (AI, only when you press the button) except for a few starter words.
 
 ## Using it
 
@@ -44,5 +44,7 @@ Chinese meanings for HSK 7–9 are missing in the source list; the app writes th
 - Chinese grammar and topics: official HSK syllabus 2025-11 (in force 2026-07).
 - Exam structures: official HSK sample papers (HSK 5, 6, 7–9) and the JLPT layout.
 - Japanese vocabulary: JLPT N5–N1 word lists (readings and English meanings from a dictionary export).
+- HSK 7–9 English meanings: [CC-CEDICT](https://cc-cedict.org/) (CC BY-SA 4.0), matched by characters and pinyin.
+- Fixed grammar questions, Japanese verb list, prompt banks: `languages/<code>/grammar/` and `languages/<code>/prompts.json`, used by the app's offline placement check, drills and prompts.
 
 The source PDFs and audio files are not included in this folder.
