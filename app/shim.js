@@ -1,6 +1,7 @@
 /* Standalone shim: gives the app the small part of the Claude viewer API it uses,
    so the same single file runs as a normal website / phone app.
-   AI is OPTIONAL. Without a key, cards, progress, pacing, the log and backups all work.
+   AI is OPTIONAL and off until a key is saved on the Today screen. Without it, cards, placement,
+   drills, prompts, progress, pacing, the log and backups all work.
    - claude.use('sample')    -> uses YOUR key, kept in this browser only. Two providers, chosen by the key:
         key starting "sk-ant-" -> Anthropic API (paid)
         any other key         -> Google Gemini API (has a free tier, no card needed)
@@ -11,13 +12,9 @@
   if(window.claude&&window.claude.use)return;
   const KEY='laoshi_api_key';
   const CLAUDE={quick:'claude-haiku-5-5',default:'claude-sonnet-5-5',complex:'claude-opus-5-5'};
+  // The key is entered on the Today screen (AI key card). Never ask with a pop-up: no key simply means AI is off.
   function getKey(){
     let k='';try{k=localStorage.getItem(KEY)||''}catch(e){}
-    if(!k){
-      k=window.prompt('AI features need a key. Free option: create one at aistudio.google.com (Get API key, no card) and paste it here. It starts with AIza. Leave empty to skip; everything else keeps working. The key stays only in this browser.')||'';
-      k=k.trim();
-      if(k)try{localStorage.setItem(KEY,k)}catch(e){}
-    }
     return k.trim();
   }
   // Anthropic keys start with sk-ant-. Anything else is treated as a Google (Gemini) key, whatever its format.
