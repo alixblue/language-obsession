@@ -594,12 +594,25 @@ async function copyForClaude(kind){
 }
 
 /* ============ SPEECH ============ */
+/* Text-to-speech uses the phone's own voices. Chrome on Android drops an utterance that is
+   garbage-collected, spoken straight after cancel(), or spoken before the voice list has loaded,
+   so keep a reference, only cancel when something is playing, and wait for the voices once. */
+let ttsVoices=[],ttsUtt=null;
+function loadVoices(){try{ttsVoices=speechSynthesis.getVoices()||[]}catch{ttsVoices=[]}return ttsVoices}
+try{loadVoices();speechSynthesis.addEventListener('voiceschanged',loadVoices)}catch{}
+const voiceFor=lang=>{const vs=loadVoices().slice().sort((a,b)=>(b.localService?1:0)-(a.localService?1:0)),base=lang.split('-')[0];return vs.find(v=>(v.lang||'').replace('_','-')===lang)||vs.find(v=>(v.lang||'').replace('_','-').toLowerCase().startsWith(base))};
 function speak(text,rate){
+  text=String(text||'').trim();if(!text)return;
+  if(!('speechSynthesis' in window)||typeof SpeechSynthesisUtterance==='undefined'){toast('This browser cannot play speech. Try Chrome.');return}
+  const lang=L().speech,go=()=>{
+    const u=new SpeechSynthesisUtterance(text);u.lang=lang;u.rate=rate||M().prof.rate||0.85;u.volume=1;
+    const v=voiceFor(lang);if(v)u.voice=v;
+    u.onerror=e=>{if(e.error!=='interrupted'&&e.error!=='canceled')toast('Audio failed ('+e.error+'). Check the phone volume and its text-to-speech settings.')};
+    ttsUtt=u;speechSynthesis.resume();speechSynthesis.speak(u);
+  };
   try{
-    speechSynthesis.cancel();
-    const u=new SpeechSynthesisUtterance(text);u.lang=L().speech;u.rate=rate||M().prof.rate||0.85;
-    const v=speechSynthesis.getVoices().find(v=>v.lang&&v.lang.replace('_','-').startsWith(L().speech));if(v)u.voice=v;
-    speechSynthesis.speak(u);
+    if(loadVoices().length&&!voiceFor(lang))toast('No '+L().en+' voice on this phone. Install one: Settings → Text-to-speech (Google), then add '+L().en+'.');
+    if(speechSynthesis.speaking||speechSynthesis.pending){speechSynthesis.cancel();setTimeout(go,120)}else go();
   }catch{toast('Audio playback is not available here.')}
 }
 const SR=window.SpeechRecognition||window.webkitSpeechRecognition;
